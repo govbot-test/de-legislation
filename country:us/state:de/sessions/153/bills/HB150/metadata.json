@@ -1,0 +1,264 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 150",
+  "title": "AN ACT AMENDING TITLE 10 OF THE DELAWARE CODE RELATING TO CIVIL ARRESTS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act prohibits civil arrests from being made in courthouses or Department of Labor Offices where the Delaware Industrial Accident Board conducts hearings. The prohibition does not apply where there is a judicial order authorizing the civil arrest or where the law enforcement officer seeking to make the civil arrest has provided the court or administrative body with detailed advance notice regarding the proposed arrest. \r\nThis Substitute differs from the original House Bill No. 150 in that it adds locations and proceedings related to the Delaware Industrial Accident Board to the prohibition and incorporates changes made by House Amendment No. 2 into the body of the bill."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Civil Arrest/Courthouses/Prohibit w/o Judicial Warrant"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb150"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 150",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 25 YES 13 NO 3 ABSENT",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in Senate",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 18 YES 1 NO 2 NOT VOTING",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 150",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142998&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142998&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142972",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1",
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

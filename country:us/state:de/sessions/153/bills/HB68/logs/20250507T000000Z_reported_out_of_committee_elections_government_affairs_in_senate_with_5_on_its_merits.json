@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 5 On Its Merits",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Elections & Government Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141876",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 68"
+}

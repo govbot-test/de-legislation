@@ -1,0 +1,379 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 286",
+  "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO COMMERCE AND TRADE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act clarifies portions of Chapter 84 of Title 21 of the Delaware Code pertaining to new recreational vehicle, vessel, or new recreational trailer manufacturer-dealer agreements. The Act includes the following provisions:\r\n\r\nDefinitions.\r\nThe Act amends \u00a7 8401 of Title 21 and clarifies the definitions of \"new recreational trailer\" and \"new recreational vehicle\" and adds definitions of \"all-terrain vehicle,\" \"off-highway vehicle,\" \"side-by-side vehicle,\" and \"vessel.\"\r\n\r\nWritten agreements.\r\nManufacturers are required to specify in writing to their new recreational vehicle dealers licensed in the state the dealers' obligations for pre-delivery preparation, manufacturer-sponsored maintenance programs, manufacturer extended warranty, certified pre-owned warranty, manufacturer-issued service contracts, parts exchange programs, recall, and warranted service on the dealers' products. In addition, manufacturers must compensate their new recreational vehicle dealers for these services and provide the dealers with a schedule of compensation and the time allowances for the performance of the work and services.\r\n\r\nTermination, cancellation, nonrenewal, or alteration of a dealership.\r\nIn the event a new recreational vehicle dealer terminates, cancels, or fails to renew a manufacturer-dealer agreement for good cause, and the manufacturer fails to cure the deficiencies, at the new recreational vehicle dealer's election and within 45 days of the termination, cancellation, or nonrenewal, the manufacturer must, in addition to its existing obligations, compensate the dealer for any transporting, handling, packing, storing, and loading of any returned parts, tools, and equipment.\r\n\r\nWarranty obligations.\r\nWith respect to parts reimbursement, reasonable compensation to a new recreational vehicle dealer may not be less than the rate charged by the dealer for like services to nonwarranty customers for nonwarranty parts, service, or actual wholesale cost, plus a minimum 40% handling and the cost of any freight to return the warranty parts to the warrantor. A new recreational vehicle dealer must notify the warrantor within 180 days if it is unable to perform any warranty repairs.\r\n\r\nIn addition, a schedule of compensation for warranty services must include reasonable compensation for diagnostic work, parts, repair service, and labor. Time allowances for the diagnosis and performance of warranty work and services must be reasonable and adequate. With respect to manufacturer-sponsored maintenance programs, manufacturer extended warranty, certified pre-owned warranty, manufacturer-issued service contracts, parts exchange programs, recall and warranty parts, and labor reimbursement, reasonable compensation may not be less than the rate charged by the dealer for like service to non-warranty customers for nonwarranty parts, services, and repairs. If a manufacturer furnishes a part of a component to a dealer at no or a reduced cost, the manufacturer must compensate the dealer in the same manner as warranty parts compensation, less the dealer cost for the part or component as listed in the manufacturer's price schedule.\r\n\r\nAssociation standing. \r\nAn association that has at least 4 recreational vehicle dealers as members, substantially all of whom are new recreational vehicle dealers within the State, and that represents the collective interests of its members, has standing to file a petition or civil action against a manufacturer regulated under this chapter for itself or on behalf of any or all of its members. Such an association also has standing to intervene in an action against a manufacturer regulated under this chapter previously filed by an individual member or members of the association to enforce the provisions of this chapter. \r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Manufacturer Agreements/Vehicle/Vessel/Trailer/Clarify"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb286"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 5 On Its Merits",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 8 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 286 - Introduced and Placed With Bill",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 286 - Passed In House by Voice Vote",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 40 YES 1 ABSENT",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to SB 286",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143638&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143638&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143129",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

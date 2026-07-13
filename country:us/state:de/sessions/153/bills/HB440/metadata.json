@@ -1,0 +1,107 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 440",
+  "title": "AN ACT PROPOSING AN AMENDMENT TO ARTICLE XVI OF THE DELAWARE CONSTITUTION RELATING TO CONSTITUTIONAL AMENDMENTS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a Substitute for House Bill No. 440. Like House Bill No. 440, this Substitute Act is the first leg of an amendment to the Delaware Constitution to authorize the General Assembly to hold a referendum on a proposed constitutional amendment in lieu of repassage by the next General Assembly. This Substitute Act also provides that constitutional amendments must be limited to a single subject, expressed in the bill\u2019s title, like other bills enacted by the General Assembly (Section 16 of Article II of the Delaware Constitution).\r\n\r\nThis Substitute Act differs from House Bill No. 440 as follows:\r\n(1) By making technical corrections.\r\n(2) By keeping in the Constitution the amount of time before the general election that the General Assembly must disseminate notice to the public regarding the proposed constitutional amendment.\r\nThis Substitute Act does not make any additional substantive changes to House Bill No. 440.\r\n\r\nAmending the Delaware Constitution requires not only the passing of the changes in this Act, but also passage of the same changes after the next general election by the next General Assembly.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article XVI of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend the Delaware Constitution."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Const. Amend./1st Leg/Referendum/Const. Amend."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb440"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill HB 440, and Assigned to Administration Committee in House",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 3 On Its Merits, 1 Unfavorable",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143541",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

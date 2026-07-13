@@ -1,0 +1,191 @@
+{
+  "legislative_session": "153",
+  "identifier": "HCR 82",
+  "title": "DIRECTING THE BEHAVIORAL HEALTH CONSORTIUM TO PRODUCE A COMPREHENSIVE REPORT ON THE STATE OF PERINATAL MENTAL HEALTH IN THE STATE OF DELAWARE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This House Concurrent Resolution establishes the purpose and protocol for the creation of a state of the state report on perinatal mental health in Delaware. The report is to be prepared by the Behavioral Health Consortium in consultation with its Maternal Mental Health Working Group, the Department of Health and Social Services, the Delaware Health Commission\u2019s Health Workforce Subcommittee, the Delaware Perinatal Quality Collaborative, and the Maternal and Child Death Review Committee for review by the Governor, the Delaware State Senate, the Delaware House of Representatives, the Senate Health and Social Services Committee, the House Health and Human Development Committee, and the Director and Librarian of the Division of Legislative Services by December 1, 2026, and is to include a summary of current state programming, training and education, gaps in services, funding streams, demographic information, performance outcomes, and utilization data as well as any recommendations for addressing access and racial and socioeconomic disparities."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Perinatal Mental Health Report/Create"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hcr82"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Health & Human Development Committee in House",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 13 Favorable",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed In House by Voice Vote",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Melissa Minor-Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Minor-Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142776",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

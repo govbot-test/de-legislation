@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment SA 3 to HB 75 - Passed By Senate. Votes: 14 YES 6 NO 1 ABSENT",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141915",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 75"
+}

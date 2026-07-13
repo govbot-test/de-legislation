@@ -1,0 +1,270 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 349",
+  "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO DISABLED VETERANS' SCHOOL TAX CREDIT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act modifies the eligibility standard from 100% disability to 80% disability or greater for veterans to qualify for the credit against school taxation on qualified property and corrects a typographical error.\r\nSection 1917 of Title 14 currently appears in 2 versions in the Code because an unrelated change in the statute will occur in 2028. This Act therefore contains both versions of the Code to indicate the intention that the change made by this Act will persist through the unrelated 2028 scheduled statutory change."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Disabled Veterans/School Tax Credit/Modify"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb349"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in House",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 349 - Introduced and Placed With Bill",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in House with 3 Favorable, 8 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan W. Shupe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bryan W. Shupe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valerie Jones Giltner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Valerie Jones Giltner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654092",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143046",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 283",
+  "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO DENTAL HYGIENE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act expands the scope of practice for dental hygienists in this State. Allowing dental hygienists to use the full range of their education and expertise when providing oral health services will help alleviate provider shortages that make it challenging for Delawareans to obtain dental care. In particular, this Act will help fill gaps in access to preventative oral health care. \r\n\r\nOral health is inseparable from overall health, and patients are best served when care is delivered through an integrated, team-based model. Dental hygienists play a vital and respected role in prevention, education, and early identification of disease. A collaborative dental team where each provider practices at the top of their education within a structured system of referral, communication, and accountability ensures patients receive timely preventative services along with accurate diagnosis and appropriate treatment. This approach strengthens access while preserving the standard of care and protecting the public.\r\n\r\nThis Act grants dental hygienists the authority to do all of the following, in addition to the services they currently provide: \r\n\r\n1. Administer and dispense topical agents under the standing order of a dentist providing general supervision.\r\n2. Prescribe, administer, and dispense fluoride under the standing order of a dentist providing general supervision\r\n3. Apply sealants without the need for a dentist to examine a patient beforehand, provided a dentist will see the patient within 12 months of receiving treatment. \r\n4. Engage in dental hygiene assessment and treatment planning within the scope of the authority of a dental hygienist as defined by the Board of Dentistry and Denal Hygiene based on education and experience.\r\n5. Provide direct access to prophylaxis without the need for a dentist to examine a patient beforehand, provided a dentist will see the patient within 12 months of receiving treatment. \r\n6. Directly supervise dental assistants in a manner to be prescribed by the Board of Dentistry and Dental Hygiene.\r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Dental Hygienists/Scope of Practice/Expand"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb283"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Legislative Oversight & Sunset Committee in Senate",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Re-Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 283 - Introduced and Placed With Bill",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 4 Favorable, 1 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 283 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Sunset Committee (Policy Analysis & Government Accountability) Committee in House",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability)",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Sunset Committee (Policy Analysis & Government Accountability)) in House with 5 On Its Merits",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 40 YES 1 ABSENT",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 283",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143130&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143130&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143116",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "SA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

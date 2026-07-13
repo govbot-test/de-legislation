@@ -1,0 +1,137 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 252",
+  "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO CONTROLLED SUBSTANCES AND COUNTERFEIT CONTROLLED SUBSTANCES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Substitute for House Bill No. 252, like House Bill No. 252, makes a technical correction and decriminalizes the use or consumption of a personal use quantity of a controlled substance or counterfeit controlled substance in an area accessible to the public, instead making it a civil violation with a fine of up to $50 for a first offense and up to $100 for subsequent offenses. \r\nThis Substitute differs from House Bill No. 252 in that it does not decriminalize the use of or consumption of a personal use quantity by individuals in moving vehicles. This Substitute does not change the penalty (up to a $200 fine, up to 5 days imprisonment, or both)  for a person operating a moving vehicle while using a personal use quantity, but changes the penalty for passengers to a $100 fine with no possibility of prison time."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Controlled Substance/Consumption/Civil Violation"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb252"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 252",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142924",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

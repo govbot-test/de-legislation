@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By House. Votes: 12 YES 23 NO 1 NOT VOTING 5 ABSENT",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141900",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 8"
+}

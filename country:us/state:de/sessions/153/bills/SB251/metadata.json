@@ -1,0 +1,128 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 251",
+  "title": "ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO UNBORN CHILDREN.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Like Senate Bill No. 251, this Act protects the life of the unborn child at a time when the potential for the child to survive outside the womb increases, especially with the advancement of medical procedures. Specifically, this Act repeals the current sections of the Delaware Code relating to termination of human pregnancy and enacts The Pain-Capable Unborn Child Protection Act.\r\n\r\nSenate Substitute No. 1 for Senate Bill No. 251 differs from Senate Bill No. 251 as follows:\r\n\u2022\tThe definitions section is moved to \u00a7 1790A of Title 24 and the legislative findings section is moved to \u00a7 1790 of Title 24.\r\n\u2022\tRevises the definition of \u201cnonviable\u201d by clarifying that \u201cnonviable\u201d means the condition will result in the death of the unborn child upon birth or shortly thereafter and that \u201cnonviable\u201d does not include conditions with which the child may survive outside of the uterus with medical treatment.\r\n\u2022\tThe prevention of the mother\u2019s death is the only exception to performing an abortion without determining the probably post-fertilization age of a fetus in a medical emergency or to performing an abortion of an unborn child capable of feeling pain. Under SB 251, there were also exceptions in both situations if the abortion is necessary to avert a serious health risk to the unborn child\u2019s mother.  \r\n\u2022\tMakes corresponding changes to the definitions for Subchapter IX of Chapter 17 of Title 24. \r\n\u2022\tChanges the due date for the first report required under \u00a7 1794A of Title 24 from June 30, 2026, to June 30, 2027.\r\n\u2022\tRemoves the severability provision because \u00a7 308 of Title 1 makes any provision in the Code severable, so that the invalidity of a provision does not affect provisions that can be given effect without the invalid provisions.\r\n\r\nThis Act also makes corresponding changes to \u00a7 1702 of Title 24, technical corrections to SB 251, and technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "The Pain-Capable Unborn Child Protection Act/Enact"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb251"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 251, and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy D. Dukes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Timothy D. Dukes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard G. Collins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Richard G. Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan W. Shupe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bryan W. Shupe\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143086",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

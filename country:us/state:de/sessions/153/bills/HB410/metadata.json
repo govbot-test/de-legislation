@@ -1,0 +1,161 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 410",
+  "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO EARLY CHILDHOOD EDUCATION ENDOWMENT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act establishes an Early Childhood Education Endowment. For the fiscal year ending June 30, 2026, the State Treasurer is directed to transfer 1% of the annual revenue from the Corporate Franchise Tax to initially fund the Endowment. The Endowment is invested by the State Treasurer under a fiduciary standard. Programmatic administration and disbursement of released funds is the responsibility of the Department of Education in consultation with the IRMC to oversee the operation, expansion, and disbursements of the Endowment.\r\nAnnual draw rates are capped at the prior fiscal year's net investment return on endowment assets and may not exceed 7.5% of total endowment balances in any year. The State Treasurer sets the draw rate after reviewing investment performance, endowment growth projections, and long-term sustainability. The State Treasurer may commingle endowment assets with other State Treasurer-managed investment portfolios for efficiency, provided that the endowment's proportionate share of income and gains is separately accounted for. \r\n\"Expansion costs\" include expenses to increase early child care and education program provider payment rates, increase equitable access and affordability of high quality early childhood education, extend the hours of operation covered, or to sustain such services.\r\n\"Programmatic costs\" include costs for parent and early child care and education enrollment campaigns, local governance partners, needs assessment technical assistance, facilities program technical assistance, and workforce recruitment and scholarships for educators.\r\nNot later than June 30 of each year, the State Treasurer must submit to the IRMC and the General Assembly an annual endowment report including: (1) total endowment market value; (2) net investment return for the prior fiscal year; (3) the draw rate authorized for the current fiscal year and the basis for that determination, including a 10-year sustainability projection; (4) total funds released to DOE and the purposes for which such funds were expended; and (5) any recommended adjustments to the draw rate for the ensuing fiscal year.\r\nNot later than January 1, 2033, and every 5 years thereafter, the Secretary of DOE must prepare an impact analysis concerning the operations of the Early Childhood Education Endowment and the effect that the expenditure of funds from the endowment has had on the availability, affordability, and quality of early child care in the State."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb410"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Administration Committee in House",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Krista Griffith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Krista Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143450",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

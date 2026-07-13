@@ -1,0 +1,166 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 215",
+  "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO THE FAIRNESS IN GIRLS\u2019 SPORTS ACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act generally requires a student athlete to compete for athletic teams or in sports associated with the student athlete\u2019s biological sex, as determined at or near birth and based on the student athlete\u2019s birth certificate or other government record if a birth certificate is unobtainable. An exception is permitted to allow female athletes to compete in male sports if a corresponding female sport is not available.\r\n\r\nTo facilitate this Act, a school district, charter school, or Delaware Interscholastic Athletic Association member school must designate an athletic team or sport sponsored by the school district, charter school, or Delaware Interscholastic Athletic Association member school based on the biological sex of students."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Fairness in Girls' Sports Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb215"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in Senate",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy D. Dukes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Timothy D. Dukes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard G. Collins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Richard G. Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronald E. Gray",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ronald E. Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142743",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 168",
+  "title": "AN ACT TO AMEND TITLE 4 OF THE DELAWARE CODE RELATING TO ALCOHOLIC LIQUORS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Senate Substitute 1 for SB 168 allows for the delivery of alcoholic liquors from any entity with a valid off-premise license. In addition, this substitute provides that acts of a licensed consumer delivery permittee or a delivery driver are not attributable to the retailer. \r\nThis substitute bill differs from SB 168 in that it clarifies that \u00a7 516 of Title 4 applies to package stores, restaurants, and clubs, and not to hotels, grocery stores, convenience stores, drug stores, tobacco retailers, or cigar stores. This substitute bill also separates a subsection into two parts, addressing curbside sales and deliveries, for purposes of clarity. In addition, this substitute bill provides that a third-party delivery vendor may charge package stores no more than a single, flat rate that is applicable to all package stores that enter into a delivery contract with the third-party delivery vendor\u2014that is, the third-party vendor may not charge a different rate to different stores, or a different rate for different deliveries from the same store. Finally, this substitute bill provides that it takes effect 6 months after its enactment."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Alcoholic Liquors/Delivery/Allow"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb168"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 168, and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 1 Favorable, 6 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 10 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Appropriations) in House with 4 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 36 YES 1 NO 4 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654654",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143128",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

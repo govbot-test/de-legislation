@@ -1,0 +1,102 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 331",
+  "title": "AN ACT TO AMEND TITLE 25 OF THE DELAWARE CODE RELATING TO GARAGEKEEPER'S LIENS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act allows a lienholder that has a lien under \u00a7 3901 of Title 25, often called a garagekeeper\u2019s lien, to recover reasonable attorney\u2019s fees from the proceeds of a sale to satisfy a garagekeeper\u2019s lien. If the lienholder is not paid within 30 days after the lien is created, the lienholder may apply to a Justice of the Peace Court to sell the property. Under \u00a7 3903 and \u00a7 3905 of Title 25, the lienholder may recover the costs of the sale and the lien amount. Applying for authorization to sell property to satisfy a garagekeeper\u2019s lien is a detailed process and many lienholders need to hire an attorney to help. But a court will not grant attorney\u2019s fees without express statutory authority. This Act amends \u00a7 3903 and \u00a7 3905 to expressly allow a lienholder to recover attorney\u2019s fees from the proceeds of a sale to satisfy a garagekeeper\u2019s lien.\r\n\r\nThis Act also allows excess proceeds from a garagekeeper\u2019s lien sale to be used to satisfy other outstanding judgments against the owner of the property sold. Currently, under \u00a7 3905 of Title 25, sale proceeds are first used to pay the garagekeeper\u2019s lien and costs related to the lien sale. Any extra proceeds are  deposited with the Court and used to pay other liens on or security interests in the property sold. If there are still proceeds remaining, the Court must give the excess proceeds to the property owner or, if the property owner cannot be found, to the State Treasurer who holds the proceeds for the property owner to claim within 1 year. If the property owner does not claim the excess proceeds within 1 year, the excess proceeds are placed in the General Fund. Generally, money held in custody of the law may not be attached to satisfy an outstanding judgment. But in several cases, including Lowe v. Hulliger, 86 A.2d 749 (Del. Super. Ct. 1952), Delaware Courts have recognized an exception to this rule. Money left over that is due to a defendant or debtor after all legal obligations are paid may be attached to satisfy another judgment against the defendant or debtor. This Act codifies the exception for garagekeeper\u2019s lien sale proceeds by allowing the Court to pay judgment creditors who apply within 30 days of the sale to attach any excess sale proceeds remaining after all other costs, liens, and security interests have been paid and before the excess sale proceeds are paid to the property owner.\r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Garagekeeper's Lien/Attorney's Fees/Allow"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb331"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Buckson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Eric Buckson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143394",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

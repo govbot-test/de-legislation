@@ -1,0 +1,195 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 314",
+  "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO CRIMINAL PROCEDURE, WITNESSES AND EVIDENCE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Like the original bill, Senate Substitute 1 for Senate Bill 314 modernizes the Rape Shield provisions in Title 11 of the Delaware Code, \u00a7\u00a7 3508 and 3509 and provides that in any prosecution for any degree of rape, unlawful sexual intercourse, unlawful sexual penetration or unlawful sexual contact, any evidence that the complaining witness made a false accusation of unlawful sexual conduct against any person on another occasion is inadmissible unless it complies with the procedure set forth in \u00a7 3508 of Title 11, is relevant and is material to a fact in issue in the case, and the inflammatory or prejudicial nature of the evidence does not outweigh the probative value of the evidence.\n\nThis Senate Substitute differs from the original in that it establishes a separate procedure under \u00a7 3508(b) of Title 11 to address prior false accusations of unlawful sexual conduct by the complaining witness, providing a distinct set of standards for handling the unique issues surrounding this type of evidence."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Rape Shield Provisions/Modernize"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb314"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 314, and Assigned to Judiciary Committee in Senate",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 5 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143562",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

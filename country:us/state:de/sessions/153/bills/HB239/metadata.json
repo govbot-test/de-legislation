@@ -1,0 +1,144 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 239",
+  "title": "AN ACT PROPOSING AN AMENDMENT TO SECTION 9 OF ARTICLE II OF THE DELAWARE CONSTITUTION RELATING TO LEGISLATIVE RULES OF PROCEEDINGS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This is the First Leg Constitutional Amendment to require a three-fifths vote to suspend rules."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Const. Amend./1st Leg/3/5 Vote/Suspend Rules"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb239"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Administration Committee in House",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Motion to Release Failed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeffrey N. Spiegelman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeffrey N. Spiegelman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142713&legislationTypeId=1&docTypeId=2&legislationName=HB239",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142713&legislationTypeId=1&docTypeId=2&legislationName=HB239",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142713",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

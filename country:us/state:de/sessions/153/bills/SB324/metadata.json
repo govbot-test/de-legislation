@@ -1,0 +1,199 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 324",
+  "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO DEADLY WEAPONS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Senate Bill No. 188, enacted during this General Assembly, clarified that the law-enforcement agency practice of purchasing firearms for that agency\u2019s law-enforcement officers for use by the officers in their official duties is exempted from the background check requirements under \u00a7\u00a7 1448A, 1448B, and 1448D of Title 11 under our State\u2019s permit to purchase firearms laws. \r\nThis Act provides the same exemption from background check requirements for a qualified constable agency representative. A qualified constable agency representative means a constable working for an employer, as defined under \u00a7 5602 of Title 24, that has authorized the procurement of handguns by the constable on behalf of any constables working for that employer. For purposes of this Act, \u201cconstable\u201d means an individual who satisfies all of the following:\r\n(1) Commissioned under Chapter 56 of Title 24.\r\n(2) Licensed to carry a firearm by the Professional Licensing Section of the Delaware State Police.\r\n(3) Authorized by the Constable Board of Examiners to carry a firearm in the performance of the constable\u2019s \r\nofficial duties.\r\n\r\nThis Act also makes void a permit to purchase and gives the Director of the State Bureau of Identification (SBI) permission to revoke a permit to purchase if the person is no longer a qualified constable agency representative."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Firearms Purchases/Constable Agency Representative"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb324"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Executive Committee in Senate",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 7 Favorable",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 2 Favorable, 4 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 40 YES 1 ABSENT",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Elizabeth Lockman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"S. Elizabeth Lockman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143331",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 409",
+  "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO PROSTITUTION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This adds knowingly \u201coperating\u201d, \u201cconducting\u201d, or \u201cadvertising\u201d prostitution businesses as acts that constitute promoting prostitution in the second degree under under \u00a7 1352 of Title 11. This Act also defines \u201cillicit massage establishment\u201d and clarifies that a person may be guilty of promoting prostitution in the second degree under \u00a7 1352 of Title 11 for managing, supervising, and controlling an illicit massage establishment. Likewise, under this Act, a person may be guilty of promoting prostitution in the second degree for operating, conducting, or advertising an illicit massage establishment. \r\n\r\nThis Act defines \u201cillicit massage establishment\u201d as an establishment that facilitates prostitution using the cover of either of the following: \r\n(1) A massage establishment, as defined in \u00a7 5302 of Title 24.\r\n(2) A place where the practice of massage and bodywork, as defined in \u00a7 5302 of Title 24, is offered.\r\n\r\nThis Act\u2019s definition is based on those used by national and state human trafficking prevention organizations. \r\n\r\nLaw enforcement has noted a trend where an illicit massage establishment is shut down only to be reopened again by the same operators. By ensuring it is clear that promoting prostitution in the second degree is an available offense to charge, this Act intends to dissuade the operation and reopening of illicit massage establishments. \r\n\r\nThis Act updates internal references elsewhere in the Code to account for the addition of subsections in \u00a7 1352 to remove the undesignated paragraph. This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Prostitution Businesses/Promoting 2nd Degree"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb409"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Judiciary Committee in House",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 2 Favorable, 4 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 35 YES 1 NO 5 ABSENT",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in Senate",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 4 On Its Merits",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kimberly Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143243",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

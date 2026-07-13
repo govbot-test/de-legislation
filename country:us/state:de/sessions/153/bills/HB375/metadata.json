@@ -1,0 +1,182 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 375",
+  "title": "AN ACT TO AMEND TITLE 13, TITLE 16, AND TITLE 21 OF THE DELAWARE CODE RELATING TO GOVERNMENT RECORDS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act updates and modernizes Delaware law regarding birth certificates, death certificates, driver\u2019s licenses, identification cards, and marriage license applications, licenses, and certificates (government documents) as follows:\r\n\u2022\tEstablishes uniform gender designations.\r\n\u2022\tProvides uniform requirements when an individual seeks to change their gender designation.\r\n\u2022\tProtects the privacy of records related to a change of an individual\u2019s gender designation. \r\n\u2022\tRevises existing law regarding marriage licenses and certificates to reflect current practices and to clarify current procedures.\r\n\r\nUnder existing law, people can change their gender designation on these government documents. However, only the Office of Vital Statistics (OVS) can amend marriage certificates and the requirements to change gender on these government documents are only in regulations. These existing regulations require certification from a medical or social service provider certifying the individual\u2019s true gender identity and do not explicitly keep the original documents and information submitted in support of the change confidential. \r\n\r\nSpecifically, this Act does all of the following in Sections 1 through Section 6 of this Act:\r\n\u2022\tEstablishes, for these government documents, that \u201csex\u201d or \u201cgender\u201d may be designated by \u201cF\u201d for female, \u201cM\u201d for male, or \u201cX\u201d for unspecified. Unspecified designates a gender identity that is not female or male.\r\n\u2022\tAllows an individual to change their gender designation without a court order or certification from a medical or other service provider.\r\n\u2022\tAllows a parent to amend the parent\u2019s gender designation and name on their child\u2019s birth certificate.\r\n\u2022\tCreates procedures so that people can amend marriage certificates through either OVS or the county clerk of the peace that issued the marriage license. These procedures require that OVS and the clerk of the peace share the amended certificate with the other office, using the existing electronic records system.\r\n\u2022\tNone of the documents or records under this Act are public records. This Act adds strengthened protections that prohibits the release of a request to change gender, and previous versions of the amended government document, unless the following specific requirements are met: \r\nFor birth certificates and marriage certificates, information related to the change of gender and the previous birth certificate may only be released if the request meets the requirements for the release of records of healthcare services under \u00a7 3928 of Title 10 and \u00a7 611 of Title 29. Section 3928 of Title 10 prohibits a court from ordering the release of records related to healthcare services requested by another state related to a criminal violation of a law if the healthcare services are legal in Delaware. In addition, \u00a7 611 of Title 29 prohibits a state or local government agency from releasing information in response to inquiries concerning the lawfulness of healthcare services that is related to healthcare services that are lawful in this State.\r\nFor driver\u2019s licenses and identification cards, information related to the change of gender, including previous photos and names on these documents, may only be released if the request is for a permissible use of personal information. In addition, if the request is from another state, there must be a demonstrated legitimate public safety need for the information that would be necessary to obtain a valid court order in Delaware. Before releasing gender change information to a person in another state, the individual making the request must provide a signed affidavit acknowledging their responsibility to protect this information and agreement that the information will only be used for the legitimate public safety need that is the basis for the request.\r\n\r\nIn addition, Sections 7 through Section 12 of this Act makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual and updates existing law to conform to modern procedures as follows:\r\n\u2022\tRevises Chapter 1 of Title 13 and Chapter 31 of Title 16 to eliminate duplicative and conflicting provisions.\r\n\u2022\tTransfers the requirements for the information required in a marriage license application from Title 13 to Title 16, because under existing law in Title 16, OVS is responsible for creating all forms related to marriage.\r\n\u2022\tCreates separate terms for marriage license applications, marriage licenses, marriage certificates, and the background information provided at the time of the application for a marriage license. It clarifies that a marriage license becomes a marriage certificate when the officiant and both witnesses sign the form after the marriage is performed. These changes are necessary because existing law uses the term \u201cmarriage license\u201d when referring to both the license required to get married and the certificate documenting that the marriage was performed.\r\n\u2022\tClarifies that only individuals with authority under Title 12 may obtain a certified copy of death certificate from OVS.\r\n\u2022\tAlign the existing privacy protections under \u00a7 305 of Title 21 with the strengthened protection in Section 6 of this Act.\r\n\r\nThis Act is effective immediately but has a delayed implementation date for all of the following:\r\n\u2022\tThe Department of Health and Social Services (DHSS) and the Department of Transportation (DelDOT) to adopt the necessary regulations and forms.\r\n\u2022\tDelDOT, DHSS, and the clerks of the peace to make necessary changes to computer systems."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Government Documents/Uniform Gender Designations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb375"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Health & Human Development Committee in House",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 2 Favorable, 7 On Its Merits",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 375 - Introduced and Placed With Bill",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=653950",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143087",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 88",
+  "title": "AN ACT PROPOSING AN AMENDMENT TO ARTICLE V OF THE DELAWARE CONSTITUTION RELATING TO VOTING.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is the first leg of a constitutional amendment to allow the General Assembly to enact laws for the registration of voters without restrictions on the time period in which registration must be closed prior to an election. It also requires the General Assembly to provide by law for means to ensure the accuracy and integrity of voter registration. \r\n\r\nThis Act is in response to the Supreme Court\u2019s decision in Albence v. Higgin, 2022 Del. LEXIS 377 (Del. 2022) which found a same-day registration statute to be \u201cincompatible with Section 4 [of Article V of the Constitution]\u2019s registration deadline and its relationship to the appeal and correction process.\u201d Amending the Delaware Constitution requires not only the passing of the changes in this Act, but also passage of the same changes after the next general election by the next General Assembly. \r\n\r\nHouse Substitute No. 1 to House Bill No. 88 restores language requiring voters to be registered in order to vote at a general election that was mistakenly struck from the original bill. It also updates the section to conform to technical revisions made by 84 Del. Laws, c. 281 and 85 Del. Laws, c. 5.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article XVI of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend the Delaware Constitution."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Const. Amend./1st Leg/Voter Registration"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb88"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 88",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Passed In House by Voice Vote",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Defeated By House. Votes: 26 YES 14 NO 1 ABSENT",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to HS 1 for HB 88",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143546&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143546&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143425",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1",
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

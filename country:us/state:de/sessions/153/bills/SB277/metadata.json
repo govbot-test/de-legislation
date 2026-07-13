@@ -1,0 +1,162 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 277",
+  "title": "AN ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO ATTENDANCE AND ACCOMMODATIONS FOR PREGNANT AND PARENTING STUDENTS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act establishes comprehensive protections and reasonable accommodations for pregnant and parenting students in all Delaware schools receiving state approval and financial assistance.\r\n\r\nThis Act provides the following protections: \r\n\r\n1. Mandatory excused absences: Schools must excuse absences for labor, delivery, prenatal and postnatal appointments, and up to 5 days for pregnancy related illness. It also mandates 6 weeks of excused leave following childbirth. It provides coverage for absences related to a child\u2019s illness or legal proceedings involving the child.\r\n2. Physical and environmental accommodations: The Act requires school to provide private and secure lactation rooms as well as physical modifications to learning environments like increased desk sizes, access to elevators or modified transportation schedules.\r\n3. Academic flexibilities: Students are entitled to schedule modifications, including altered course sequences, remote learning options, extensions of time, or rescheduling of examinations. \r\n4. Academic protections: A student may not incur an academic penalty for utilizing these accommodations. Following an absence, the school must allow the student to make up work in a timeframe at least equal to the duration of the absence and the same options make up the work that are provided to other students with standard illnesses\r\n5. Documentation and privacy: Schools are generally prohibited from requiring medical documentation to excuse absences or grant accommodations except where explicitly noted."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Pregnant and Parenting Students/Accomodations"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb277"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in Senate",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654014",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143095",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

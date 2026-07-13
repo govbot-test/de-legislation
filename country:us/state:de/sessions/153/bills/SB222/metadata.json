@@ -1,0 +1,110 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 222",
+  "title": "AN ACT PROPOSING AN AMENDMENT TO ARTICLE II AND ARTICLE III OF THE DELAWARE CONSTITUTION RELATING TO TERM LIMITS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is the first leg of a constitutional amendment that would create term limits for legislators and the Attorney General, Insurance Commissioner, Auditor of Accounts, and State Treasurer. \r\n\r\nSpecifically, this Act provides: \r\n(1) That an individual may not be elected to be a Senator more than 5 times or a Representative more than 8 times. \r\n(2) That an individual may not be appointed or elected to serve more than 2 times each as the Attorney General, Insurance Commissioner, Auditor of Accounts, or State Treasurer.\r\n\r\nThis Act takes effect on the passage of its second leg in the 154th General Assembly. Sections 3 and 4 of this Act make clear that holding an office before the implementation of this Act for that office will not be counted toward the newly instituted term limits. \r\n\r\nAmending the Delaware Constitution requires not only the passing of the changes in this Act, but also passage of the same changes after the next general election by the next General Assembly.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article XVI of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend the Delaware Constitution."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Const. Amend/1st Leg/Term Limits/Elected Officials"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb222"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Executive Committee in Senate",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Buckson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Eric Buckson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142756",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

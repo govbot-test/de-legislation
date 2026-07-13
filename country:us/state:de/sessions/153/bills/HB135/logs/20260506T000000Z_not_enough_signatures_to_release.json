@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Not Enough Signatures to Release",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142185",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 135"
+}

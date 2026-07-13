@@ -1,0 +1,102 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 209",
+  "title": "AN ACT TO AMEND THE CHARTER OF THE CITY OF SEAFORD RELATING TO POLICE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act amends the Charter of the City of Seaford relating to the City of Seaford Police Department (the \u201cDepartment\u201d) by adding the existing Chief of Police position and by more clearly outlining the organization, oversight, powers, and duties of the Department and its members.\r\n\r\nThe Mayor appoints a Chief of Police, with the advice and consent of the City Council. The Chief of Police reports directly to the City Manager. The Chief of Police commands and supervises the Department and oversees the Department\u2019s organization, administration, and operation. The Chief of Police may do all of the following:\r\n1. Establish directives, rules, regulations, and policies necessary to effectively operate the Department.\r\n2. Appoint, assign, promote, suspend, or dismiss members of the Department.\r\n\r\nThe members of the Department have police powers and are conservators of the peace within the City of Seaford\u2019s corporate limits. As allowed by state and local law, the members of the Department have police powers outside of the City of Seaford\u2019s corporate limits. The members of the Department shall do all of the following:\r\n1. Enforce all applicable federal, state, and local laws and ordinances.\r\n2. Maintain public order.\r\n3. Protect life and property.\r\n4. Bring arrested individuals before the appropriate judicial authority.\r\n\r\nThis Act also removes the misdemeanor penalty, imposed under the Charter, for a member of the Department neglecting or refusing to perform the member\u2019s duties. \r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article IX of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend a municipal charter."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Charter Change/Seaford/Police Department/Changes"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb209"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142723&legislationTypeId=1&docTypeId=2&legislationName=SB209",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142723&legislationTypeId=1&docTypeId=2&legislationName=SB209",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142723",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

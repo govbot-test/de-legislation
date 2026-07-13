@@ -1,0 +1,266 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 275",
+  "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO THE UNDERGROUND UTILITY DAMAGE PREVENTION AND SAFETY ACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act updates and clarifies the Underground Utility Damage Prevention and Safety Act (UUDPSA), which dates from the mid-1990s. \r\n\r\nSpecifically, the Act clarifies the obligations of facility owners and facility operators, which the Act defines as the person or entity that owns, operates, or controls an underground or submerged conductor, pipe, or structure used to provide electric or communications service, or an underground or submerged pipe used to carry, provide, or gather gas, oil, sewage, water, or other liquid service. Under the Act, in addition to their existing obligations under the UUDPSA, facility owners and facility operators must respond to requests from an excavator concerning the location of their facilities within 3 business days after receipt of the request, and must provide information to the excavator via the Owner/Operator/Excavator Information Exchange System, which is an interactive system that facilitates communication for that purpose.\r\n\r\nIn addition, \"designers,\" meaning an architect, engineer, or other person who prepares or issues a drawing for a construction or other project requiring excavation or demolition work, are required to meet with a facility owner or facility operator who requests more information on the scope of a project and to make reasonable efforts to prepare construction drawings in a way that avoids damage and minimizes interference with facilities in the construction area. \r\n\r\n\"Excavators,\" meaning any person proposing to engage in excavation or demolition work, must ascertain the location and type of facilities by contacting the Owner/Operator/Excavator Information Exchange System, and may not begin excavation until a positive response code of \"clear\" or \"no conflict\" or \"marked\" is received from each facility owner or facility operator through the Owner/Operator/Excavator Information System. In the event of an emergency that the excavator discovers or creates, the excavator must immediately notify the occupants of the premises, and, in the event of damage to a facility by the excavator resulting in the escape of a flammable, toxic, or corrosive gas or liquid, or other event that poses a danger to life, health or property, the excavator must immediately notify 911 and the facility owner or facility operator. The excavator is required to exercise due care and take all reasonable steps to avoid injury or interference with facilities, and, in the case of a complex project, to meet with the facility owner or facility operator or their agents before construction begins. \r\n\r\nThe Utilities Service Protection Center of Delmarva, Inc. is required to provide for the approved notification center that, among other things, receives and records information regarding the location of facility owners' and facility operators' facilities within the State and notice by excavators and designers of intended excavation and demolition activity and notifies facility owners and facility operators of the information received from excavators and designers. \r\n\r\nA facility owner's or facility operator's failure to perform an act required under the UUDPSA is subject to a civil penalty of up to $1 million, for violations that result in a death; up to $500,000 for violations causing damage to a structure, and up to $100,000 for all other violations. For all violations other than those resulting in death or damage to a structure, the Public Service Commission of Delaware may determine that training provided by the approved notification center may be substituted in lieu of a civil penalty. The imposition of a civil penalty does not prevent any party from obtaining civil damages for personal injury or property damage in a private action. Civil penalties will be used by the approved notification center for public awareness programs, training and education programs for members and violators of the UUDPSA, improvements to the approved notification center, or to reduce the cost to members of the approved notification center. \r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Underground Utility Damage Prevention and Safety Act/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb275"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 6 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 275 - Introduced and Placed With Bill",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 275 - Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Transportation Committee in House",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Transportation) in House with 9 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 275 - Introduced and Placed With Bill",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 275 - Passed In House by Voice Vote",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 35 YES 6 ABSENT",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 275",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143206&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143206&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 1 to SB 275",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143366&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143366&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143062",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "SA 1 + HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

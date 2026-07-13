@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 32 YES 5 NO 2 NOT VOTING 1 ABSENT 1 VACANT",
+    "occurred_at": "2025-07-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141747",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 11"
+}

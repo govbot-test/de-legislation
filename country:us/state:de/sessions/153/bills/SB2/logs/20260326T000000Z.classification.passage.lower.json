@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 39 YES 1 NO 1 ABSENT",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142098",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 2"
+}

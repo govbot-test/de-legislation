@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment SA 2 to SB 287 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+    "occurred_at": "2026-06-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143137",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 287"
+}

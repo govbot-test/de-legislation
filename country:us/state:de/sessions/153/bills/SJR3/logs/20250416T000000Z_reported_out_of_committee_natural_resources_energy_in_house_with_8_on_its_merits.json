@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Natural Resources & Energy) in House with 8 On Its Merits",
+    "occurred_at": "2025-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Natural Resources & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141981",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SJR 3"
+}

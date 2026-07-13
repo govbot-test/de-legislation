@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced in House",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143089",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HCR 120"
+}

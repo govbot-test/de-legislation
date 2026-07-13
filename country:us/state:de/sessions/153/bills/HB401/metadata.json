@@ -1,0 +1,94 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 401",
+  "title": "AN ACT TO AMEND TITLE 4 OF THE DELAWARE CODE RELATING TO THE REGULATION OF HEMP PRODUCTS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "House Substitute No. 1 for House Bill No. 401 establishes \"The Delaware Hemp Regulation Act\" under Title 4 of the Delaware Code to create a comprehensive regulatory framework for the sale, distribution, and consumption of hemp-derived cannabinoid products (HDCPs) in the State. It authorizes the Office of the Marijuana Commissioner (OMC) to issue retail licenses for off-premises consumption of HDCPs.\n\nThe Act implements age-verification requirements, limiting access to individuals 21 years of age or older, and mandates security and zoning standards for all licensed premises. Furthermore, it requires all HDCPs to undergo potency and contaminant testing by accredited laboratories and establishes strict labeling requirements to prevent products from appealing to children. To ensure compliance, the Act empowers the Division of Alcohol and Tobacco Enforcement (DATE) and the OMC to conduct inspections and provides for the immediate embargo or destruction of noncompliant products.\n\nThis Act imposes a 6% excise tax on the retail sales of all HDCPs. The Act takes effect immediately and must be implemented within one year of enactment or upon the publication of final regulations by the OMC.\n\nThis Act requires a greater than majority vote for passage because \u00a7 11 of Article VIII of the Delaware Constitution requires the affirmative vote of three-fifths of the members elected to each house of the General Assembly to impose or levy a tax or license fee.\n\nHouse Substitute No. 1 for House Bill No. 401 differs from the original in that it adds a new section to address Division of Revenue enforcement powers and collection authority. It also does the following: (1) restricts the servings per container to 10; (2) prohibits the display of grafitti, cartoon and animal references, and bubble letters on the exterior of HDCP retailers; (3) increases the license cost to $15,000; (4) strikes language referencing local control: (5) requires out-of-state manufacturers to have a Delaware business license; (6) Adds a minimum distance requirement between HDCP retail establishments; (7) Adjusts the showing an HDCP must make regarding for how long and how much of their business has been in HDCP retail prior to this Act; (8) adds explicit administrative enforcement authority for DATE; (9) adds language requiring a national background check in addition to a Delaware background check."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DE Hemp Regulation Act/Establish"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb401"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 401",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sean M. Lynn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sean M. Lynn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143568",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1",
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

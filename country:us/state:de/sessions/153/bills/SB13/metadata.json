@@ -1,0 +1,175 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 13",
+  "title": "AN ACT TO AMEND TITLE 6 AND TITLE 16 OF THE DELAWARE CODE RELATING TO HOSPITAL CHARITY CARE AND FINANCIAL ASSISTANCE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a Substitute for Senate Bill No. 13. Like Senate Bill No. 13, this Substitute Act amends Title 16 and Title 6 of the Delaware Code relating to hospital charity care and financial assistance and does the following:\r\n\r\n(1) Section 1 of the Act amends \u00a7 9311 of Title 16 to exempt certain hospitals from the existing charity care requirement and require these hospitals to comply with the new financial assistance requirements under Section 2 of this Act. A hospital that provides exclusively psychiatric services, rehabilitative services, or long-term acute care services remains subject to the charity care requirement.\r\n\r\n(2) Section 2 of the Act creates a new Subchapter VII of Chapter 99 of Title 16, \u00a7\u00a7 9961 through 9966, establishing minimum financial assistance standards for hospitals and facility-based providers. The subchapter requires full financial assistance for Delaware residents with household income at or below 300% of the federal poverty level, a 75% discount above 300% and at or below 350%, and a 50% discount above 350% and at or below 400%, and requires each hospital to maintain a medical hardship policy providing a 50% minimum discount with an income ceiling of at least 500% of the federal poverty level. Eligibility determinations are valid for at least 1 year, transfer among hospitals and facility-based providers, and suspend collection activity while an application or appeal is pending. Hospitals must provide notice in languages spoken by more than 5% of the hospital's service area, screen patients for financial assistance, report annually to the Diamond State Hospital Cost Review Board (\u201cBoard\u201d), and publish a financial assistance policy addressing presumptive eligibility, the application process, Medicaid coordination, and patient refunds. The Board administers the subchapter and conducts compliance reviews, the Division of Health Care Quality may take licensure action on a finding of noncompliance, and the obligations run with the hospital license.\r\n\r\n(3) Section 3 of the Act amends \u00a7 2505J of Title 6 to prohibit a medical creditor or medical debt collector from taking extraordinary collection action against a patient who qualifies, or whom the creditor has reason to know likely qualifies, for financial assistance.\r\n\r\n(4) Section 4 of the Act amends \u00a7 2508J of Title 6 to restrict collection communications, litigation, and debt referrals or sales by a medical creditor or medical debt collector that knows or should know that a patient\u2019s financial assistance application or appeal is pending.\r\n\r\n(5) Section 5 of the Act amends \u00a7 2511J of Title 6 to make noncompliance with the new subchapter, or a patient\u2019s eligibility for financial assistance, a complete defense in a civil action to collect medical debt, and to bar entry of a default judgment in any such action without an affidavit from a responsible officer of the hospital attesting that the patient was offered financial assistance screening.\r\n\r\n(6) Section 6 of the Act provides that the minimum financial assistance standards under \u00a7 9962(a) and (b) of Title 16 take effect on January 1, 2027, and that all other provisions take effect on the earlier of notice by the Diamond State Hospital Cost Review Board, published in the Register of Regulations, that final implementing regulations have been adopted, or July 1, 2027.\r\n\r\nThis Substitute Act differs from Senate Bill No. 13 as follows:\r\n(1) Alphabetizes definitions in Section 2 of this Substitute Act and makes other technical corrections throughout this Substitute Act.\r\n(2) Clarifies that hospital services do not include services provided by a facility-based provider at a location that is not the hospital, an off-campus location operated under the hospital's license or Medicare provider agreement, or a freestanding emergency department affiliated with the hospital.\r\n(3) Makes clear that financial assistance is available to a patient for the patient responsibility portion.\r\n(4) Makes clear that a hospital or facility-based provider may bill a financially qualified patient\u2019s insurance for hospital services.\r\n(5) Requires that a hospital that issues a written eligibility notice include with the notice supporting documentation provided by the patient. \r\n(6) Provides that written notice must be in print or electronic form, as determined by the patient. \r\n(7) Provides that a patient seeking financial assistance or medical hardship must apply for financial assistance.\r\n(8) Specifies that the Diamond State Hospital Cost Review Board must develop regulations related to the requirement that a recipient of financial assistance must be a Delaware resident.\r\n(9) Moves the Division of Health Care Quality\u2019s power to impose civil monetary penalties for the violation of Subchapter VII of Chapter 99 of Title 16 into \u00a7 9965 of Title 16 (within Subchapter VII of Chapter 99 of Title 16) rather than adding it to \u00a7 1007 of Title 16. As a result, the amendment to \u00a7 1007 of Title 16 contained in Section 3 of Senate Bill No. 13 is removed from this Substitute Act. The Division\u2019s power is the same power the Department of Health and Social Services has under Chapter 10 of Title 16."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Charity Care Requirement/Certain Hospitals"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb13"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of SB 13",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 17 YES 3 NO 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 1 Favorable, 8 On Its Merits",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 27 YES 13 NO 1 ABSENT",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143519",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

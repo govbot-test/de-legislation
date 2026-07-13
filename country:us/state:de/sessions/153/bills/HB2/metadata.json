@@ -1,0 +1,139 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 2",
+  "title": "AN ACT TO AMEND TITLE 18 AND TITLE 29 OF THE DELAWARE CODE RELATING TO DEATH BENEFITS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Like House Bill No. 2, House Substitute No. 1 for HB 2 makes technical corrections to \u00a7 5546 of Title 29 and increases from $7,000 to $8,000, both of the following:\r\n\u2022\tThe amount of the burial benefit under the State Employees\u2019 Pension Plan.\r\n\u2022\tThe amount paid for funeral expenses for a member of a volunteer fire company, volunteer fire company ladies auxiliary, or a volunteer ambulance and rescue company.\r\n\r\nHS 1 for HB 2 differs from HB 2 because it changes the effective date to October 1, 2026, and because the enactment of Senate Bill No. 28 (85 Del. Laws, c. 215) on September 9, 2025, included all of the following:\r\n\u2022\tThe technical revisions to \u00a7 6750 of Title 18 that were also included in Section 2 of HB 2.\r\n\u2022\tThe transfer of \u00a7 6750 of Title 18 to \u00a7 6701A of Title 18, which was also included in House Amendment No. 1 to HB 2.\r\n\u2022\tThe enactment of \u00a7 6701A of Title 18, which was also included in HA 1 to HB 2."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb2"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill HB 2, and Assigned to Appropriations Committee in House",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ronald E. Gray",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ronald E. Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142751",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

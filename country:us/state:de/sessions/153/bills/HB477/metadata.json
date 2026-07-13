@@ -1,0 +1,89 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 477",
+  "title": "AN ACT TO AMEND TITLES 7 AND 16 OF THE DELAWARE CODE RELATING TO LEAD PAINT ON OUTDOOR FACILITIES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act requires that the Delaware Hazardous Substance Cleanup Act (HSCA) include facilities with lead-based paint on outdoor structures.  Current DNREC regulations specifically exempts facilities where the sole contaminant is lead-based paint and the Department determines the facility is appropriately regulated and adequately addressed by another state or federal agency, statute, or regulation. By bringing these facilities under the HSCA, contaminated outdoor structures would be eligible for DNREC\u2019s Voluntary Cleanup Program, which provides a framework to enforce the provisions of Chapter 30M of Title 16, relating to the prohibition of lead-based paint on outdoor structures.\r\nThis Act also requires owners of existing structures with lead-based paint to assess the lead-based paint hazard on the owner\u2019s structure within 2 years of the effective date of this Act.  The assessment must be done by a licensed lead inspector and if a hazard is found, a report must be submitted to DHSS and DNREC and a remedial action plan must be implemented.  It further clarifies that DNREC, in addition to DHSS, has enforcement authority over Chapter 30M of Title 16, relating to lead-based paint on outdoor structures."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb477"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Natural Resources & Energy Committee in House",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Larry Lambert",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Larry Lambert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143609",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By Senate. Votes: 17 YES 3 NO 1 NOT VOTING",
+    "occurred_at": "2025-06-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142367",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 182"
+}

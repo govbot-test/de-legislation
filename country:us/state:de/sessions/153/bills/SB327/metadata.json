@@ -1,0 +1,182 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 327",
+  "title": "AN ACT TO AMEND TITLE 5 AND TITLE 12 OF THE DELAWARE CODE RELATING TO FAMILY TRUST COMPANIES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act builds upon the reputation of Delaware\u2019s trust laws and trust services infrastructure by creating a trust company charter designed for families desiring a family trust company.  This Act authorizes the formation of a new type of Delaware regulated trust company, a \u201cfamily trust company,\u201d serving a single family and its related trusts, entities, and charities.  \r\n\r\nThis Act further authorizes and directs the State Bank Commissioner to establish regulations, application forms, and practices that distinguish the regulatory requirements for a family trust company from commercial trust companies serving the public, based on their differing risk profiles. A principal purpose of the supervision and examination of family trust companies by the Office of the State Bank Commissioner under this Act will be to address and facilitate record-keeping, auditing and reporting, and risk management, in significant part by assisting management of family trust companies in understanding and performing their fiduciary and other legal obligations owed to the family members they serve.\r\n\r\nThis Act limits family trust companies to exercising the trust company powers permitted to other State-chartered trust companies and defines the family members it may serve based on their being descended from or otherwise related to a single family member (either alone or together with their spouse) designated by the family.  \r\n\r\nThis Act provides for the organization, minimum capital and surplus requirements, and permissible range of license fees of a family trust company, as well as the criteria for approval of an application for a certificate of authority to establish a family trust company, and additional criteria to consider for the capital and surplus requirements of family trust companies, in order to assure their safe, sound, and effective operation.  It also encourages family trust companies to be audited, requires certain insurance coverages, and provides for supervision, examination, and enforcement of their compliance with the Act and safe and sound trust company practices. This Act also requires that material trust administration occur in Delaware in instances in which the laws of Delaware are intended to govern the administration of the trust administered by a family trust company.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article IX of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend the general corporation law."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Trust Company Charter/Create"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb327"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 1 Favorable, 6 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 8 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143356",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

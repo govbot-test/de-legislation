@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment SA 3 to SB 4 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+    "occurred_at": "2025-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141724",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 4"
+}

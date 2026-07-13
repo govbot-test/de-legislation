@@ -1,0 +1,184 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 334",
+  "title": "AN ACT TO AMEND TITLES 18 AND 29 OF THE DELAWARE CODE RELATING TO HEALTH CARE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "The Health Care Professional Access Act requires carriers to participate in uniform processes with specific timetables to create speed-to-market for health care professionals. Currently, health care professionals may be employed for 6 months or more with no ability to collect insurer reimbursement due to lengthy carrier credentialing process. Ensuring uniformity across carriers, as well as relevant procedural standards, will help attract and retain health care professionals in our state, enable movement between practices and the creation of new ones, and ensure nondiscrimination in credentialing decisions. \r\n\r\n\r\nUnder this Act, credentialing processes are limited to 45 days. This Act additionally provides for provisional credentialing, whereby reimbursement ability is provided even more quickly for certain health care professionals, including FQHCs, and in designated shortage areas which currently include mental health professionals statewide and primary and dental care in Kent and Sussex Counties, or is offered if timelines are not met. Oversight of compliance with this Act falls to the applicable regulatory agency. The Act also ensures specific processes and health care professional rights during a carrier\u2019s intent to terminate a credential. \r\n\r\n\r\nMore than 30 states have credentialing standards in law, with additional jurisdictions considering relevant legislation. Components of this legislation are derived from the National Association of Insurance Commissioners\u2019 Health Care Professional Credentialing Verification Model Act.\r\n\r\nThis substitute differs from the original in that it does the following:\r\n- Clarifies that it applies to those carriers that require credentialing and does not require carriers to create a credentialing process if they do not already do so;\r\n- Clarifies the process for credentialing of health care professionals whose primary or home state is not Delaware and prefer to use the credentialing process in their primary or home state;\r\n- Allows a carrier to require earlier recredentialing to address activity that could disqualify a health care professional from credentialing;\r\n- Allows for certain electronic delivery of recredentialing notices;\r\n- Simplifies the language for the basis to deny, suspend, nonrenew, or terminate a health care professional\u2019s to align with NCQA standards; \r\n- Clarifies that the penalties and remedies in this Act are in addition to those already otherwise available; and\r\n- Makes technical changes to information about CAQH."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Health Care Professional Access Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb334"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of SB 334",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SS 1 - Passed By Senate. Votes: 19 YES 2 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 1 Favorable, 8 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SA 1 to SS 1 for SB 334",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143536&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143536&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143516",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1",
+    "amendment": "SA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

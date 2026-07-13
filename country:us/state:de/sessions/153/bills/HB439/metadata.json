@@ -1,0 +1,134 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 439",
+  "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO THE SALE OF ELECTRIC MOPEDS AND ELECTRIC MOTORCYCLES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "The Truth in E-Bike Marketing Act protects Delaware consumers from purchasing an electric moped or electric motorcycle with the belief that the device may be used in the same way as an electric bicycle, addressing a growing area of market confusion. It prohibits dealers from advertising high-powered motor vehicles using terms like \"electric bicycle\" or \u201ce-bike\u201d and also requires that sellers provide clear, written disclosures regarding the vehicle's legal classification, maximum power, and the necessity for registration, licensing, and insurance. The bill classifies failure to provide these disclosures as an unlawful business practice. Finally, the bill clarifies that mopeds may not be operated on public pathways, bike lanes, or sidewalks and that crashes involving electric bicycles or mopeds must be identified on the state\u2019s crash reporting website.\nHouse Substitute 1 to HB 439 makes the following changes: \n1. Changes the term \u201cdealer\u201d to \u201ccommercial seller\u201d. \n2. Clarifies that this Act applies to electric mopeds and electric motorcycles.\n3. Removes the provision requiring the DMV to approve the disclosure statement that must be provided to buyers. \n4. Removes the provision requiring a copy of the signed disclosure statement be provided to the DMV.  \n5. Places the new section of Delaware Code created in Section 3 of this Act into its own chapter."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Truth in E-Bike Marketing Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb439"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 439",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 1 NO 1 ABSENT",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Environment, Energy & Transportation) in Senate with 6 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kamela T Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kamela T Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143560",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Assigned to Education Committee in Senate",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142904",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 313"
+}

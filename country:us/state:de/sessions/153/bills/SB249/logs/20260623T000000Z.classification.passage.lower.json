@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 22 YES 16 NO 2 NOT VOTING 1 ABSENT",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142912",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 249"
+}

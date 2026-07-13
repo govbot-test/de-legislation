@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Assigned to Natural Resources & Energy Committee in House",
+    "occurred_at": "2026-01-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Natural Resources & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142724",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 210"
+}

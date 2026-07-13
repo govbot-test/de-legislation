@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Introduced and Assigned to Education Committee in Senate",
+    "occurred_at": "2025-06-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142425",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 173"
+}

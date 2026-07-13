@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Tabled in House by Vote: 25 YES 14 NO 1 NOT VOTING 1 ABSENT. Reason Taken: Motion to Table HB 403",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143249",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 403"
+}

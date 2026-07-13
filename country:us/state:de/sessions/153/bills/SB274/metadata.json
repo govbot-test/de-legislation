@@ -1,0 +1,183 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 274",
+  "title": "AN ACT TO AMEND TITLE 16 AND TITLE 21 OF THE DELAWARE CODE RELATING TO DELAWARE MEDICAL ORDERS FOR SCOPE OF TREATMENT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Enacted in 2015, Chapter 25A of Title 16, the Delaware Medical Orders for Scope of Treatment Act created a voluntary process and a document that can used by patients with serious illness or frailty to provide direction to emergency care personnel regarding the patient's preferences in regard to scope of care and treatment.\r\n\r\nThis Act changes the name \"Delaware Medical Orders for Scope of Treatment (DMOST)\" under Chapter 25A of Title 16 to \"Delaware Portable Orders for Life-Sustaining Treatment (POLST)\" to align with the national effort to create a uniform form. This Act contains a savings provision so that the name change under this Act does not affect the validity or effect of DMOST forms.\r\n\r\nThis Act also revises Chapter 25A of Title 16 as follows:\r\n\u2022\tRepeals requirements that conflict with the national model law regarding a patient\u2019s ability to limit the future authority of the patient\u2019s authorized representative to modify the orders in the patient\u2019s POLST form.\r\n\u2022\tAllows any health-care practitioner authorized under Chapter 25A of Title 16 to complete a POLST form to find that a patient lacks sufficient decision-making capacity to execute a POLST form. Under existing law, all practitioners who are licensed and authorized to write medical orders under Title 24 may complete POLST forms but only physicians can determine that a patient lacks sufficient decision-making capacity to execute a POLST form. This change is consistent with the capacity provisions under Chapter 25 of Title 16, the recently enacted Uniform Health-Care Decisions Act. \r\n\u2022\tRequires that a health-care practitioner document their finding that a patient lacks decision-making capacity in the patient\u2019s medical record.\r\n\u2022\tClarifies the existing requirement that a patient\u2019s authorized representative may not execute a POLST form for a patient unless the patient\u2019s lack of decision-making capacity is documented in the patient\u2019s medical record.\r\n\r\nMakes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual, including corresponding name changes to other Code sections that reference the DMOST form. In \u00a7 2718(c)(5) of Title 21, the name for an advance health-care directive under Chapter 25 of Title 16 is also corrected."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Delaware Medical Orders for Scope of Treatment Act/Revisions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb274"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 1 Favorable, 4 On Its Merits",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 1 Favorable, 9 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 1 NO 3 ABSENT",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143033",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

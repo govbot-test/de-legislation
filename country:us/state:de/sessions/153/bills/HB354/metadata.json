@@ -1,0 +1,274 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 354",
+  "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO THE DELAWARE REVISED UNIFORM LIMITED PARTNERSHIP ACT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act continues the practice of amending periodically the Delaware Revised Uniform Limited Partnership Act (the \u201cLP Act\u201d) to keep it current and to maintain its national preeminence. The following is a section-by-section review of proposed amendments to the LP Act.\r\n\r\nSection 1 of this Act amends \u00a7 17-101(1) of the LP Act to add a definition of \u201ccertificate of registered series,\u201d which is used in multiple provisions in the LP Act.\r\n\r\nSection 2 of this Act amends \u00a7 17-202 of the LP Act to allow a limited amendment of a certificate of limited partnership to be made by a person who has ceased to be a general partner of the limited partnership but is shown on the certificate of limited partnership as a general partner.  The certificate of amendment shall state only (i) the name of the limited partnership, and (ii) that the person has ceased to be a general partner of the limited partnership.  Because the amendment has the effect of amending the information required to be set forth in a certificate of limited partnership by \u00a7 17-201(a)(3) of the LP Act, it also constitutes notice, pursuant to \u00a7 17-208 of the LP Act, that the person has ceased to be a general partner.  This Section also amends \u00a7 17-202(c)(2) of the LP Act to clarify that, unless a certificate of amendment has already been filed pursuant to new \u00a7 17-202(d) of the LP Act, \u00a7 17-202(c)(2) applies any time a person has ceased to be a general partner of a limited partnership and not just upon a withdrawal of a general partner.\r\n\r\nSection 3 of this Act amends \u00a7 17-204(a)(2) of the LP Act, which addresses execution of certificates of amendment and certificates of correction.  Because Section 2 of this Act amends \u00a7 17-202 of the LP Act to allow a former general partner to file a certificate of amendment of a certificate of limited partnership in certain circumstances, this Section amends \u00a7 17-204(a)(2) of the LP Act to clarify that the former general partner must execute a certificate of amendment authorized by new \u00a7 17-202(d) of the LP Act or any certificate of correction that is correcting a certificate of amendment filed pursuant to new \u00a7 17-202(d) of the LP Act.  This Section also amends \u00a7 17-204(a)(9) of the LP Act, which addresses execution of certificates of amendment of certificates of registered series and certificates of correction of certificates of registered series.  Because Section 6 of this Act amends \u00a7 17-221 of the LP Act to allow a person who was formerly a general partner associated with a registered series to file a certificate of amendment of a certificate of registered series in certain circumstances, this Section amends \u00a7 17-204(a)(9) of the LP Act to clarify that the former general partner must execute a certificate of amendment authorized by new \u00a7 17-221(d)(6) of the LP Act or any certificate of correction that is correcting a certificate of amendment filed pursuant to new \u00a7 17-221(d)(6) of the LP Act.    \r\n\r\nSection 4 of this Act amends \u00a7 17-207 of the LP Act, which addresses liability for materially false statements in any certificate authorized to be filed by this chapter.  Subchapter IX of the LP Act was previously amended to clarify that certain documents filed in the office of the Secretary of State with respect to a foreign limited partnership may be executed by any person authorized to execute the document on behalf of the foreign limited partnership (which may or may not be a general partner of the foreign limited partnership).  This Section amends \u00a7 17-207 of the LP Act to clarify that \u00a7 17-207 of the LP Act applies to any person who executed a certificate pursuant to subchapter IX of this chapter (whether or not such person is a general partner of the foreign limited partnership).\r\n\r\nSection 5 of this Act amends \u00a7 17-218(a) of the LP Act to confirm that (i) a partnership agreement may establish or provide for the establishment of one or more series that are not protected series or registered series, and (ii) the limitation on merger, conversion and consolidation of a series in \u00a7 17-218(a) does not restrict a limited partnership with series from merging, converting or consolidating pursuant to any section of the LP Act or as otherwise permitted by law. The amendments are not intended to limit the application of the principle of freedom of contract to any series.\r\n\r\nSection 6 of this Act amends \u00a7 17-221(d) of the LP Act to allow a limited amendment of a certificate of registered series to be made by a person who has ceased to be a general partner associated with the registered series but is shown on the certificate of registered series as a general partner associated with the registered series. The certificate of amendment shall state only (i) the name of the limited partnership, (ii) the name of the registered series, and (iii) that the person has ceased to be a general partner associated with the registered series.  Because the amendment has the effect of amending the information required to be set forth in a certificate of registered series by \u00a7 17-221(d) of the LP Act, it also constitutes notice, pursuant to \u00a7 17-208 of the LP Act, that the person has ceased to be a general partner associated with the registered series.  This Section also amends \u00a7 17-221(d)(5)b. of the LP Act to clarify that, unless a certificate of amendment has already been filed pursuant to new \u00a7 17-221(d)(6) of the LP Act, \u00a7 17-221(d)(5)b. applies any time a person has ceased to be a general partner associated with a registered series and not just upon a withdrawal of a general partner associated with a registered series. This Section also makes certain clarifying amendments of \u00a7 17-221 of the LP Act to change the word \u201cof\u201d to the words \u201cassociated with\u201d.\r\n\r\nSection 7 of this Act amends \u00a7 17-902(1) of the LP Act to provide that the statement required to be included in an application for registration as a foreign limited partnership shall be made by the person who signs the application (whether or not such person is a general partner of the foreign limited partnership).\r\n\r\nSection 8 of this Act provides that the amendments to the LP Act take effect on August 1, 2026."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Revised Uniform Limited Partnership Act/Amend"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb354"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Judiciary Committee in House",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 7 On Its Merits",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 4 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in Senate",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Krista Griffith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Krista Griffith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143066",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 288",
+  "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PUBLIC UTILITIES, IN RELATION TO THE RESILIENCY, PUBLIC SAFETY, AND QUALITY OF BROADBAND NETWORKS AND VOICE OVER INTERNET PROTOCOL (VOIP) SERVICE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act shall be known and may be cited as the \u201cBroadband Resiliency, Public Safety, and Quality Act.\u201d\r\n\r\nThis Act confers jurisdiction upon the Delaware Public Service Commission to exercise oversight related to the resiliency, reliability, and public safety of broadband service and Voice Over Internet Protocol (VoIP) networks operating in Delaware. The Act requires the Commission to promulgate regulations to effectuate its oversight authority. The Act grants the Commission the power to investigate, audit, and inspect any broadband service or VoIP provider\u2019s facilities to assess compliance with safety and resiliency requirements. The Act also grants the Commission the power to order corrective actions or impose penalties consistent with Chapter 1 of Title 26, if deficiencies are found.  \r\n\r\nThe Act requires the Commission to issue an annual report to the Governor, the General Assembly, and the Director and Librarian of the Division of Legislative Services, no later than March 31, summarizing the state of broadband and VoIP resiliency, emergency performance, and recommendations for improvement. The Act also requires the Commission to establish and maintain a public reporting system to receive and document complaints regarding broadband service and Voice over Internet Protocol (VoIP) service quality, network outages, or unsafe conditions associated with communications infrastructure, including deteriorated or abandoned copper plant. The Act also requires the Commission to review and, where appropriate, investigate complaints to determine whether a reported issue presents a risk to public safety or violates applicable standards. The Commission may then require corrective action by the provider and may publish periodic summaries of complaints and resolutions to promote transparency and accountability."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Broadband Resiliency, Public Safety, and Quality Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb288"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654382",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143138",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Veto Override Passed in the House. 25 YES 16 NO",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141969",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 75"
+}

@@ -1,0 +1,178 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 267",
+  "title": "AN ACT TO AMEND TITLE 10 AND TITLE 30 OF THE DELAWARE CODE RELATING TO THE UNIFORM ASSIGNMENT FOR BENEFIT OF CREDITORS ACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "With only minor modifications consistent with Delaware law and practice, this Act adopts the Uniform Assignment for Benefit of Creditors Act (the \u201cUniform Act\u201d), authored by the Uniform Law Commission. The Uniform Law Commission \u201cprovides states with non-partisan, well-conceived and well-drafted legislation that brings clarity and stability to critical areas of state statutory law.\u201d The Uniform Act was approved by the Uniform Law Commission in October 2025 and, as of March 2026, has been enacted in Nebraska and Utah and introduced in Alabama, Arizona, Colorado, Iowa, and Oklahoma. \r\n\r\nBecause this Act adopts the Uniform Act with only minor modifications, the \u201cComments\u201d to the Uniform Act may be deemed to be persuasive authority in interpreting this Act; provided, however, that the second and third sentences of the Comment to Section 2 of the Uniform Act shall instead be deemed to read as follows: \u201cIf an asset is not assignable by its terms or under other law, that asset is not part of the assignment estate unless either any required consent is obtained or other law overrides the anti-assignment provision. This Uniform Act does not preclude the assignee from negotiating with any person whose consent is required for an assignment to obtain its consent for the assignment of an asset.\u201d\r\n\r\nThis Act provides for the use of an assignment for benefit of creditors (an \u201cABC\u201d), which is an efficient and flexible state law mechanism to wind up a distressed business. \r\n\r\nAlthough the use of an ABC to liquidate the assets of a failing business is rooted in the common law, the various states have significant differences in their statutes or common law of ABCs and Delaware\u2019s statute has few details, was enacted many decades ago, and has not subsequently been revised. This inconsistency and lack of detail leads to significant variance throughout the country in the utility of ABCs and the frequency with which ABCs are used. This Act addresses this gap in the law by cementing the common law in statute and providing updates that modernize the law and provide clarity to assignors, assignees, and creditors alike. \r\n\r\nIn an ABC, a financially distressed business, called an \u201cassignor,\u201d transfers control of all of its assets to an \u201cassignee,\u201d who acts as a fiduciary for the business\u2019s creditors. The assignee liquidates the business\u2019s assets and distributes the proceeds to the business\u2019s creditors. These proceeds go towards payment of the creditors\u2019 claims against the assignor. \r\n\r\nThis Act creates a state law alternative to other procedures available to the assignor for winding up its business and provides benefits that are not available through a federal bankruptcy case or a state or federal law receivership. In many cases, an ABC will be more flexible, quicker, and less costly than the other alternatives. An ABC may be an improvement on these alternatives in certain situations in significant ways: (1) it is debtor-initiated; (2) it provides assurances to creditors by imposing fiduciary duties upon the assignee; (3) it aims to maximize the value of the business\u2019s assets for the benefit of all creditors; and (4) it encourages cooperation between the distressed business and the creditors by aligning these parties\u2019 goals. \r\n\r\nThis Act\u2019s roadmap for ABCs clearly establishes: \r\n(1) The persons eligible to be assignors and the qualifications for assignees; \r\n(2) The relationship between an ABC under this Act and existing federal and state statutes, including the Bankruptcy Code; \r\n(3) The contents of the assignment agreement; \r\n(4) The effect of an ABC on the assignor\u2019s property interests and the procedure for conveying those assets to the assignee; \r\n(5) Procedures for notifying creditors of the ABC and the implications of the opt-out decision; \r\n(6) Duties and powers of the assignor and assignee, including limitations on liability;\r\n(7) A process for allowing and disputing claims; \r\n(8) A waterfall for the distribution of proceeds to secured and unsecured creditors and payment of expenses incurred by the assignee; \r\n(9) Procedures for winding up the assignment estate; \r\n(10) The extent of recognition of out-of-state transactions and appointment of an ancillary assignee for administration of out-of-state assets; and\r\n(11) That a conveyance by an assignor or assignee for the benefit of the assignor\u2019s creditors under this Act is not subject to this State\u2019s realty transfer tax.\r\n\r\nThis Act is intended to replace Delaware\u2019s current ABC law, resulting in the repeal of the current law under Sections 2 through 8 of this Act and provision, under Section 9 of this Act, for the continued application of the current law for existing ABCs made before the effective date of this Act."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Uniform Assignment for Benefit of Creditors Act/Adopt/ULC"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb267"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Judiciary Committee in Senate",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 4 On Its Merits",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in House",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 9 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 31 YES 10 ABSENT",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143009",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

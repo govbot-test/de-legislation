@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Tabled in Committee",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141760",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 5"
+}

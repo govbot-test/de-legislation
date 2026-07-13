@@ -1,0 +1,75 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 58",
+  "title": "AN ACT TO AMEND TITLE 11 OF THE DELAWARE CODE RELATING TO POSTCONVICTION REMEDY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act provides a remedy for convicted persons relating to changes in forensic scientific or technical information. Specifically, a convicted person may apply to the Superior Court for relief if certain forensic scientific information was not available to be offered by the convicted person prior to the conviction or if it undermines forensic scientific evidence that was presented at trial. The court must grant relief if (1) the convicted person files an application asserting that the relevant forensic evidence is currently available and was not ascertainable through the exercise of reasonable diligence by the convicted person before or during trial or before the date of entry of a plea, (2) the application is accompanied by an affidavit from a forensic expert that satisfies certain requirements, and (3) the court determines that, had the evidence been presented at a trial, there is a reasonable likelihood that the result at trial would have been different or that the convicted person would not have been convicted.\r\n\r\nOnce a petition for relief is filed, the Superior Court shall set a hearing on the petition, not later than 180 days after the petition was filed, and notify the petitioner and the Department of Justice. The Department of Justice may file a response to the petition within 90 days after its filing. After the hearing, if the court determines that the petitioner has failed to make a prima facie showing that the petitioner is entitled to relief, the court will dismiss the petition in a written opinion. However, if the court determines that the petitioner has made a prima facie showing that the petitioner is entitled to relief, the court may grant the petitioner discovery on matters relating to the forensic evidence used to obtain the conviction or sentence at issue and hold another hearing to determine whether there is a reasonable likelihood that, had the new evidence been presented at a trial, the convicted person would not have been convicted. If so, the court shall grant such relief as the court deems appropriate, which may include vacating the petitioner's conviction.\r\n\r\nFor purposes of the Act, \"convicted person\" means a person who has received a verdict of guilty by the trier of fact, entered a plea of guilty or a plea of nolo contendere that was accepted by the court, or received a verdict of not guilty by reason of insanity.\r\n\r\nLike Senate Substitute No. 1 for Senate Bill No. 58, Senate Substitute No. 3 differs from Senate Bill No. 58 in that (i) it clarifies that relevant forensic scientific evidence that may provide a basis for relief is not limited to evidence presented at trial, but rather includes evidence that was presented before trial, at trial, or before the date of entry of a plea; and (ii) it clarifies that the court must grant relief if the relevant criteria are satisfied.\r\n\r\nLike Senate Substitute No. 2 for Senate Bill No. 58, Senate Substitute No. 3 differs from Senate Bill No. 58 in the following ways:\r\n\u2022 It replaces \"application\" with \"petition,\" in order to maintain consistency in how a petition seeking relief under \u00a7 4505 of Title 11 is described.\r\n\u2022 It gives the court discretion to take certain actions if it finds that a petitioner has made a prima facie showing of the requirements for relief under \u00a7 4505 of Title 11. Under Senate Bill No. 58, the court would have been required to take certain actions.\r\n\u2022 It provides that if a petitioner has established entitlement to relief under \u00a7 4505 of Title 11, the court shall grant such relief as it deems appropriate, which may include vacating the petitioner's conviction. Under Senate Bill No. 58, the court would have been required to vacate the petitioner's conviction and grant the petitioner's motion for a new trial.\r\n\r\nIn addition, Senate Substitute No. 3 differs from Senate Bill No. 58 in that it requires the application to be accompanied by an affidavit from a forensic expert and that it permits the Superior Court to hear a claim for relief later than 180 days after the petition if there is good cause for an extension."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb58"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 58, and Assigned to Finance Committee in Senate",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143318",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 3"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

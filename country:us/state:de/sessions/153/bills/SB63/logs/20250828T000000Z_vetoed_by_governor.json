@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by Governor",
+    "occurred_at": "2025-08-28",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141896",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 63"
+}

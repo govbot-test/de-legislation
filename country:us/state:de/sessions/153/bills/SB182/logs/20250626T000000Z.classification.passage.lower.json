@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 40 YES 1 VACANT",
+    "occurred_at": "2025-06-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142489",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 182"
+}

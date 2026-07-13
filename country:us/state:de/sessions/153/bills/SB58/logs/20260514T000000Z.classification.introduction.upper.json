@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Adopted in lieu of the original bill SB 58, and Assigned to Finance Committee in Senate",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143318",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 58"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment SA 2 to SB 75 - Passed By Senate. Votes: 15 YES 6 NO",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141969",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 75"
+}

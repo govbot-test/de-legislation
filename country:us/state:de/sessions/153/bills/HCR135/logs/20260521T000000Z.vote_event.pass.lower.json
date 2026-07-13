@@ -1,0 +1,35 @@
+{
+  "identifier": "",
+  "motion_text": "SM",
+  "motion_classification": [],
+  "start_date": "2026-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "153",
+  "bill": "b89a6ad4-7541-11f1-b6fc-ae0523bd7b48",
+  "bill_action": null,
+  "bill_identifier": "HCR 135",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/json/RollCallController/GenerateRollCallPdf?rollCallId=58287&chamberId=2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HCR 135 in 153#58287#SM#lower#2026-05-21"
+}

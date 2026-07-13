@@ -1,0 +1,182 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 341",
+  "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE DELAWARE HEALTH INFORMATION NETWORK.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Sections 1 and 2 of this Act identify DHIN as the State\u2019s sanctioned provider of Health Data Utility (HDU) services. The HDU concept arises and builds off of services provided by Health Information Exchanges (HIEs) such as DHIN. Including this language will align with DHIN\u2019s development and assist the State in responding to federal and other grant funding opportunities that require or prefer collaboration with a sanctioned HDU. \r\n\r\nSection 2 of this Act is a clarifying provision that states DHIN\u2019s ability to contract with organizations in furtherance of its mission in business arrangements that facilitate DHIN\u2019s underlying mission, notwithstanding that those organizations may provide services (such as direct provision of treatment to patients) that DHIN does not directly provide under this chapter. It also makes a technical change to align the list of stakeholders identified with lists that appear elsewhere in the statute.\r\n\r\nSection 3 of this Act aligns DHIN\u2019s use cases more clearly with the requirements of federal law that relate to using health data for analytic and research purposes, including the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Federal Policy for Protection of Human Subjects (the Common Rule) and makes a technical correction to a description of DHIN processes. This change will also ensure consistency between permitted uses of claims data for research purposes and permitted uses of clinical data.\r\n\r\nSections 4 and 5 clarify DHIN\u2019s ability to incorporate clinically relevant information into a patient\u2019s longitudinal record, excluding pricing information, for access as permitted by the laws and regulations governing DHIN\u2019s HIE services. This clarification ensures patients will have access to the clinical information included in claims data for their own uses.\r\n\r\nSection 5 makes a technical correction to recognize that DHIN\u2019s enabling legislation and applicable federal law do not permit DHIN to \u201creport\u201d data to the public that would be suitable for the public health improvement research and activities purposes designed to be encouraged by that section, and clarifies that the identified agencies will have access to the standardized claims data sets curated by DHIN from the Delaware Health Care Claims Database as otherwise permitted under this statute at no cost."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DHIN/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb341"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 3 Favorable, 3 On Its Merits",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 9 On Its Merits",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 1 NO 3 ABSENT",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143427",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

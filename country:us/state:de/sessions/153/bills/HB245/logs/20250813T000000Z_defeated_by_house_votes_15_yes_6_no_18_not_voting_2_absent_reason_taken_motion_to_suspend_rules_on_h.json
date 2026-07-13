@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By House. Votes: 15 YES 6 NO 18 NOT VOTING 2 ABSENT. Reason Taken: Motion to Suspend Rules on HB 245",
+    "occurred_at": "2025-08-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142682",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 245"
+}

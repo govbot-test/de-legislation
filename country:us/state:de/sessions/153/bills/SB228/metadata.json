@@ -1,0 +1,323 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 228",
+  "title": "AN ACT TO AMEND TITLES 9 AND 14 OF THE DELAWARE CODE RELATING TO COUNTY ASSESSMENTS AND TAX COLLECTION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a substitute bill for Senate Bill No. 228. It combines Senate Bill No. 228 and Senate Amendment No. 1 to Senate Bill No. 228. This Act differs from Senate Bill No. 228 by intending to maximize the amount of time New Castle County will have in 2026 to conduct a quality control review of non-residential property assessments and make any adjustments to assessed values while also ensuring sufficient time for the preparation of county and school tax bills in New Castle County with a December 31, 2026 payment deadline:\r\n\r\n1. Adjusts the date by which New Castle County must complete its Quality Control review and make any adjustments to assessed values to September 30, 2026. \r\n2. Adjusts the tax \"due and payable\" date, which is an existing statutory term that is different from a payment deadline, to October 12, 2026. \r\n3. Adjusts the date by which New Castle County must mail out tax statements to November 16, 2026. \r\n4. Adjusts the deadline for payment of tax bills to December 31, 2026. \r\n5. Confirms that penalties for unpaid amounts do not begin until January 1, 2027.\r\n\r\nThis Act also differs from Senate Bill No. 228 by changing the date by which a school board in New Castle County must deliver its warrant to New Castle County to October 22, 2026, and clarifying the State shall advance monies to any school district that experiences a shortfall as a result of the changes in this Act.\r\n\r\nLike Senate Bill No. 228, this Senate Substitute 1 for Senate Bill No. 228 is designed to promote fairness in property assessments and property taxation in New Castle County. The Act provides New Castle County the authority to conduct a quality control review of a tax parcel\u2019s new assessed value after a general reassessment when any of the following conditions exist:\r\n\r\n1. A clerical, mathematical, or factual mistake occurred during the new general reassessment.\r\n2. A non-residential tax parcel whose assessed value from the general reassessment is at least $300,000 but decreased from its previous assessed value.\r\n3. A non-residential tax parcel\u2019s assessed value from the new general reassessment is at least $300,000 and the percentage change in its newly assessed value from its assessed value prior to the new general reassessment is no greater than 50% of the median increase of non-residential properties in that county from the new general reassessment.\r\n4. A non-residential tax parcel\u2019s assessed value from the new general reassessment is at least 25% less than the actual sale price from the parcel\u2019s most recent sale within the 5 years preceding the new general reassessment, whenever the actual sale price is determinable by public records.\r\n\r\nThe quality control review grants the Office of Finance the power to make revisions and corrections to a tax parcel while adhering to the standards of \u00a7\u00a7 8306(a), 8312, and 8321 of Title 9. The Act sets deadlines for the Office of Finance to make adjustments to assessed values and to finalize and mail tax statements.\r\n\r\nThis Act also amends Title 14 to provide a deadline for school boards in New Castle County to deliver their warrants and directs the State to advance funding if a school district experiences a shortfall of funding as a result of the changes in this Act.\r\n\r\nThis Act expires on March 31, 2027, unless otherwise provided by a subsequent act of the General Assembly."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Office of Finance/New Castle County/Quality Control Review/Reassessment"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb228"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of SB 228",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 15 YES 5 NOT VOTING 1 ABSENT",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 3 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Stricken in House",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to SS 1 - Passed In House by Voice Vote",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 35 YES 3 NO 3 NOT VOTING",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 15 YES 6 NOT VOTING",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Enact w/o Sign by Governor",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Daniel Cruce",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Daniel Cruce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 2 to SS 1 for SB 228",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142850&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142850&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142804",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1",
+    "amendment": "HA 2"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

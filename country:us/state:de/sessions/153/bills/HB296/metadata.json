@@ -1,0 +1,166 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 296",
+  "title": "AN ACT TO AMEND TITLE 6 AND TITLE 30 OF THE DELAWARE CODE RELATING TO THE ADMINISTRATIVE RESPONSIBILITIES OF THE DEPARTMENT OF FINANCE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act makes several changes to the Delaware Code relating to the Department of Finance (\u201cDepartment\u201d). \r\n\r\n\r\nSpecifically:\r\n(1) Section 1 of this Act increases public transparency and clarifies that any officer or employee of the Department, or employee of this State who has access to tax returns or information from tax returns, may disclose information that appeared on the face of an expired license previously required to be displayed under \u00a7 2109 of Title 30. \r\n(2) Sections 2 and 3 of this Act define a trust fund tax, lists current trust fund tax types, and updates Title 30 to align all assessment and collection timelines for trust fund tax types. \r\n(3) Section 4 of this Act simplifies that the requirements that allow the Department\u2019s Division of Revenue to take an extended lookback by removing repealed taxes and clarifying that exceptional underreporting measures are applied only against the tax liability and not other tax calculation elements. \r\n(4) Section 5 of this Act updates Title 30 regarding the notice of finality as it relates to trust fund taxes. \r\n(5) Section 6 of this Act modifies the filing due date for all 1099 forms to January 31 following the close of the taxpayer\u2019s taxable year. \r\n(6) Section 7 of this Act clarifies the definition of \u201ctransfer.\u201d  \r\n(7) Sections 8, 9, and 10 of this Act make retroactive technical changes to the trade name registration process under Title 6."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Dept. of Finance/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb296"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Revenue & Finance Committee in House",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Revenue & Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Revenue & Finance) in House with 8 On Its Merits",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Revenue & Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 4 ABSENT",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 3 Favorable, 4 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Madinah Wilson-Anton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Madinah Wilson-Anton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142880",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

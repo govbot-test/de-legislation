@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Adopted in lieu of the original bill HB 442, and Assigned to Appropriations Committee in House",
+    "occurred_at": "2026-06-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143565",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 442"
+}

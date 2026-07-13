@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By Senate. Votes: 14 YES 2 NO 5 NOT VOTING",
+    "occurred_at": "2025-06-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142633",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 200"
+}

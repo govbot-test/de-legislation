@@ -1,0 +1,371 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 444",
+  "title": "AN ACT TO AMEND TITLE 15 OF THE DELAWARE CODE RELATING TO THE DELAWARE JOHN LEWIS VOTING RIGHTS ACT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act amends Chapter 1 of Title 15 and adds a Part VII and Chapter 81 to Title 15 of the Delaware Code to establish a \u201cDelaware John Lewis Voting Rights Act,\u201d (\u201cthe Act\u201d). \r\nSection 1 of the Act amends Chapter 1 of Title 15 to provide definitions necessary for implementation of the Act. Chapter 1 is also amended to ensure that the purpose of Title 15 includes a stated public policy of equal opportunity to participate in the political process. Section 2 adds a \u201cdemocracy canon\u201d which instructs those charged with interpreting statutes, rules and regulations and local laws or ordinances related to the elective franchise to construe the election laws in favor of protecting and making accessible the right to vote. \r\nSection 3 of the Act adds a Part VII and Chapter 81 to Title 15 of the Delaware code to establish a \u201cDelaware Voting Rights Act,\u201d (\u201cthe Act\u201d).\r\nSubchapter I of Part VII lists the mechanisms to challenge voting discrimination, specifying that election policy and practices approved by the General Assembly can be invalidated if they violate the Delaware Constitution, and stating that election laws or practices of a political subdivision or of officials with authority over elections acting within their discretionary authority may be invalidated if they cause prohibited voter suppression or dilution.\r\nProhibited voter suppression prevents election policies or practices that result in, are likely to result in, or are motivated in whole or in part by the intent to result in: 1) a material disparity in voter participation, access to voting opportunities, or the opportunity or ability to participate in any stage of the political process between protected class members and other members of the electorate; or 2) based on the totality of the circumstances, an impairment of the equal opportunity or ability of protected class members to participate in any stage of the political process. A violation must be attributable to an action of the Department of Elections or a political subdivision. Voter suppression is not present where (i) the election policy or practice is necessary to significantly further an important and particularized governmental interest; and (ii) there is no alternative election policy or practice that results in a smaller disparity between protected class members and other members of the electorate. Voter suppression claims do not require evidence of intentional discrimination.\r\nProhibited vote dilution prevents methods of election that have the effect, will likely have the effect, or are motivated in part by the intent of diluting the vote of protected class members. A violation is established when elections in the political subdivision exhibit racially polarized voting resulting in an impairment of the equal opportunity or ability of protected class members to nominate or elect candidates of their choice; or based on the totality of the circumstances, the equal opportunity, or ability of protected class members to nominate or elect candidates of their choice is impaired. To establish the violation, it must be shown that another method of election or changes to the existing method of election could constitutionally be adopted or ordered and would likely mitigate the impairment.\r\nSubchapter I also includes guidelines regarding voter suppression and voter dilution determinations under the Act. It outlines that legal standing will be conferred broadly under the Act, and individuals, organizations, or the Attorney General can bring actions to enforce the prohibitions in a court of competent jurisdiction. Plaintiffs are required in most circumstances to give defendants pre-suit notice under the Act, and defendants may prevent litigation by working with the potential plaintiff to implement a remedy to the alleged violation. Subchapter I also establishes a standard for evaluating a claim where a party seeks preliminary relief. The Subchapter also includes remedies that a court of competent jurisdictionis authorized to provide upon a finding of illegal voter suppression or dilution and allows attorneys\u2019 fees for prevailing plaintiff parties in judicial actions and recovery of costs for those who submit a pre-suit notice letter when jurisdictions voluntarily enact changes after receiving said notice letter up to a $ 60,000 cap, adjusted for inflation. When an entity plans to voluntarily adopt a new election policy or practice after the filing of a lawsuit, the entity shall hold at least one public hearing at which members of the public may provide input regarding such draft or proposal. After the adoption of any remedy, the entity must hold at least one public education event during which they explain all changes to elections resulting from the remedy.\r\nSubchapter II of the Act requires the Department of Elections (\u201cDOE\u201d) to designate 1 or more languages, other than English, for which assistance will be available in elections for local offices if DOE finds that a significant and substantial need exists for such assistance. A finding of significant and substantial need is mandated when more than 2%, but in no instances fewer than 100, of the citizens of voting age of such jurisdiction speak a particular shared language other than English and are limited English proficient individuals or more than 1,000 of the citizens of voting age of such jurisdiction speak a particular shared language other than English and are limited English proficient individuals. DOE shall distribute to affected jurisdictions and publish annually on its website a list of each local office in which language assistance shall be provided and the languages that assistance will be provided in. The Subchapter requires affected local offices to provide this assistance and outlines the materials that are subject to language assistance. The Subchapter also requires DOE to establish a process, which shall include public comment, whereby electors and impacted organizations may petition DOE to decide that there is significant and substantial need for language assistance in a local office that DOE has not previously determined to have such significant and substantial need. The Subchapter also makes clear that limited English proficient individuals may receive assistance from a person of the voter\u2019s choice when voting equivalent to the allowance given to voters with blindness, disability, or illiteracy. The Subchapter also indicates that individuals, organizations, or the Attorney General may bring an action in a court of competent jurisdiction to enforce the Subchapter, and that attorneys\u2019 fees shall be made available to prevailing plaintiff parties.\r\nSubchapter III of the Act prevents intimidation, deception, or obstruction of the right to vote. Under the Subchapter, a person, whether acting under color of state law or otherwise, shall not engage in acts of intimidation, deception or obstruction that interfere with any elector\u2019s right to vote and provides guidance regarding activity that would be considered intimidation, deception, or obstruction of the right to vote. Individuals, organizations, or the Attorney General may bring an action to enforce the prohibitions in a court of competent jurisdiction, and upon finding a violation, the court shall implement appropriate remedies that are tailored to remedy the violation. Damages available to a prevailing plaintiff party upon a finding of a violation include nominal damages for any violation and compensatory or punitive damages for any intentional violation. Attorney\u2019s fees shall also be available for prevailing plaintiff parties. \r\nSection 4 of the bill declares that the Act is severable."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Delaware Johnson Lewis Voting Rights Act/Establish"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb444"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Elections & Government Affairs Committee in House",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in House with 4 On Its Merits",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Appropriations) in House with 3 Favorable, 3 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 444 - Introduced and Placed With Bill",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 444 - Passed In House by Voice Vote",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 29 YES 11 NO 1 ABSENT",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 4 On Its Merits",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Larry Lambert",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Larry Lambert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to HB 444",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143613&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143613&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143415",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

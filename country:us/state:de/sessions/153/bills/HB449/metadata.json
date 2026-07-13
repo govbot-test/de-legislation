@@ -1,0 +1,117 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 449",
+  "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO THE DIETITIAN/NUTRITIONIST LICENSURE ACT.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a Substitute for House Bill No. 449. Like House Bill No. 449, this Substitute Act comprehensively amends Chapter 38 of Title 24 of the Delaware Code, the Dietitian/Nutritionist Licensure Act, to modernize the regulation of dietitians and nutritionists in this State by doing all of the following:\r\n(1) Replacing the single \u201clicensed dietitian/nutritionist\u201d license with 2 distinct licensure categories\u2014\u201clicensed dietitian\u201d and \u201clicensed nutritionist\u201d\u2014each with its own defined scope of practice, educational pathway, supervised practice requirements, examination standards, and protected professional titles. Licensed dietitians are authorized to provide medical nutrition therapy for complex and non-complex disease states and medical conditions, including in inpatient and high-acuity settings, while licensed nutritionists are authorized to provide medical nutrition therapy for non-complex conditions in low-acuity outpatient settings.\r\n(2) Updating the definitions in Chapter 38 of Title 24 to add defined terms, including \u201cmedical nutrition therapy\u201d, \u201ccomplex\u201d, \u201cnon-complex\u201d, \u201cpractice of dietetics\u201d, \u201cpractice of nutrition\u201d, \u201cnutrition care process\u201d, \u201ctherapeutic diet\u201d, \u201cqualified supervisor\u201d, \u201ctelehealth\u201d, and \u201cregistered dietitian\u201d.\r\n(3) Raising the minimum educational requirement for licensed dietitian applicants from a baccalaureate degree to a master\u2019s degree with a program accredited by the Accreditation Council for Education in Nutrition and Dietetics, increases the required supervised practice experience from 900 to 1,000 hours, and modernizes examination requirements by tying them to the Commission on Dietetic Registration. This Substitute Act establishes a parallel licensure pathway for licensed nutritionists based on a master\u2019s or doctoral degree in nutrition with a supervised practice experience of at least 1,000 hours and passage of the certified nutrition specialist examination administered by the Board for Certification of Nutrition Specialists.\r\n(4) Amending the composition of the State Board of Dietetics/Nutrition to include 2 licensed dietitian members, 1 licensed dietitian or licensed nutritionist member, 1 Delaware-licensed physician, and 1 public member. It updates the licensure renewal section to require that continuing education hours for licensed dietitians meet the standards of the Commission on Dietetic Registration, and that continuing education hours for licensed nutritionists meet the standards of the Board for Certification of Nutrition Specialists.\r\n(5) Revising the licensure required section (\u00a7 3810 of Title 24) to establish protected titles for both licensed dietitians and licensed nutritionists, to clarify who may engage in the practice of medical nutrition therapy, and to update the exemptions from licensure requirements. Exemptions are updated or added for students and trainees in supervised practice programs; persons providing general non-medical nutrition information; out-of-state practitioners providing services via telehealth; persons providing wellness, health coaching, and non-medical weight control services; WIC program employees; and others providing non-discretionary support activities under direct supervision.\r\n(6) Adding a new \u00a7 3814 of Title 24 authorizing the Board to issue provisional licenses to applicants who have completed education and supervised practice requirements but have not yet passed their licensure examination.\r\n(7) Providing that existing Delaware licensed dietitian nutritionists who hold the registered dietitian credential will be grandfathered as licensed dietitians and those who do not hold that credential will be grandfathered as licensed nutritionists, without additional requirements.\r\n(8) Making conforming amendments throughout Chapter 38 of Title 24 to replace outdated titles, organizational references, and scope of practice language consistent with the dual licensure structure created by this Act.\r\n(9) Making technical corrections to conform Chapter 38 of Title 24 to the standards of the Delaware Legislative Drafting Manual.\r\nThis Substitute Act differs from House Bill No. 449 by making all of the following changes recommended by the Division of Professional Regulation:\r\n(1) Removing antiquated language prohibiting an individual appointed to fill a vacancy from serving on the Board for only 1 additional full term.\r\n(2) Providing that the actions that require the affirmative vote of 3 members of the Board are related to disciplinary actions under \u00a7 3811(b) of Title 24.\r\n(3) Removing a requirement that an applicant for licensure as a nutritionist must complete the required supervised practice experience within 5 years of completing the required educational requirements.\r\n(4) Clarifying the documentation required related to the supervised practice experience required for an applicant for licensure as a nutritionist.\r\n(5) Removing the requirement that an applicant for licensure as a dietitian or nutritionist complete 75 hours of continuing education for each 5-year period post-examination when the applicant passed the required examination more than 5 years before applying for licensure and has not maintained registration or certification and replacing that requirement with a requirement that the applicant complete continuing education as required by the Board, have actively practiced in dietetics, nutrition, or a substantially related healthcare profession within the last 5 years, completed coursework, supervised practice, or training related to dietetics or nutrition in the last 5 years, or provided other evidence demonstrating current competency.\r\n(6) Providing, as part of the grandfather provisions, for a pathway for nutritionists who are practicing at the level of a dietitian to continue practicing at that level.\r\n(7) Removing the telehealth provision that was in House Bill No. 449 because Chapter 60 of Title 24 applies to the Board.\r\n(8) Reverting to the \"reasonably equivalent\" standard for reciprocity and ensuring reciprocity is available for certified or licensed dietitians or certified or licensed nutritionists from another state whose standards are not reasonably equivalent if the applicant has held the certification or license in good standing for at least 5 years and the Board determines the applicant qualifies for licensure under Chapter 38 of Title 24.\r\n(9) Deferring standards related to qualified supervisors to the Board by regulation.\r\n(10) Providing for delayed implementation of this Substitute Act for 18 months or the adoption by the Board of regulations to implement this Substitute Act, whichever comes first.\r\nThis Substitute Act requires a greater than majority vote for passage because \u00a7 11 of Article VIII of the Delaware Constitution requires the affirmative vote of three-fifths of the members elected to each house of the General Assembly to impose or levy a tax or license fee."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Dietician/Nutritionist Licensure Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb449"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 449",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 41 YES",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Hilovsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Hilovsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143606",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

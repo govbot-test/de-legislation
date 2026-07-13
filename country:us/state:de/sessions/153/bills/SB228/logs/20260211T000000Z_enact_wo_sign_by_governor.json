@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Enact w/o Sign by Governor",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142804",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 228"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Stricken in House",
+    "occurred_at": "2025-06-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142186",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 137"
+}

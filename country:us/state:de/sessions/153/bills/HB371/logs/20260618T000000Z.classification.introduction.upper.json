@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Assigned to Executive Committee in Senate",
+    "occurred_at": "2026-06-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Executive",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143103",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 371"
+}

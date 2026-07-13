@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 37 YES 4 ABSENT",
+    "occurred_at": "2025-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141711",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 24"
+}

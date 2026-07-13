@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of SB 3",
+    "occurred_at": "2025-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142099",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 3"
+}

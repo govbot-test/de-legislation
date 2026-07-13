@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Finance) in Senate with 4 On Its Merits",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141740",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 27"
+}

@@ -1,0 +1,142 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 270",
+  "title": "AN ACT TO AMEND TITLE 26 OF THE DELAWARE CODE RELATING TO PORTABLE SOLAR GENERATION DEVICES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This bill makes provision for solar generation of electricity through small portable solar generation devices. The bill defines the term \u201cportable solar generation device\" and provides that such devices a) may have a maximum power output per meter of not more than 800 watts; b) are designed to be connected to a building\u2019s electrical system through a standard 120-volt alternating current outlet; c) are intended primarily to offset part of the customer\u2019s electricity consumption; and d) meet the standards of the National Electrical Code, as adopted by the State Fire Marshal.  \r\n\r\nPortable solar generation devices that meet the requirements of the new section are exempt from any interconnection requirements in Title 26 of the Delaware Code, Chapter 10, unless the customer intends to engage in net metering. The portable solar generation devices must be installed and operated in accordance with the latest revision of IEEE (Institute of Electrical and Electronics Engineers) 1547, which is the primary standard governing the interconnection and interoperability of distributed energy resources.  \r\n\r\nThe bill provides that an electric distribution company can not require a customer to obtain its approval before installing or using a portable solar generation device. The bill requires an electric distribution company to establish an online registration system, on or before January 15, 2027, through which its customers must register their portable solar generation devices.  \r\n\r\nThe bill also provides that a customer\u2019s electric distribution company is not liable for any injury or damage caused by a portable solar generation device.\r\n\r\nThe bill directs the Delaware Sustainable Energy Utility to perform a safety study of portable solar generation devices and provide a report with findings and recommendations for future expansion of these systems in Delaware by January 1, 2027."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Portable Solar Generation Devices/Provision/Allow"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb270"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephanie L. Hansen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stephanie L. Hansen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143022",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

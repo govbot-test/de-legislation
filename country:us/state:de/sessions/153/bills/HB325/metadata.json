@@ -1,0 +1,283 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 325",
+  "title": "AN ACT TO AMEND THE DELAWARE CODE RELATING TO PHYSICIAN ASSOCIATES AND PHYSICIAN ASSISTANTS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act changes the title of \u201cphysician assistant\u201d to \u201cphysician associate\u201d in Title 24, as well as changes the references from physician assistant to physician associate throughout the Delaware Code. It does not change any rights or privileges of those who have been or continue to hold themselves out to be a \u201cphysician assistant.\u201d \r\nCurrent law provides that a physician associate may not maintain or manage a location that does not have oversight by the physician associate\u2019s collaborating physician. This Act provides that a licensed physician associate with more than 6,000 post-graduate clinical practice hours who intends to practice without a collaborative agreement must apply to the Regulatory Council for Physician Assistants for independent practice authority.\r\nThis Act also provides that the Regulatory Council for Physician Associates must adopt rules and regulations to address the following: (1) the verification of post-graduate clinical practice hours for physician associates with more than 6,000 post-graduate clinical practice hours; (2) creating an application for physician associates with more than 6,000 post-graduate clinical practice hours to request independent practice authority; (3) creating a process for physician associates who practice without at least 1 licensed Delaware physician in the group, practice, or health system, and have been granted independent practice authority, to notify the Physician Associates Regulatory Council prior to a change of their practice area and provide proof they have had training which aligns to the new practice area; and (4) the conditions under which a physician associate may be denied independent practice authority and how to reapply.\r\nThe Act also provides that a physician associate is considered to be a primary care provider when practicing in the medical specialties for a physician to be a primary care provider. Payment for services within the physician associate\u2019s scope of practice must be made when ordered or performed by the physician associate, if the same service would have been covered if ordered or performed by a physician. Payment for services must be based on the services provided and not on the health care professional who delivered the service. Physician associates must be authorized to bill for and receive direct payment for the medically necessary services they deliver.\r\nThe Act also provides that a physician associate who has independent practice authority may sign the special disabled license plate or placard applicant form certifying that a person is disabled, for use in an application to receive a special license plate.\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.\r\nThis Act is effective immediately and to be implemented the earlier of : (1) One year from the date of the Act\u2019s enactment; or (2) When the Board of Medical Licensure and Discipline approves the enabling regulations promulgated by the Regulatory Council of Physician Associates."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Physician Associates/Change in DE Code"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb325"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Sunset Committee (Policy Analysis & Government Accountability) Committee in House",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability)",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Sunset Committee (Policy Analysis & Government Accountability)) in House with 3 On Its Merits",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Sunset Committee (Policy Analysis & Government Accountability",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 325 - Introduced and Placed With Bill",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 325 - Passed In House by Voice Vote",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HB 325 - Introduced and Placed With Bill",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 2 to HB 325 - Passed In House by Voice Vote",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 38 YES 3 ABSENT",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Legislative Oversight & Sunset Committee in Senate",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Legislative Oversight & Sunset) in Senate with 1 Favorable, 3 On Its Merits",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 NO",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alonna Berry",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Alonna Berry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to HB 325",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143013&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143013&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 2 to HB 325",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143083&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143083&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142941",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1, HA 2"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

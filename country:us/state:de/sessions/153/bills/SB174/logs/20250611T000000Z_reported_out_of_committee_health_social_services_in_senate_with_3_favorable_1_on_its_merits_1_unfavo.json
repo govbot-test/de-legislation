@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Health & Social Services) in Senate with 3 Favorable, 1 On Its Merits, 1 Unfavorable",
+    "occurred_at": "2025-06-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Social Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142428",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 174"
+}

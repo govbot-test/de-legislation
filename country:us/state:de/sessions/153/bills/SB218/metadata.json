@@ -1,0 +1,158 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 218",
+  "title": "AN ACT TO AMEND TITLE 24 OF THE DELAWARE CODE RELATING TO THE INTERSTATE MASSAGE COMPACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act adopts the Interstate Massage Compact (\u201cCompact\u201d). The purpose of the Compact is to reduce the burdens on state governments and to facilitate and regulate the interstate practice of massage therapy by creating a framework for a multistate licensing program. The multistate licensing program provides increased value and mobility to licensed massage therapists, including military members and their spouses, and ensures safe, competent, and reliable massage therapy services are provided to the public.\r\n\r\nThe Compact allows individuals residing in a state that joins the Compact (a \u201cmember state\u201d) to apply, through the state, for a multistate license. A multistate license allows a qualifying licensee to practice massage therapy in all member states. Applicants for a multistate license must hold an unrestricted license to practice massage therapy in the applicant\u2019s home state and must meet educational, national licensing examination, and background check requirements to qualify for a multistate license. Licensees must meet continuing competency requirements to qualify for renewal of a multistate license. Member states share information related to disciplinary actions against licensees, investigations of licensees, and anything that would disqualify a licensee from holding a multistate license so that each member state is aware if a licensee\u2019s authority to practice is restricted or if the licensee is disqualified from practicing massage therapy.\r\n\r\nThe Compact is effective on the seventh state enacting legislation to join the Compact. As of January 23, 2026, 5 states have enacted legislation adopting the Compact and legislation is pending in 5 states. This Act takes effect on the date of publication in the Register of Regulations of a notice by the Secretary of State that the Compact has been adopted by at least 7 states."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Interstate Massage Compact/Adopt"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb218"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Legislative Oversight & Sunset Committee in Senate",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Oversight & Sunset",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Buckson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Eric Buckson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142812",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

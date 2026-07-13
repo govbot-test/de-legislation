@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of SB 13",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143519",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 13"
+}

@@ -1,0 +1,102 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 350",
+  "title": "AN ACT TO AMEND TITLE 9 AND TITLE 14 OF THE DELAWARE CODE RELATING TO REAL PROPERTY TAXATION, CLASSIFICATION, AND SPLIT-RATE TAX AUTHORITY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act establishes a uniform statewide framework for classifying taxable real property and explicitly grants split-rate tax authority to counties, school districts, and vocational-technical school districts.\r\n\r\nThe Act defines four baseline, statewide property classes based on use: Class A (one-to-four-family residential property); Class B (multifamily residential property, including affordable and income-restricted housing); Class C (non-residential commercial, industrial, utility, and institutional property); and Class D (mixed-use property, which must have its assessed value allocated proportionally among the other classes based on floor area or another objective measure). The Act explicitly declares that Class A and Class B properties together comprise Delaware\u2019s residential housing sector and protects multifamily housing from being treated as commercial or industrial property for tax purposes.\r\n\r\nTo protect renters and affordable housing developments from disproportionate tax burdens following property reassessments, this Act implements statutory tax caps on multifamily properties. Any county tax rate imposed on Class B multifamily residential real property may not exceed the rate imposed on Class A one-to-four-family residential real property in the same fiscal year. Furthermore, local school and vocational-technical district tax rates imposed on Class B multifamily residential real property are strictly capped at 120% of the rate applied to Class A residential property within the same jurisdiction and tax year.\r\n\r\nThe Act requires that if a county, school district, or vocational-technical school district resets its tax rates to implement these classifications, the restructuring must be completely revenue-neutral, meaning total projected revenue cannot exceed the amount originally projected under the applicable tax warrant. Finally, the Act clarifies that jurisdictions are not required to adopt multiple tax rates and may choose to maintain a single uniform rate across all property types, while preserving all existing statutory post-reassessment revenue limits, such as the 15% county cap and 10% school district limits."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Taxable Real Property/Framework/Split Rate"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb350"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Executive Committee in Senate",
+      "date": "2026-06-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143629",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

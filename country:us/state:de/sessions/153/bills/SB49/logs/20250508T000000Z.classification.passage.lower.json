@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 33 YES 8 ABSENT",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141817",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 49"
+}

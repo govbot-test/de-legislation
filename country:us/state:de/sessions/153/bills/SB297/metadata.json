@@ -1,0 +1,222 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 297",
+  "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO CONSUMER PROTECTION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act adds a clarifying interpretive paragraph to the Delaware Consumer Fraud Act (Subchapter II, Chapter 25, Title 6 of the Code) to address a recent decision by the Delaware Supreme Court and to make clear that the Consumer Fraud Act\u2019s use of the phrase \u201cin connection with\u201d in \u00a7 2513 should be interpreted to include unfair and deceptive acts and practices that occur \u201cbefore, during, and after\u201d the sale, lease, receipt, or advertisement of any merchandise. The Delaware Supreme Court recently construed the Consumer Fraud Act to be confined to conduct \u201cbetween businesses and consumers which happen before a transaction or during the transaction itself.\u201d Blue Beach Bungalows DE, LLC v. State, No. 14, 2025, 2025 WL 3768232, at *11 (Del. Dec. 30, 2025). However, in recognition of the broad purpose of the Consumer Fraud Act set forth by the 123rd General Assembly in Section 2512, subsequent amendments to the Consumer Fraud Act to include the \u201creceipt\u201d of merchandise, and the scope of comparable statutes in other states, this bill ensures that the Consumer Fraud Act is interpreted to apply to unfair or deceptive conduct that occurs after a sale, lease, receipt, or advertisement, including, but not limited to, conduct occurring in instances in which a sale, lease, receipt, or advertisement creates an ongoing relationship or a continuing obligation, or where performance has not yet been completed. This aligns the Consumer Fraud Act with Unfair or Deceptive Acts or Practices (\u201cUDAP\u201d) laws with similar language in other states, as well as many other UDAP laws, including the FTC Act, that cover post-transaction conduct.\r\nThis Act will allow the Delaware Department of Justice to use the Consumer Fraud Act to address the full range of unfair and deceptive acts or practices that consumers report to the Delaware Department of Justice, including, for example, false and threatening landlord communications, unscrupulous debt collection tactics, and failures to honor promises to fix returned merchandise.  It will also ensure that businesses throughout the state can compete on a level playing field throughout the duration of their relationships with consumers, without being undercut by unscrupulous competitors who engage in post-transaction misconduct.  Additionally, it ensures that the Delaware Department of Justice is not disadvantaged when coordinating with other states to hold entities accountable for unfair or deceptive acts or practices that are nationwide in scope."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Consumer Fraud Act/Clarifying Language/Add"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb297"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 3 Favorable, 5 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in House",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 8 On Its Merits",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 36 YES 1 NO 4 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephanie L. Hansen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stephanie L. Hansen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143213",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

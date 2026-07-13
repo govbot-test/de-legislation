@@ -1,0 +1,86 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 352",
+  "title": "AN ACT TO AMEND TITLE 25 OF THE DELAWARE CODE RELATING TO THE DELAWARE UNIFORM COMMON INTEREST OWNERSHIP ACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act strengthens requirements relating to reserve studies to ensure common interest communities have adequate reserves to provide for reliable and timely repairs and replacement projects. Reserve studies are budget planning tools to be used by common interest communities to identify components in a community for which the association is responsible for repair and replacement, the useful and remaining life of those components, the estimated cost of repair and replacement, the current status of money available to complete those repairs and replacements, and establishes a funding plan to offset the anticipated costs without reliance on special assessments. The goal of this is to ensure maintenance and repair is done in a timely manner to prevent loss of property value and, in the most severe cases, loss of life. \r\n\r\nGuidelines for the preparation of reserve studies are established by the Community Associations Institute. This Act updates the timeframe from which projected expenses must be calculated, requires fa\u00e7ade and structural inspections to be conducted on certain buildings, and those inspections and the maintenance needs identified in those inspection reports, to be incorporated into the reserve study, and for reserve studies to be conducted more often in certain circumstances. This Act requires small condominiums and cooperatives under \u00a7 81-117, preexisting common interest communities and approved common interest communities under \u00a7 81-119, and small preexisting cooperatives under \u00a7 81-120 to comply with the inspection and reserve study requirements. \r\n\r\nThis Act also gives the Consumer Protection Unit of the Department of Justice the ability to enforce violations of the Delaware Uniform Common Interest Ownership Act. Under current law, enforcement requires private enforcement through lawsuits or alternative dispute resolution. \r\n\r\nThis Act takes effect 1 year after its enactment into law. This Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.\r\n\r\nThis Act is based on recommendations provided by the New Castle County Council Common Interest Community Task Force, which was motivated by the tragedy of the Champlain Tower South condominium collapse in Surfside, Florida, in which 98 people died."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Reserve Studies/Strengthen Requirements"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb352"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Executive Committee in Senate",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Daniel Cruce",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Daniel Cruce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143651",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment HA 2 to SS 1 - Introduced and Placed With Bill",
+    "occurred_at": "2026-06-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142564",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 116"
+}

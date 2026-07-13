@@ -1,0 +1,134 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 314",
+  "title": "AN ACT TO AMEND TITLE 28 AND TITLE 29 OF THE DELAWARE CODE RELATING TO STUDENT ATHLETE PROTECTION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Sports betting is legal in at least 39 states, including Delaware. The increase in sports betting has also seen an increase in threats to and harassment of student athletes. A September 2023 National Collegiate Athletic Association (\u201cNCAA\u201d) survey of campus administrators found 10% of Division I respondents said they were aware of student-athletes being harassed online or in person by someone with gambling interests. And, data from the 2024 March Madness indicated 1 in 3 high-profile student athletes received abusive messages from someone with a gambling interest. With the increase in student athlete harassment, the NCAA and others are urging states to take action. To that end, this Act seeks to protect student athletes from harassment by doing all of the following:\r\n(1) Creating a criminal offense of student athlete harassment.\r\n(2) Permitting a student athlete who is the victim of student athlete harassment to sue a person convicted of student athlete harassment.\r\n(3) Requiring the Director of the State Lottery Office (\u201cDirector\u201d) to exclude a person from participating in the play of any table game, sports lottery game, video lottery game, or Internet lottery game in Delaware if the person is convicted of student athlete harassment.  \r\n(4) Permitting the Director, on an emergency basis, to exclude a person from participating in the play of a sports lottery game if the Director finds the person threatened violence or harm against a student athlete if the threat is related to a sports lottery game.\r\n(5) Requiring the Director and Division of Gaming Enforcement to establish and publicize a method of receiving reports from a student athlete or a coach of an intercollegiate sport relating to student athlete harassment."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Student Athletes/Harassment/Protections"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb314"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in House",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 314 - Introduced and Placed With Bill",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Motion to Release Failed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valerie Jones Giltner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Valerie Jones Giltner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142923",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

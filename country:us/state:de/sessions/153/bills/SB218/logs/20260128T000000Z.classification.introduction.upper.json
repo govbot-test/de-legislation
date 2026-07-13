@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Introduced and Assigned to Legislative Oversight & Sunset Committee in Senate",
+    "occurred_at": "2026-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Legislative Oversight & Sunset",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142812",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 218"
+}

@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Adopted in lieu of the original bill HB 174, and Assigned to Judiciary Committee in House",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142885",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 174"
+}

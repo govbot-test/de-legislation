@@ -1,0 +1,305 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 450",
+  "title": "AN ACT TO AMEND TITLE 9, TITLE 17, TITLE 22, AND TITLE 29 OF THE DELAWARE CODE RELATING TO LAND USE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a Substitute for House Bill No. 450. Like House Bill No. 450, this Substitute Act is to be known as the Reforming Opportunities and Accelerated Development for Delaware Act (\u201cROAD-DE Act\u201d) and will make significant changes to Delaware\u2019s land use permitting process by building on Governor Meyer\u2019s Executive Order No. 18, which created the Permitting Accelerator to reform policies, processes, and procedures that have accumulated over decades and are holding back jobs, housing, and other critical infrastructure statewide.\r\n\r\nIn 2019, a study of Delaware\u2019s permitting process was undertaken. The study concluded that Delaware\u2019s permitting process was significantly longer and more challenging than those of surrounding states in the region. In 2025, this State began digitizing permitting processes. During the initial stages of that effort, more than 52 hours of interviews with 57 stakeholders were conducted across state agencies, local governments, developers, and technical experts. Those interviews revealed that statewide delays are not driven by isolated performance issues. Rather, they stem from structural misalignment, sequential review processes, incentive distortions, and capacity constraints that compound across agencies.\r\n\r\nDelaware\u2019s permitting process can stretch beyond 24 months, placing this State at a distinct economic development disadvantage when it comes to attracting and growing businesses. In the region, Delaware\u2019s competitors, including Maryland and Pennsylvania, can achieve substantially faster permit approvals, making them more attractive locations for economic development and affordable housing.\r\n\r\nThe 2019 and 2025 studies resulted in recommendations that the permitting process be streamlined and modified to improve accountability and eliminate redundancies within various government agencies, particularly within the Delaware Department of Transportation (\u201cDelDOT\u201d). To implement these recommendations, this Substitute Act, like House Bill No. 450, does all of the following:\r\n\r\n(1) Section 1 of this Substitute Act requires DelDOT to base the threshold for determining if a traffic impact study is required on peak-hour trips, not vehicle trips per day, and set the minimum peak hour trips threshold at 500 peak-hour trips for residential developments and 500 peak-hour trips, excluding pass-by trips, for all other development types.\r\n\r\n(2) Sections 2, 4, 6, and 8 of this Substitute Act require the counties and municipalities to base their threshold for determining if a traffic impact study is required on the same requirements as required for DelDOT in Section 1 of this Act.\r\n\r\n(3) Sections 3, 5, 7, and 8 of this Substitute Act provide for certain residential density requirements.\r\n\r\n(4) Section 9 of this Substitute Act requires DelDOT to deploy, operate, and maintain technological systems for the automated monitoring, analysis, and management of transportation infrastructure and traffic operations.\r\n\r\n(5) Section 10 of this Substitute Act provides that engineering studies or traffic investigations conducted by DelDOT may include automated or continuous data collection systems, remote sensing technologies, digital imaging, algorithmic analysis of traffic patterns, and other technological methods used to evaluate roadway safety, traffic operations, and infrastructure conditions.\r\n\r\n(6) Section 11 of this Substitute Act requires DelDOT to establish and collect transportation impact fees throughout this State and to use the moneys collected to fund off-site improvements to bring existing transportation infrastructure up to current State standards. Additionally, this Section requires DelDOT to use the moneys collected in the county in which the transportation impact fee was collected unless the county or the municipalities within the county fail to adopt the traffic impact study and residential density requirements under Sections 2 through 8 of this Act. \r\n\r\nThis Substitute Act differs from House Bill No. 450 as follows:\r\n\r\n(1) Changes the residential density requirements provision contained in Sections 3, 5, 7, and 8 of this Substitute Act for the original Act.\r\n(2) Requires DelDOT to consult with the applicable municipal government on how to spend the money collected from the transportation impact fee.\r\n(3) Increases the amount of the surcharge DelDOT must assess on the transportation impact fee from 1% to 2%.\r\n(4) Adds the Brownfield Development Program as 1 of the programs to receive money from the surcharge assessed on the transportation impact fee by DelDOT.\r\n\r\nThis Substitute Act requires a greater than majority vote for passage because \u00a7 1 of Article IX of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend a municipal charter, whether directly, by amendment to a specific municipality\u2019s charter, or, as in this Act, indirectly, by a general law.\r\n\r\nThis Substitute Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "ROAD-DE Act/Establish"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb450"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of HB 450",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Appropriations) in House with 6 On Its Merits",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 1 NO 1 ABSENT",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 1 Favorable, 5 On Its Merits",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 4 On Its Merits",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Madinah Wilson-Anton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Madinah Wilson-Anton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143497",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

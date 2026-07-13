@@ -1,0 +1,110 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 348",
+  "title": "AN ACT TO AMEND TITLE 4 OF THE DELAWARE CODE RELATING TO PRIVATE EVENTS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "In Delaware, there are 44 event venues that host events like weddings and receptions. To host events where alcohol is served, event venues must have a bottle club license. Under \u00a7 101 of Title 4, a bottle club is defined as a business where customers \u201center on the premises for the purpose of consuming alcoholic liquors\u201d brought by the customers. This definition can make the pathway for licensure unclear for event venues with customers that enter on the premises for the purpose of hosting and attending private events that sometimes include alcohol. Only 8 of the event venues in Delaware have a bottle club license. Adding a license that allows venues to host events with alcohol would reduce regulatory confusion by creating a clear pathway for event venues to apply for licensure. Also, event venues or the venues\u2019 customers often hire caterers to provide food and alcohol to event guests, but  Delaware grants licenses to purchase and resell alcohol only to caterers with at least 60% of their gross receipts resulting from the sale of food. In practice, this requirement limits flexibility, raises costs, and complicates event planning. So long as a reasonable selection of food is available, allowing the Commissioner to grant a license to caterers to serve alcohol at private, invitation-only events without the requirement to serve food would provide more flexibility for event planners and event venues, help with collaboration, and saves on costs.\r\n\r\nAdding a private event license and granting caterer licenses to provide alcohol at private events without  requiring the caterer to also provide food would help eliminate gray areas in licensing and bring more events under the legal oversight of the Alcoholic Beverage Control Commissioner (\u201cCommissioner\u201d). These licensing changes would encourage economic activity in Delaware\u2019s small business, event, and hospitality sections while ensuring public safety and maintaining accountability.  \r\n\r\nThis Act adds a private event license under \u00a7 512I of Title 4 to replace the current bottle club license for private social gatherings under \u00a7 515A(c)(2) of Title 4. Bottle club licenses granted under \u00a7 515A(c)(2) of Title 4 prior to the Act\u2019s enactment may be retained and transferred, as allowed by the Commissioner. A \u201cprivate event venue\u201d means an establishment operated for profit or pecuniary gain used for private events. A \u201cprivate event\u201d means an invitation-only event with up to 1,000 guests, like weddings, dinners, benefits, and banquets. The private event license allows the person in charge of a private event or the owner, lessor, or person in charge of a private event venue to hold a private event at which alcoholic liquors are provided for consumption on the licensed premises. The alcoholic liquors may be provided by an off-site caterer licensed under \u00a7 512(g) of Title 4 or the customer, the customer\u2019s invited guests, or both. The private event license does not allow a licensee to receive, keep, or sell alcoholic liquors. A private event licensee is also subject to limitations on the hours when alcohol may be sold or consumed on the premises and how long alcohol may be on the premises before and after a private event. Also, private event licensees have certain requirements, including maintaining liability insurance; making sure that if a licensed off-site caterer is hired, only that licensed off-site caterer provides alcohol; not providing alcohol to an individual under the age of 21 years; and making sure that there is an adequate selection of food, as determined by the Commissioner, at each private event.\r\n\r\nThere are 2 types of private event licenses. A person may apply for a single event license that is valid only for the date and location specified in the application or a biennial premises license valid for any private event held on the licensed premises within a 2-year period. The fee for a single event license is $50 and the fee for a biennial premises license is $1,000. A private event licensee holding a biennial premises license must report each private event to the Commissioner at least 10 business days before the private event. The report must include the private event\u2019s time and date, the number of guests invited, if the alcohol will be provided by an off-site caterer or the customer, and any other information required by the Commissioner.\r\n\r\nThis Act also allows the Commissioner to grant licenses to caterers and off-site caterers under \u00a7 512(g) of Title 4, without the requirement to sell food, only if caterers or off-site caterers provide alcohol at a private event held on licensed premises. At each private event, an adequate selection of food, as determined by the Commissioner, must be available while alcoholic liquors are sold, served, or consumed. The food may be provided by another person, including a private event licensee, another caterer, another off-site caterer, or the customer. If the caterer or off-site caterer is hired to provide alcoholic liquors at a private event, all alcoholic liquors sold, served, or consumed must be provided by that caterer or off-site caterer. And the caterer or off-site caterer must report each private event, as required by the Commissioner.\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.\r\n\r\nThis Act takes effect on enactment and is to be implemented the earlier of the following:\r\n1. Six months from the date of the Act\u2019s enactment.\r\n2. Notice by the Commissioner in the Register of Regulations that final regulations to implement this Act have been adopted. \r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 11 of Article VIII of the Delaware Constitution requires the affirmative vote of three-fifths of the members elected to each house of the General Assembly to impose or levy a tax or license fee."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Alcohol/Private Events/Licensed Premises"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb348"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Eric Buckson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Eric Buckson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael F. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael F. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143622",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

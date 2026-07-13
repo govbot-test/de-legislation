@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment SA 1 to SB 249 - Stricken in Senate",
+    "occurred_at": "2026-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142912",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 249"
+}

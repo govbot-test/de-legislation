@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of HB 151",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143093",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 151"
+}

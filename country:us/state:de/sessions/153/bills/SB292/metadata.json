@@ -1,0 +1,335 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 292",
+  "title": "AN ACT TO AMEND TITLE 25 OF THE DELAWARE CODE RELATING TO THE LANDLORD-TENANT CODE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act requires that when all or part of the tenant\u2019s rent is paid from a state fund for reentry services, a landlord must assist the tenant in completing a discharge plan to attempt to provide a warm handoff before terminating the tenant\u2019s lease. This Act also closes a loophole in existing law that allows unlicensed or uncertified operators of residential housing to claim exemption from the Residential Landlord-Tenant Code, including the procedural requirements for an eviction. \r\n\r\nExisting laws prohibit someone from losing their housing without notice because\r\n\u2022\tA landlord must comply with the notice and judicial procedure under the Residential Landlord-Tenant Code, Part III, Title 25.\r\n\u2022\tLicensed health care providers must provide discharge planning before an individual is required to leave a residential treatment program under \u00a7 1127, \u00a7 5161, and \u00a7 3004J of Title 16.\r\n\u2022\tCertified recovery homes must make a reasonable effort to connect a resident with appropriate services when terminating the resident\u2019s admission agreement under \u00a7 2206A of Title 16.\r\n\r\nSection 1 of this Act closes a loophole in current law that allows some landlords to claim their tenants are excluded under \u00a7 5102(1) of Title 25 from the protections required before eviction under the Residential Landlord-Tenant Code without being required to provide discharge planning or connecting the resident with appropriate services. This Act revises 3 of the exclusions by using the modern terms and where possible, the applicable licensing law for this State, to prevent housing providers from claiming exclusion from the Residential Landlord-Tenant Code even if the provider is not licensed or certified to provide services. This Act does not apply to or revise the exclusions to the Residential Landlord-Tenant Code under paragraphs (4) through (6) of \u00a7 5102 of Title 25, including the existing exclusion for certified recovery houses.\r\n\r\nSection 2 of this Act creates new requirements under \u00a7 5512A of Title 25 if all or part of a tenant\u2019s rent is paid using money from a State reentry fund. Before or with the first payment, the person responsible for payments from the fund must provide the landlord with an explanation of these requirements, contact information, and the model discharge plan. The Department of Health and Social Services (DHSS), in consultation with the Department of Justice (DOJ), must create a model discharge plan. Then, before terminating the tenant\u2019s lease, the landlord must assist the individual in creating a discharge plan that includes shelter or housing and provide notice that the tenant\u2019s lease is being terminated as follows:\r\n\u2022\tTo the person making rent payments from the fund.\r\n\u2022\tIf the landlord knows that the tenant is under the supervision of the Department of Correction, to the Department of Correction and the local law enforcement agency.\r\n\r\nIf a landlord fails to comply with the discharge planning and notice requirements, the landlord is debarred from receiving payments from any State reentry fund for 1 year. If the landlord is receiving payments from a State reentry fund for any other tenants, those tenants are not responsible for the share of the rent that was paid by the fund and have the option to do any of the following:\r\n\u2022\tContinue the tenancy without payments from the fund. If the tenant chooses to continue their tenancy, the amount of their rent becomes the tenant\u2019s share of the rent, calculated by subtracting the amount paid by the fund from the total rent under the rental agreement.\r\n\u2022\tTerminate the lease immediately.\r\n\u2022\tTerminate the lease with 30 to 60 days notice.\r\n\r\nThese requirements are enforceable by the Department of Justice and also by the Justice of the Peace Court, because the contents of an eviction complaint must include a brief statement of compliance with the requirements under \u00a7 5512A(c) and copies of all required notices.\r\n\r\nSection 3 of this Act is a technical clarification to clarify that \u201cthis Code\u201d and \u201cLandlord-Tenant Code\u201d both refer to the Residential Landlord-Tenant Code under Part III of this title. Both \u201cthis Code\u201d and \u201cLandlord-Tenant Code\u201d are used throughout Chapter 51 through Chapter 59 of Title 25 as abbreviations of the Residential Landlord-Tenant Code and under \u00a7 101 of Title 1, \u201cthis Code\u201d could also refer to the entire Delaware Code.\r\n\r\nSection 4 of this Act makes the new requirements for reentry funds under \u00a7 5512A of Title 25 applicable to the rental of single rooms in owner-occupied buildings under \u00a7 5512 of Title 25. Section 4 also reorganizes the existing language in \u00a7 5512 because as 1 sentence, the current language is difficult to understand.\r\n\r\nThis Act takes effect 6 months after enactment to provide time for DHSS and DOJ to develop the model discharge plan and for agencies, including the Department of Correction and local law enforcement agencies, to develop policies and procedures necessary to implement and respond to notification under these requirements. The new requirements under \u00a7 5512A of Title 25 apply to rental agreements entered into on or after the effective date of this Act.\r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual.\r\n\r\nThis Act is known as \u201cThe Grace Peterson Act\u201d."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "The Grace Peterson Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb292"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Housing & Land Use Committee in Senate",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing & Land Use) in Senate with 4 Favorable, 1 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Housing Committee in House",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing) in House with 5 Favorable, 5 On Its Merits",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 40 YES 1 ABSENT",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephanie L. Hansen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stephanie L. Hansen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143172",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

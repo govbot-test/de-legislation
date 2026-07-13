@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Introduced and Assigned to Capital Infrastructure Committee in House",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Capital Infrastructure",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143658",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 500"
+}

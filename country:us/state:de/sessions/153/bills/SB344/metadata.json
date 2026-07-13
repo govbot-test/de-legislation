@@ -1,0 +1,86 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 344",
+  "title": "AN ACT TO AMEND TITLE 14 AND TITLE 31 OF THE DELAWARE CODE RELATING TO BACKGROUND CHECKS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act establishes that a fingerprint-based criminal background check and Child Protection Registry check completed for a volunteer for one public school is valid at any other public school in the State for the duration of the check\u2019s validity period. This Act also includes public school volunteers in the State's continuous \"Rap Back System\" for ongoing monitoring and provides that the State must bear the costs associated with obtaining these checks for approved volunteers.\r\nThis Act is effective immediately and is to be implemented on the earlier of 1 year from the date of enactment or publication of notice by the Department of Education that final regulations have been promulgated."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Background Checks/Public Schools/Volunteers/Clarify"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb344"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in Senate",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Elizabeth Lockman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"S. Elizabeth Lockman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143438",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

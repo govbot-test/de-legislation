@@ -1,0 +1,80 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 262",
+  "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO THE UNIFORM CONTROLLED SUBSTANCES ACT.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Kratom is an herb derived from a leafy Southeast Asia tree, known formally as Mitragyna speciosa. Kratom contains two psychoactive compounds, mitragynine and 7-hydroximitragynine. Both compounds can bind to opioid receptors in the brain and produce a pharmacological response similar to the effects of other opioids, such as morphine, and can lead to addiction. An estimated 11 to 15 million Americans consume Kratom regularly.\r\nAccording to a 2025 study by the Legislative Analysis and Public Policy Association, 24 states and the District of Columbia regulate kratom or its components in some manner. In six states (Alabama, Arkansas, Indiana, Rhode Island, Vermont, and Wisconsin) and the District of Columbia, kratom\u2019s psychoactive components are considered controlled substances. In 18 states, the possession, sale, manufacture, etc. of kratom products is regulated.\r\nA Center for Disease Control analysis found that kratom was implicated in 846 fatal overdose cases across 30 states and the District of Columbia in 2022. Other reports suggest over 2,000 fatal overdoses have been linked to kratom since 2021.\r\nThis Act amends Delaware\u2019s Uniform Controlled Substances Act. The Act defines \u201cKratom\u201d and \u201cKratom Products\u201d. The Act makes it unlawful to manufacture, distribute, sell, offer to sell, or possess with intent to sell a Kratom Product. \r\nThis Substitute differs from the original bill in that it fits kratom into the Uniform Controlled Substances Act by specifying tier quantities for drug offenses that result in the classification of the charge under the existing criminal framework. It moves to the definition of \"kratom products\" any product that contains the active ingredients of kratom, regardless of whether the product is represented, labeled, or marketed as \u201ckratom\u201d or not. It removes criminal charges for simple possession by an individual, and it clarifies that manufacturing, selling, or delivery of kratom or similar products is subject to criminal charges under this chapter."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Uniform Controlled Substances Act/Kratom/Add"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb262"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 262, and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143097",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

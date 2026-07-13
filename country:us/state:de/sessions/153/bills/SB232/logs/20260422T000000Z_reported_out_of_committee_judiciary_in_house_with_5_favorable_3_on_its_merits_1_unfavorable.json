@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Judiciary) in House with 5 Favorable, 3 On Its Merits, 1 Unfavorable",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142813",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 232"
+}

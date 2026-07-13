@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced in House",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142251",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HCR 47"
+}

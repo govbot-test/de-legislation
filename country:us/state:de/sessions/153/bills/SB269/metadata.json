@@ -1,0 +1,173 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 269",
+  "title": "AN ACT AMEND TITLE 18 AND TITLE 29 OF THE DELAWARE CODE RELATING TO HEARING AID COVERAGE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Early access to language is essential to child development. Children identified as Deaf or hard of hearing rely on hearing aids for language development. Language development leads to success in school. Medicaid coverage of hearing aids for children younger than 21 years old applies only to children who qualify for Medicaid. Delaware currently requires private insurers to provide minimum coverage of $1,000 for each hearing aid for individuals younger than 24 years old, covered as a dependent by the policyholder. The cost of hearing aids can vary widely but can cost from $3,000 to $5,000 out-of-pocket. This can be too expensive for families, even with the current $1,000 coverage requirement. The cost of a cochlear implant can range from $30,000 to $100,000, depending on the necessary device, surgery, and rehabilitation. Delaware does not currently require insurers to cover the costs of cochlear implants.\r\n\r\nThis Act is a second substitute for Senate Bill No. 269 and differs from the first substitute Senate Bill No. 269 by changing the cost-sharing limitation to require insurers to cover at least 95%, instead 100%, of the cost of benefits for hearing aid and earmold benefits provided under \u00a7 3357(b)(1)a.,  \u00a7 3571A(b)(1)a., and \u00a7 5224(b)(1)a. of this Act.\r\n\r\nLike the first substitute to Senate Bill No. 269, this Act differs from Senate Bill No. 269 in all of the following ways:\r\n1) Includes external sound processors in the definition of a cochlear implant.\r\n2) Clarifies that, for group and blanket health policies and the state employee health plan, the required coverage of hearing-aid related parts and services is limited to individuals younger than 26 years old and covered as a dependent by the policyholder.\r\n3) Names this Act in honor of T. Hollis Jennings who is a testament to the success of state-mandated hearing aid coverage and early intervention. Hollis got hearing aids when she was an infant. Her language developed typically, with no need for speech therapy. She now exceeds grade-level benchmarks in math and ELA. She\u2019s also a phenomenal singer.\r\n4)  Makes technical changes to strike through and underline format to make it easier to see changes and to correct grammar.\r\n\r\nLike Senate Bill No. 269 and the first substitute for Senate Bill No. 269, this Act requires individual health insurance policies under Chapter 33 of Title 18, group and blanket health insurance policies under Chapter 35 of Title 18, and the state employee health plan under Chapter 52 of Title 29 to cover all of the following:\r\n1) At least 1 hearing aid for each ear at least every 3 years, or before the expiration of the 3-year period if a health care professional determines that a new hearing aid is medically necessary. For hearing aids with earmolds, insurers are required to cover at least 1 earmold for each ear at least annually, or sooner if new earmolds are medically necessary. The cost-sharing limitation applies only to coverage of hearing aids. The types of hearing aid covered includes a hearing aid with an earmold, a hearing aid with slim tubing, a receiver-in-ear hearing aid, a bone-anchored hearing aid, and a cochlear implant.\r\n2) Medically necessary hearing aid-related parts, attachments, or accessories.\r\n3) Medically necessary related services related to prescribing, fitting, implanting, or dispensing hearing aids. Coverage must include medically necessary related services provided by a hearing care professional who specializes in providing care to pediatric patients.\r\n\r\nFor individual health insurance policies, the coverage required under this Act applies to all covered individuals, regardless of age, because federal law prohibits states from limiting coverage for an essential health benefit based on an individual\u2019s age unless there is a clinical reason. For group and blanket health insurance policies and the state employee health plan, the required coverage applies only to individuals younger than 26 years old and covered as a dependent by the policyholder.\r\n\r\nThis Act also makes technical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual and reorganizes paragraphs for clarity.\r\n\r\nThis Act applies to all policies, contracts, or certificates issued, renewed, modified, altered, amended, or reissued after December 31, 2027."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Hearing Aids/Require/Private Insurance"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb269"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 269, and Assigned to Finance Committee in Senate",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SS 2 - Introduced and Placed With Bill",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Madinah Wilson-Anton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Madinah Wilson-Anton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Jack\" Walsh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John \\\"Jack\\\" Walsh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143359",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 2",
+    "amendment": "SA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

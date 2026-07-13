@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Banking, Business, Insurance & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141828",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 16"
+}

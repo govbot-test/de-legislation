@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Introduced and Assigned to Public Safety & Homeland Security Committee in House",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety & Homeland Security",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141899",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 63"
+}

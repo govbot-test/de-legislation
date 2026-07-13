@@ -1,0 +1,479 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 9",
+  "title": "AN ACT TO AMEND TITLE 7 OF THE DELAWARE CODE RELATING TO THE PROTECTION OF WETLANDS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act institutes a State nontidal wetlands program to include additional wetlands that are no longer regulated at the federal level. The State wetlands program will cover both tidal and nontidal wetlands, and in that manner fill in gaps in federal jurisdiction under the Clean Water Act and mitigate the uncertainty surrounding the limits to federal jurisdiction and improve efficiencies in the wetland permitting processes.\r\n\r\nSection 1 of the Act makes a number of changes to Chapter 66 of Title 7 of the Delaware Code: \r\n\r\nSection 1 adds definitions to \u00a7 6603 of Title 7, including for \"aquatic habitat functions and services\"; \"Community Water Access Structure\"; \"Delaware Wetland Screening Tool,\" which is a screening tool o be developed in regulations to determine whether an area has the potential to qualify as a wetland; \"Exceptional Value Wetlands\", which are wetlands that are unique or high functioning, that support flora or fauna that are endangered or threatened, that are located in public water supply Source Water Protection Areas, or located within designated natural areas; \"foot bridge\"; \"linear utility infrastructure projects\"; \"mitigation\"; \"normal residential gardening and lawn and landscape maintenance\"; \"pilings\"; \"unique wetlands,\" meaning wetlands that are categorized by the Department of Natural Resources and Environmental Control (DNREC) as Coastal Plain seasonal ponds, inner-dune depression meadows, peatland fens, Piedmont stream valley wetlands, bald cypress swamps, Atlantic white cedar swamps, or black ash seepage swamps; \"voluntary wetland habitat restoration project\"; and \"wetland walkway\". In addition, the definition of \"wetlands\" is revised to include all tidal and nontidal wetlands in the State, and will be further clarified in regulations adopted by DNREC.  \r\n\r\nSection 1 also amends \u00a7 6604 of Title 7 to provide that an applicant for a wetlands permit has the burden of proving whether a proposed activity is within tidal or nontidal wetlands. \r\n\r\nIn addition, Section 1 amends \u00a7 660 of Title 7, concerning activities that are exempt from permit requirements under Chapter 66 of Title 7. Under the Act, the following activities are exempt: farming, provided certain requirements are met, including that farming or an intent to farm has been conducted on the land in the prior 10 years on a rolling basis; silvicultural activities permitted by the Department of Agriculture; conservation practices on lands that are engaged in programs through certain federal or state governmental agencies; hunting, fishing, trapping, and duck blinds; wildlife nesting structures; mosquito control activities authorized by the DNREC; construction of certain drainage ditches, tax ditches, swales, and other drainage features; artificial ponds and borrow pits; construction of directional aids to navigation; placing of boundary stakes; foot bridges; normal residential gardening and lawn and landscape maintenance. In addition, other activities are conditionally exempt: certain activities that would be allowed under a nationwide permit issued by the United States Army Corps of Engineers; nontidal wetlands equal to or less than a contiguous 0.50 acres, provided certain criteria are met; work performed by a state, county, or municipal government or conservation district, or such an entity's designated contractor, on nontidal wetlands in the Delaware Atlantic Coastal Plains Province with a contributing drainage area of less than 800 acres; maintenance, reconstruction, or retrofitting work performed by or with the assistance of any state, county, or municipal government or conservation district in nontidal wetlands; certain work in agricultural drainage ditches; the creation or maintenance of certain ponds constructed in uplands; and wetland walkways, under certain conditions. \r\n\r\nSection 1 also amends \u00a7 6607 of Title 7, concerning the procedures, regulations, and application fees associated with permit applications. The Act provides that initial regulations promulgated under Chapter 66 will establish the Delaware Wetland Screening Tool. Further, in addition to the regulations the Secretary of DNREC is already directed to adopt, the Secretary is instructed to adopt regulations affording additional protections to Exceptional Value Wetlands; reducing duplication with the permitting requirements of the U.S. Army Corps of Engineers; improving the State's ability to account for impacts from wetlands permitting actions; promulgating mitigation strategies to facilitate no overall net loss in wetland acreage and function and to protect the State's resilience to the impacts of climate change; and establishing general permits for common and environmentally beneficial activities with minimal environmental impact. Section 1 further amends \u00a7 6607 concerning the timeline for DNREC issuing a decision regarding a permit application\r\n\r\nSection 1 creates a new \u00a7 6621, establishing the Wetlands Regulatory Advisory Committee. The Committee is directed to assist DNREC in developing the initial regulations required under Chapter 66 of Title 7 and to evaluate the permitting processes for activities regulated by state and federal agencies. The Committee is to be made up of 23 members, including the County Administrator or County Executive, or the County Administrator's or County Executive's designee; representatives from the Delaware Farm Bureau, the conservation districts, various environmental advocacy groups, an environmental justice organization, the Home Builders Association of Delaware, the Delaware Association of Realtors, the American Council of Engineering Companies of Delaware, the Delmarva Chicken Association, a general business group, a private wetlands consultant certified by the Society of Wetlands Scientists, and members from higher education institutions with specialization in wetlands science, agricultural economics, and with knowledge of forestry or soil conservation. The Committee is directed to review DNREC's implementation of the initial regulations required by Chapter 66 and provide a final report recommending legislative or regulatory improvements.  \r\n\r\nSection 2 of the Act deletes Chapter 66A of Title 7 of the Delaware Code, \"Nontidal Wetland Standards,\" which had created a Wetlands Advisory Committee to assist the Secretary of the Department of Natural Resources and Environmental Control in developing wetland protection priorities for the State and identifying a comprehensive approach for improving nontidal wetland conservation, restoration, and education to recommend to the General Assembly, and to evaluate the permitting process for activities regulated by state and federal agencies. \r\n\r\nSection 3 of the Act provides that activities in private nontidal subaqueous lands authorized under a nationwide permit issued by the U.S. Army Corps of Engineers and in effect in the state are exempt from any requirements under Chapter 72 of Titel 7 of the Delaware Code, if a water quality certification has been received from the Department of Natural Resources and Environmental Control, where necessary. \r\n\r\nSection 4 of the Act provides that \u00a7\u00a7 6621 and 6622 of Section 1 of the Act, and Section 2 of the Act, are effective upon enactment; Section 3 of the Act is effective 60 days after enactment; and the remaining provisions of the Act are effective upon the adoption of initial regulations by the Department of Natural Resources and Environmental Control."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "State Nontidal Wetlands Program/Institute"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb9"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Environment, Energy & Transportation Committee in Senate",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 9 - Introduced and Placed With Bill",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Environment, Energy & Transportation) in Senate with 7 Favorable",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Environment, Energy & Transportation",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Finance Committee in Senate",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Finance) in Senate with 2 Favorable, 2 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 9 - Passed By Senate. Votes: 18 YES 3 ABSENT",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Natural Resources & Energy Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Natural Resources & Energy) in House with 8 Favorable, 2 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Natural Resources & Energy",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Appropriations Committee in House",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Appropriations) in House with 4 On Its Merits",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 9 - Introduced and Placed With Bill",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SB 9 - Passed In House by Voice Vote",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 39 YES 1 NO 1 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stephanie L. Hansen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stephanie L. Hansen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russell Huxtable",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Russell Huxtable\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darius J. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darius J. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mara Gorman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mara Gorman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Morrison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cyndie Romer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cyndie Romer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 9",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143030&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143030&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HA 1 to SB 9",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143646&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143646&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654093",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GetPdfDocument?fileAttachmentId=654425",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143028",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "SA 1 + HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 161",
+  "title": "AN ACT TO AMEND TITLES 16 AND 29 OF THE DELAWARE CODE RELATING TO BEHAVIORAL HEALTH.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act revises Delaware law governing behavioral health treatment provider organizations by establishing a comprehensive statutory framework governing licensing, oversight, enforcement, client rights, provider duties, incident reporting, and investigations relating to behavioral health treatment services. The Act consolidates and modernizes statutory provisions governing behavioral health treatment oversight and clarifies the Division of Substance Abuse and Mental Health's authority to license programs, investigate incidents, and enforce compliance with this chapter.\r\n\r\nThis Act is a substitute for and differs from Senate Bill No. 161 by doing all of the following:\r\n\r\n(1) Expands the definition of the protection and advocacy system to reference all applicable federal protection and advocacy statutes. \r\n(2) Revises the client rights provisions by reorganizing and clarifying the rights framework, adding rights related to discharge planning and continuing care, clarifying the standard for permissible limitations on client rights, including a requirement that any limitation be for the shortest duration feasible, and revising the standard governing the use of restrictive intervention to align with existing Delaware law. \r\n(3) Expands standing to enforce client rights to include clients and their authorized representatives in addition to the Attorney General and the protection and advocacy system. \r\n(4) Adds a savings clause clarifying that nothing in this Act abrogates the rights and requirements applicable to long-term care facilities under Chapter 11 of Title 16. \r\n(5) Adds elopement to the definition of incident for purposes of the incident reporting requirements. \r\n(6) Modifies the provisions relating to the protection and advocacy system by expanding the system's access authority to reference all applicable federal and State law, adding a requirement that the Division notify the protection and advocacy system no more than 72 hours after receiving a report of a client death, authorizing staff to make discretionary reports to the protection and advocacy system, and extending anti-retaliation protections to staff who report to or cooperate with the protection and advocacy system. \r\n(7) Adds a framework for the confidentiality of incident reports and investigation records while authorizing the Division to publish aggregate, de-identified information regarding incidents and trends across the behavioral health system. \r\n(8) Adds an injunctive relief pathway allowing the Department to seek a temporary restraining order in the Court of Chancery when a provider organization's activities create an imminent risk of substantial harm to clients. \r\n(9) Updates language throughout to reflect current person-centered terminology consistent with the preferences of the disability community. \r\n(10) Makes technical and conforming changes for clarity and consistency.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 28 of Article IV of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to create a new crime within the jurisdiction of any inferior court of this State."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Behavioral Health Treatment Services/Establish Framework"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb161"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 161, and Assigned to Health & Social Services Committee in Senate",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Social Services) in Senate with 4 Favorable, 1 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Social Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 9 On Its Merits",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 38 YES 2 NO 1 ABSENT",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143190",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

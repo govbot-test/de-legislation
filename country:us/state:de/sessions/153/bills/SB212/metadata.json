@@ -1,0 +1,242 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 212",
+  "title": "AN ACT PROPOSING AN AMENDMENT TO ARTICLE I OF THE DELAWARE CONSTITUTION RELATING TO HUNTING, FISHING, AND TRAPPING WILDLIFE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a substitute for Senate Bill No. 212. Like Senate Bill No. 212, this Act is the first leg of a constitutional amendment to establish the right to hunt, fish, and trap wildlife in Delaware. Twenty-four other states have preserved the right to hunt, fish, and trap wildlife. This Act is modeled after the constitutional provisions of Idaho, Indiana, Kentucky, Louisiana, Minnesota, Tennessee, Virginia, and Vermont.\r\n\r\nThis Act specifically acknowledges Delaware\u2019s valued, natural heritage of hunting, fishing, and trapping, and declares hunting, fishing, and trapping as the preferred methods of managing and controlling wildlife in this State.\r\n\r\nThis Act declares that it may not be applied to do any of the following:\r\n(1) Limit the application of a law relating to trespass or property rights.\r\n(2) Affect rights to divert, appropriate, or use water, or to establish a minimum amount of water in any water body.\r\n(3) Lead to a diminution or abrogation of a public or private right or of the State\u2019s power to regulate commercial activities.\r\n(4) Prevent the suspension or revocation, under a law enacted by the General Assembly, of an individual\u2019s hunting, fishing, or trapping license.\r\n(5) Alter a burden of proof requirement otherwise established by law for a challenge to a law or regulation pertaining to hunting, fishing, or trapping the wildlife of this State.\r\n\r\nThis Act differs from Senate Bill No. 212 by doing the following:\r\n(1) Removing language related to the use of \"traditional methods\" of hunting, fishing, or trapping.\r\n(2) Providing clarity that after passage of this Act the General Assembly, and any state agency or local government authorized by the General Assembly, may continue to establish hunting, fishing, or trapping requirements based on the best available science and wildlife management practices, including requirements for humane methods of take or requirements for licenses or permits, bag limits, or other practices for managing wildlife.\r\n\r\nAmending the Delaware Constitution requires not only the passing of the changes in this Act, but also passage of the same changes after the next general election by the next General Assembly.\r\n\r\nThis Act requires a greater than majority vote for passage because \u00a7 1 of Article XVI of the Delaware Constitution requires the affirmative vote of two-thirds of the members elected to each house of the General Assembly to amend the Delaware Constitution"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Const. Amend/1st Leg/Right to Hunt, Fish, Trap Wildlife"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb212"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 212, and Assigned to Executive Committee in Senate",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 1 Favorable, 4 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 1 Favorable, 4 On Its Merits",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to SS 1 - Introduced and Placed With Bill",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin D. Cooke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Franklin D. Cooke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura V. Sturgeon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura V. Sturgeon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel B. Short",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lyndon D. Yearick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lyndon D. Yearick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143029",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1",
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

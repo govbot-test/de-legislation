@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Technology & Telecommunications) in House with 5 On Its Merits",
+    "occurred_at": "2026-06-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Technology & Telecommunications",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143238",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 307"
+}

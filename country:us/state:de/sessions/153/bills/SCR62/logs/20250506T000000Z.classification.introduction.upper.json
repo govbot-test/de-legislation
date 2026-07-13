@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced in Senate",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142181",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SCR 62"
+}

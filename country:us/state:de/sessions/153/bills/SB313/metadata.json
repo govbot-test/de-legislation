@@ -1,0 +1,216 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 313",
+  "title": "AN ACT TO AMEND TITLES 16 AND 29 OF THE DELAWARE CODE RELATING TO THE PROTECTION OF NONPROFIT ACUTE CARE HOSPITALS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act protects Delaware\u2019s nonprofit acute care hospitals from acquisition by entities other than charities or not-for-profit entities during a moratorium period. It also permanently subjects the sale or encumbrance of primary facility real estate of a nonprofit acute care hospital to the Attorney General notice and review requirements of the Conversion Act.\r\n\r\nSection 1 makes two primary changes to the definitions in \u00a7 2531 of Title 29. First, it clarifies that a \"not-for-profit healthcare conversion transaction\" includes those undertaken \"directly or indirectly through one or more affiliates.\" This ensures that the Attorney General\u2019s oversight cannot be circumvented by structuring transactions through shell entities or intermediaries. It provides a new, permanent category of conversion transaction: the sale, transfer, conveyance or lease of a hospital's \"primary facility real estate\" to a for-profit entity. This change ensures that arrangements involving the land and buildings of an acute care hospital are subject to the same notice and review requirements as a change in corporate control. Finally, Section 1 defines for \"acute care hospital\" and \"primary facility real estate.\u201d\r\n\r\nSection 2 requires the Attorney General to transmit copies of any Conversion Act notice involving an acute care hospital to the Governor and the Secretary of the Department of Health and Social Services within 10 days of receipt.\r\n\r\nSection 3 prohibits any person or entity, other than a charity or not-for-profit entity, from entering into a \"change of control transaction\" involving acquisition of a nonprofit acute care hospital. It defines a \"change of control transaction\" as the acquisition of the power to direct the hospital's management, policies, or clinical practices, whether through ownership of voting securities, changes in board composition, or by contract. Any transaction of this nature is void and has no legal effect. The prohibition expressly captures incremental acquisition scenarios, including minority stakes, sub-majority governance rights, board appointment rights, and executive officer appointment rights. \r\n\r\nSection 4 amends \u00a7 9304 of Title 16 to prohibit any entity or person other than a charity or not-for-profit entity from submitting, and the Health Resources Board from accepting or processing, an application for a Certificate of Public Review for the construction, development, establishment, or acquisition of an acute care hospital. Any such application is void and of no legal effect. \r\n\r\nSection 5 provides that Sections 2 through 4 are effective until July 1, 2028, unless terminated sooner or extended by the General Assembly."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Acute Care Hospitals/Protect/Acquisition"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb313"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 313 - Introduced and Placed With Bill",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 3 Favorable, 4 On Its Merits",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Banking, Business, Insurance & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 313 - Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Health & Human Development) in House with 9 On Its Merits",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 37 YES 1 NO 3 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SA 1 to SB 313",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143317&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143317&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143260",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "SA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

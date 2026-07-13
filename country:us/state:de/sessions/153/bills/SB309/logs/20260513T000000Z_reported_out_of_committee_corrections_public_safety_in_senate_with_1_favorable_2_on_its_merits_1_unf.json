@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Corrections & Public Safety) in Senate with 1 Favorable, 2 On Its Merits, 1 Unfavorable",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Corrections & Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143253",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 309"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By House. Votes: 26 YES 14 NO 1 ABSENT",
+    "occurred_at": "2025-06-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142394",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 175"
+}

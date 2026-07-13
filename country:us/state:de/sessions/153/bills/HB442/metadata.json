@@ -1,0 +1,75 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 442",
+  "title": "AN ACT TO AMEND TITLE 21 OF THE DELAWARE CODE RELATING TO TRAFFIC MONITORING SYSTEMS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Like House Bill No. 442, this Substitute for House Bill No. 442 creates a new chapter in Title 21 pertaining to electronic traffic violation monitoring systems, and moves the existing language from section 4170A pertaining to electronic speed monitoring systems to the new chapter. This Act also removes the sunset provision from the existing Laws of Delaware concerning the use of electronic speed monitoring systems. The Act further modifies the language to allow for the use of electronic monitoring systems for all traffic violations.\nThis Substitute requires that before citations may be issued for violations recorded by a traffic violation monitoring system, a warning period as prescribed by regulation must be provided for the traffic violation monitoring system. This Substitute further allows for counties and municipalities with a county or municipal police department to place and receive revenue from traffic monitoring systems within the county or municipality, and for revenue from traffic monitoring systems to be used to reimburse costs of the courts to address appeals of citations issued based on the traffic violation monitoring systems. \nThis Substitute also adds a 10-year sunset provision to House Bill No. 442."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb442"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill HB 442, and Assigned to Appropriations Committee in House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143565",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

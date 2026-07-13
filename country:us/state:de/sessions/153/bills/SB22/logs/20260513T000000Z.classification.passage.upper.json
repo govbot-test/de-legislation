@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed By Senate. Votes: 21 YES",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143161",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 22"
+}

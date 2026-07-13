@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to Suspend Rules Defeated By House. Votes: 17 YES 10 NO 12 NOT VOTING 2 ABSENT.",
+    "occurred_at": "2025-08-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141933",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 73"
+}

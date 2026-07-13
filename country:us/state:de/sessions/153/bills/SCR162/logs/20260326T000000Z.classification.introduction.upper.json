@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced in Senate",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142989",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SCR 162"
+}

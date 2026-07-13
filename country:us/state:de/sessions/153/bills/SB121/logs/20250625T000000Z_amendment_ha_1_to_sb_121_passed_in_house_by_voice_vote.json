@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment HA 1 to SB 121 - Passed In House by Voice Vote",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142168",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 121"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By House. Votes: 15 YES 26 NO. Reason Taken: motion to recess to read amendment - HB 445 w HA 1 and SA 3",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143386",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 445"
+}

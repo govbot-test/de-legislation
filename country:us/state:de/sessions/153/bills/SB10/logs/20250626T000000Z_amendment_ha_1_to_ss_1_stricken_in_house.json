@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment HA 1 to SS 1 - Stricken in House",
+    "occurred_at": "2025-06-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142344",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 10"
+}

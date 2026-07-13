@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed in House by Voice Vote",
+    "occurred_at": "2025-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142031",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SCR 48"
+}

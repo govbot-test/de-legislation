@@ -1,0 +1,139 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 181",
+  "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE REGARDING THE SECONDARY TICKETING MARKET.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a substitute bill for Senate Bill No. 181. It changes the following from the original bill:\r\n\r\n1. Adds definitions for \u201coriginal total price\u201d and \u201cprimary ticketing platform\u201d while removing the definition of \u201cticket issuer\u201d from the original bill.\r\n2. Omits language regarding transferability of a ticket in \u00a7 2505N to better reflect that most tickets do not restrict transferability of a ticket; however, this omission would not restrict an artist or venue from choosing to restrict transferability as part of terms and conditions of the ticket. \r\n3. Provides clarity by removing \u201cevent ticket\u201d as used in the original bill for simply \u201cticket\u201d. \r\n4. Changes the amount of time a primary ticketing platform must report a known or attempted circumvention of ticket sales to the Division from 48 hours to 30 days.\r\n5. In \u00a7 2509N, the concept of a price cap is replaced with price limitation, which limits the price at which a reseller or secondary ticket exchange may sell or offer to sell a ticket to 110% of the original total price of the ticket. \r\n6. Removes sections from the original bill pertaining to registration and reporting requirements of resellers, bond requirements, secondary ticket exchange responsibilities, consumer compensation, audit and oversight, public access to registered resellers, and revocation of resellers. \r\n7. Changes the penalty section to clarify violations of this chapter are unlawful practices under \u00a7 2513 of this title and subject to penalties of subchapter II of chapter 25 of Title 6. It also establishes a private right of action for victims who set the original base price of a ticket to seek relief and obtain an award of attorneys\u2019 fees if they are the prevailing party. Any excess awards are to be deposited in the Consumer Protection Fund of the Attorney General for the purpose of providing restitution to other affected customers. \r\n8. Minor technical changes. \r\n\r\nThis substitute bill, as in the original bill, prohibits certain actions regarding the sale and exchange of tickets for events in this state by primary ticket sellers, ticket issuers, and ticket resellers. It requires a clear and conspicuous disclosure of fees and costs associated with the total cost of a ticket being provided to a purchaser before the purchaser\u2019s payment information is requested. The substitute bill prohibits the reselling of a ticket until the event is placed on sale to the general public, including any tickets that may be obtained or accessed through a fan club. It further sets forth requirements regarding transferability of tickets, refunding of tickets, and bans the use of deceptive practices for any reselling of a ticket. \r\n\r\nThis Act prohibits use of a bot or other methods used to circumvent reasonable restrictions on the sale of tickets on the internet. The Act places a price limitation of up to 110% of the original total price of the ticket. \r\n\r\nThis Act is effective immediately and is to be implemented the earlier of 1 year from the date of enactment or notice of publication within the Register of Regulations that final regulations have been promulgated."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Tickets/Sale/Exchange/Prohibit Certain Actions"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb181"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 181, and Assigned to Finance Committee in Senate",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 19 YES 2 ABSENT",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Economic Development/Banking/Insurance & Commerce Committee in House",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development/Banking/Insurance & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Not Enough Signatures to Release",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Not Worked in Committee",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Ross Levin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melanie Ross Levin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143014",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 2"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

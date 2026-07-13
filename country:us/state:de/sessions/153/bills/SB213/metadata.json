@@ -1,0 +1,268 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 213",
+  "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO HOSPITAL BUDGET REVIEW.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "The Hospital Budget Review Act, House Substitute No. 2 to House Bill No. 350 (152nd General Assembly), enacted in 2024, (\"HB 350\") created the Diamond State Hospital Cost Review Board (\u201cBoard\u201d) in an effort to bring greater transparency and accountability to hospital spending in Delaware. HB 350 requires hospitals to submit their budgets to the Board annually, disclose financial and operational information, and comply with the State\u2019s healthcare spending benchmark. HB 350 also authorizes the Board to prospectively approve or modify hospital budgets and imposes penalties for non-compliance.\r\n\r\nShortly after HB 350\u2019s enactment, ChristianaCare filed suit in the Court of Chancery, alleging principally that the prospective budget approval and modification authority granted to the Board violates the Delaware Constitution. The litigation raised broader constitutional and policy questions about the balance between State oversight of health care spending and the autonomy of private, nonprofit hospitals.\r\n\r\nOn September 30, 2025, the State and ChristianaCare signed an agreement pausing ChristianaCare\u2019s lawsuit and setting forth the framework for this Act that, if enacted, will fully resolve the case. Under the agreement, the State admitted no fault. This Act incorporates the each of the terms of that agreement. \r\n\r\nHB 350 has 4 main components. First, hospitals must present detailed budget information annually to the Board. Second, the Board must determine whether the hospital has complied with the State\u2019s healthcare spending benchmark. Third, if the hospital misses the benchmark, it must submit a Performance Improvement Plan (PIP) for approval by the Board. Fourth, if the hospital fails to submit an approved PIP or achieve its objectives, then the Board may prospectively approve or modify the hospital\u2019s budget. This Act addresses constitutional concerns by eliminating the Board\u2019s ability to approve or modify hospital budgets, while preserving the first 3 components of HB 350 with certain modifications and enhancements.\r\n\r\nFirst, under this Act, hospitals still must present detailed budget information to the Board each year. However, the Board will evaluate hospitals based on actual expenditure and revenue information for the most recent year, rather than prospectively approving future budgets. As with HB 350, hospitals must report financial information, including costs of operations, revenues, assets, liabilities, and expenditures, scope and volume of service information, and other information deemed relevant by the Board. This Act also requires hospitals to outline changes in year-over-year results and describe the actions it will take in the coming year to meet the benchmark, and further requires the Board to adopt a Uniform Reporting Manual for Budget Submissions to ensure the consistency of information provided by hospitals. Hospitals must provide labor costs by units of service and budget category, salary reporting is narrowed to officers, directors, key employees, and highest-compensated employees, and certain categories, such as payer contract information and three-year capital budgets, are no longer required. \r\n\r\nSecond, HB 350 required the Board to determine annually whether each hospital has met the State\u2019s healthcare spending benchmark. That requirement remains, but this Act expressly requires the Board to issue written findings of fact and determinations as to whether each hospital: (1) has met the benchmark; and, if applicable, (2) has satisfied the elements of the hospital\u2019s Benchmark Compliance Plan (BCP), which replaces the PIP; and (3) is participating in a Meaningful Cost Containment Arrangement (MCCA). Further, the Board may also make policy recommendations to the Delaware Health Care Commission or the General Assembly regarding how to better align hospital budgets with the benchmark, while promoting efficient and economic operations and maintaining the ability of hospitals to meet hospitals\u2019 financial obligations and to provide quality care.\r\n\r\nThird, beginning in 2027, hospitals that fail to meet the benchmark must submit a BCP for the Board\u2019s approval. As with HB 350, if the BCP does not meet the criteria established by the Board, the Board may require the hospital to amend and resubmit the BCP. If a BCP is required, the Board will examine and determine in writing the following year whether the hospital has satisfied the BCP\u2019s elements. However, if the hospital demonstrates that it is subject to an MCCA, then the hospital is not required to submit to the BCP process for that year. \r\n\r\nMCCAs are contracts between hospitals and payers (including, in some cases, federal or state governments) that are designed to reduce healthcare costs by holding the hospital financially accountable for controlling healthcare spend for a specific population \u2013 including downside risk. However, even if a hospital has an MCCA and therefore is not required to adopt a BCP, it still must present its detailed budget information to the Board every year so that the Board may determine whether it has met the benchmark. A hospital\u2019s adoption of an MCCA does not exempt it from that process, only the requirement that it adopt a BCP\u2014and only for one year.  \r\n\r\nCivil penalties of up to $500,000 for knowingly failing to comply with reporting standards remain in effect."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Hospital Budget Review Act/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb213"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Executive Committee in Senate",
+      "date": "2025-12-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Executive) in Senate with 2 Favorable, 5 On Its Merits",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Executive",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 213 - Introduced and Placed With Bill",
+      "date": "2026-01-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Amendment SA 1 to SB 213 - Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 2 Favorable, 3 On Its Merits",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 33 YES 7 NO 1 NOT VOTING",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill Text",
+      "links": [
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142741&legislationTypeId=1&docTypeId=2&legislationName=SB213",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142741&legislationTypeId=1&docTypeId=2&legislationName=SB213",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SA 1 to SB 213",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142782&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142782&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142741",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "SA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

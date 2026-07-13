@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Health & Human Development) in House with 5 Favorable, 3 On Its Merits, 1 Unfavorable",
+    "occurred_at": "2025-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Development",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=141725",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 140"
+}

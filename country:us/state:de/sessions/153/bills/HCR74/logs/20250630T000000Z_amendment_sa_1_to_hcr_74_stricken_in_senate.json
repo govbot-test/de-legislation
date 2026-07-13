@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment SA 1 to HCR 74 - Stricken in Senate",
+    "occurred_at": "2025-06-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142609",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HCR 74"
+}

@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Housing & Land Use) in Senate with 1 Favorable, 2 On Its Merits, 2 Unfavorable",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "committee-passage-unfavorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Housing & Land Use",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143418",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 451"
+}

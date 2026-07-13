@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment HA 3 to HS 1 - Passed By House. Votes: 33 YES 2 NO 2 NOT VOTING 4 ABSENT",
+    "occurred_at": "2026-06-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143381",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 233"
+}

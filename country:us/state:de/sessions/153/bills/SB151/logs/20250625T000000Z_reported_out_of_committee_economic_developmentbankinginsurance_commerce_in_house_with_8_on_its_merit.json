@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Economic Development/Banking/Insurance & Commerce) in House with 8 On Its Merits",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development/Banking/Insurance & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142315",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 151"
+}

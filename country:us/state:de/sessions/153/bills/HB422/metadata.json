@@ -1,0 +1,123 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 422",
+  "title": "AN ACT TO AMEND TITLE 16 OF THE DELAWARE CODE RELATING TO ENHANCED INFORMED CONSENT FOR INFANT VACCINATIONS AND DOCUMENTATION IN SUDDEN UNEXPECTED INFANT DEATH INVESTIGATIONS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act requires enhanced informed consent before administering vaccines to infants under 12 months of age. \nThis Chapter shall be used to promote transparency in informed consent and thorough investigation of Sudden Unexpected  Infant Deaths.  Nothing in this chapter shall:\n(1) Create or imply any causal relationship between vaccination and sudden unexpected infant death,\n(2)  Restrict discourage, or interfere with the administration or recommendation of vaccinations,\n(3) Alter the standard of care of the diagnosis of SUID, or\n(4) Create any new private right of action or expand existing liability for healthcare providers or medical \nexaminers.\nBefore a vaccine is given, the vaccine administrator must confirm with the parent or guardian that the healthcare provider fully explained the vaccine(s) and answered all questions.  If questions remain, the questions must be answered before the vaccine is administered. The form used to verify the lot number of the vaccine must be altered to include a check  box verifying discussion was completed and all questions answered.  The Act also required documentation history of every SUID investigation and when death occurs within seven days of the vaccination, documentation consideration was given of any potential association consistent with CDC Guidelines, without creating any presumption of causation.  These measures respond to the family's request for greater transparency following the loss of healthy infants while preserving access  to recommended immunizations, and affirming nothing in  this act implies a casual link between vaccination and SUID."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb422"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill HB 422, and Assigned to Health & Human Development Committee in House",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Development",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeff Hilovsky",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Hilovsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryant L. Richardson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryant L. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan W. Shupe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bryan W. Shupe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jesse R. Vanderwende",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jesse R. Vanderwende\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dave G. Lawson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave G. Lawson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Pettyjohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Pettyjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David L. Wilson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David L. Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143559",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "HS 2"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

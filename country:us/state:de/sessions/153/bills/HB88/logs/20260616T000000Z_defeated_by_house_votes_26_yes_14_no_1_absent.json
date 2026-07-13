@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Defeated By House. Votes: 26 YES 14 NO 1 ABSENT",
+    "occurred_at": "2026-06-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143425",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 88"
+}

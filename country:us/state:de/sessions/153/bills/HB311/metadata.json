@@ -1,0 +1,179 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 311",
+  "title": "AN ACT TO AMEND TITLE 24 AND TITLE 25 OF THE DELAWARE CODE RELATING TO A RESIDENTIAL LANDLORD TENANT GUIDE.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act establishes the Rights and Responsibilities Guide for Landlords and Tenants Committee (\u201cCommittee\u201d) within the Delaware Real Estate Commission (\u201cCommission\u201d). The Commission is tasked with drafting, maintaining, and distributing a comprehensive, statewide rights & responsibilities guide (\u201cguide\u201d) for landlords and tenants with support from the Committee. This guide will reference responsibilities that a tenant or landlord must follow, including federal, state, county, and municipal requirements.\r\n\r\nThis Act also requires a landlord or real estate service provider to provide the guide to prospective tenants entering a landlord-tenant relationship governed under Part III of Title 25. The guide must also be provided at each time a rental agreement is renewed if the renewal is for a term of 1 or more years. The guide may be provided in electronic or paper format.\r\n\r\nThe guide is deemed a statutorily required form under 24 Del. C. \u00a7 2912. Real estate service providers may be subject to discipline for misrepresenting the availability or content of the required form. Additionally, failure to provide the guide when required is deemed an unlawful practice under \u00a7 2513 of Title 6 and a violation of Subchapter II of Chapter 25 of Title 6.\r\n\r\nSection 4 of this Act requires the Commission to provide a report to the General Assembly with findings about what disclosures or documents are required to be made to tenants independent of the guide and whether the Commission recommends other law be changed to incorporate those disclosures and documents into the guide.  \r\n\r\nThis Act is effective upon enactment into law and, except for the penalty provisions, is to be implemented the earlier of the following:\r\n(1)\tOne year from the date of the Act\u2019s enactment.\r\n(2)\tNotice by the Director of the Division of Professional Regulation published in the Register of Regulations that both of the following have occurred:\r\na. The report required under Section 4 of this Act has been provided to the General Assembly. \r\nb. The guide this Act creates has been published by the Delaware Real Estate Commission.\r\n\r\nPenalty provisions are to be implemented 180 days after the remainder of the Act is implemented.\r\n\r\nIf this Act is implemented before the report under Section 4 of this Act is provided to the General Assembly, the report must be provided to the General Assembly within 180 days after the Act is implemented."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Rights and Responsibilities Guide Committee/Establish"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb311"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Housing Committee in House",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing) in House with 3 Favorable, 5 On Its Merits",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 29 YES 4 NO 2 NOT VOTING 6 ABSENT",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Housing & Land Use Committee in Senate",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing & Land Use) in Senate with 5 Favorable",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 19 YES 1 NOT VOTING 1 ABSENT",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kimberly Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142906",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

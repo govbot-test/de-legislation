@@ -1,0 +1,206 @@
+{
+  "legislative_session": "153",
+  "identifier": "HB 451",
+  "title": "AN ACT TO AMEND TITLE 6 OF THE DELAWARE CODE RELATING TO FAIR HOUSING AND DISPARATE IMPACT LIABILITY.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act clarifies that Delaware\u2019s Fair Housing Act (Chapter 46 of Title 6) prohibits housing practices that have a discriminatory effect, commonly known as \u201cdisparate impact,\u201d even in the absence of discriminatory intent. \r\nThe Act codifies a burden-shifting framework consistent with federal fair housing jurisprudence and regulations and with laws adopted in other states, including California and Massachusetts. Under this framework: \r\n1. A complainant must show that a housing policy or practice causes or predictably will cause a discriminatory effect on a protected class. \r\n2. A respondent may defend the practice by demonstrating that it is necessary to achieve a substantial, legitimate, nondiscriminatory interest. \r\n3. A complainant may still prevail by showing that the interest could be served by a less discriminatory alternative. \r\nThe Act applies to rental policies, sales practices, lending and appraisal practices, occupancy standards, criminal history screening, and zoning or land use decisions to the extent permitted by law. It clarifies that statistical evidence may be used to establish disparate impact and that proof of discriminatory intent is not required. \r\nThe Act aligns enforcement with existing remedies and procedures under Chapter 46 of Title 6 and preserves the authority of the Division of Human and Civil Rights under Title 31. It does not require quotas, does not invalidate lawful occupancy limits, and does not impose liability where a practice is required by federal law. \r\nThis Act is intended to be interpreted consistently with, but not limited by, the federal Fair Housing Act and provides equal or greater protection under Delaware law."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "DE Fair Housing Act/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-hb451"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Housing Committee in House",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing) in House with 5 Favorable, 2 On Its Merits",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 451 - Introduced and Placed With Bill",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Amendment HA 1 to HB 451 - Passed In House by Voice Vote",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 26 YES 12 NO 3 ABSENT",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Housing & Land Use Committee in Senate",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Housing & Land Use) in Senate with 1 Favorable, 2 On Its Merits, 2 Unfavorable",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Housing & Land Use",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kendra Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kendra Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Pinkney",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marie Pinkney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HA 1 to HB 451",
+      "links": [
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=143617&legislationTypeId=5&docTypeId=2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "http://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143617&legislationTypeId=5&docTypeId=2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143418",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "amendment": "HA 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "identifier": "",
+  "motion_text": "SM",
+  "motion_classification": [],
+  "start_date": "2026-07-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "153",
+  "bill": "a9c3eb72-7544-11f1-b6fc-ae0523bd7b48",
+  "bill_action": null,
+  "bill_identifier": "SCR 223",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/json/RollCallController/GenerateRollCallPdf?rollCallId=59012&chamberId=2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SCR 223 in 153#59012#SM#lower#2026-07-01"
+}

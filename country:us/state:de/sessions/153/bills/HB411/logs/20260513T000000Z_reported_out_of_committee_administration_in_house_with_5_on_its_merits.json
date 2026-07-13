@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Administration",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143247",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 411"
+}

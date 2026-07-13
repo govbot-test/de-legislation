@@ -1,0 +1,171 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 282",
+  "title": "AN ACT TO AMEND TITLE 10 OF THE DELAWARE CODE RELATING TO WRONGFUL CONVICTION COMPENSATION AND SERVICES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act amends the Delaware Wrongful Conviction Compensation and Services Act (DWCCSA) in several ways. First, in order to make a prima facie showing of entitlement to compensation, under the Act, a petitioner must show that the petitioner did not commit a felony arising from the same transaction as the crime for which the petitioner was originally convicted.\r\nSecond, the Act modifies what attorneys' fees may be recovered for an action to overturn, reverse, or vacate a conviction and an action under the DWCCSA. Under the Act, a petitioner who prevails on a cause of action against the state for wrongful conviction shall be awarded reasonable attorneys' fees, based on hours reasonably expended at the prevailing market rate for similar legal services in the state at the time of an award for damages for wrongful conviction, regardless of when the legal services were actually provided.  Attorneys' fees of $300,000 or less will be paid to the petitioner's attorneys in a lump sum; attorneys' fees in excess of $300,000 will be paid in annual installments of not more than $300,000, until the award is satisfied.\r\nThird, under the Act, the Office of Management and Budget takes over tasks and responsibilities that currently belong to the State Treasurer, including the annual adjustment in the amount of damages available under \u00a7 7005(a) of Title 10, management of the Wrongful Conviction Compensation Fund will exist with the legal services appropriation within the Office of Management and Budget, and the obligation to report quarterly to the Joint Finance Committee and the Controller General.\r\nThe Act takes effect upon its enactment into law.\r\nThis Act is a substitute for and differs from SB 282 in that it omits a provision limiting the attorneys' fees a petitioner may recover to 15% of the damages awarded under \u00a7 7005(a) of Title 10."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Delaware Wrongful Conviction Compensation and Services Act/Updates"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb282"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of SB 282",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 19 YES 1 NO 1 ABSENT",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Assigned to Judiciary Committee in House",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Judiciary) in House with 9 On Its Merits",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 31 YES 10 ABSENT",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:24Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 272",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=655299"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143160",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:24Z"
+  }
+}

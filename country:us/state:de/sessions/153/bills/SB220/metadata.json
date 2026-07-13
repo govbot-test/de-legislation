@@ -1,0 +1,180 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 220",
+  "title": "AN ACT TO AMEND THE CHARTER OF THE VILLAGE OF ARDEN.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "Among other changes, this Act is a substitute for Senate Bill No. 220 and does all the following related to the Charter of the Village of Arden:\r\n\r\n(1) Adds a preamble to the Charter.\r\n(2) Amends the boundaries of the Village to include the Sherwood Forest Addition and the Mill Race Addition and, in Section 2 of this Act, makes clear the General Assembly\u2019s inherent power to set the boundaries of a municipality. \r\n(3) Adds definitions of certain terms. \r\n(4) Provides that regular meetings of the Town Assembly are to be held at the Gild Hall or other suitable public physical or virtual venue in the village.\r\n(5) Clarifies and amends the procedures for Special Town Meetings.\r\n(6) Clarifies and revises the procedures for enacting, amending, and repealing ordinances.\r\n(7) Provides that a referendum may be called by a majority vote at a Town Assembly Meeting. \r\n(8) Adds a non-voting, alternate member to the Board of Assessors; removes a provision for the election of the Board of Assessors, which is transferred to an ordinance.\r\n(9) Requires the Board of Assessors to assess the community standard of living, in addition to the full rental value of leased lands.\r\n(10) Removes provisions for the election of the Budget Committee and the budget referendum voting process, which are transferred to an ordinance.\r\n(11) Updates language relating to responsibilities of the Budget Committee.\r\n(12) Provides that if a budget referendum fails, then the town will use the previous year's budget until a new budget can be approved.\r\n(13) Removes provisions relating to the election of the Registration Committee, which are transferred to an ordinance.\r\n(14) Revises the fines and penalties that may be imposed by a Justice of the Peace for violations of the Charter or village ordinances and revises the appeals process for convictions thereof.\r\n(15) Simplifies the Charter's provisions for town law enforcement officials.\r\n(16) Requires that town contracts must be witnessed by a second Village official, in addition to signed by the Chair of the Town Assembly.\r\n(17) Deletes the section of the Charter relating to fire, zoning, and housing codes, as those subjects are already handled by New Castle County.\r\n(18) Replaces gender-specific language with gender-neutral language.\r\n(19) Makes other, minor changes to the language of the Charter."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Charter Change/Village of Arden/Replace"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb220"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 220, and Assigned to Elections & Government Affairs Committee in Senate",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Elections & Government Affairs) in Senate with 4 On Its Merits",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Elections & Government Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 21 YES",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits, 1 Unfavorable",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 38 YES 3 ABSENT",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ray Seigfried",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ray Seigfried\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Spiros Mantzavinos",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Spiros Mantzavinos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142821",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

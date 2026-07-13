@@ -1,0 +1,104 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 35",
+  "title": "AN ACT TO AMEND TITLE 9 OF THE DELAWARE CODE RELATING TO ASSESSMENTS AND TAXATION OF STRUCTURES LOCATED ON LAND IN AGRICULTURAL, HORTICULTURAL, AND FOREST USE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act is a substitute for and differs from Senate Bill No. 35 by making the following substantive changes from the original bill: \r\n\r\n1. Establishes and provides additional clarity to the definition of \u201cqualified farm structure\u201d to include buildings such as poultry houses, barns, sheds, silos, commodity storage facilities, greenhouse and packing or cooling facilities. To qualify, these structures must be located on land devoted to agricultural, horticultural, or forest land, as already defined in this chapter. Notably, this definition excludes any dwelling units used as residences and any buildings that are used for commercial, industrial, or non-farm businesses. \r\n2. Removes Sections 3 through 6 of Senate Bill No. 35 as unnecessary due to the new definition of \u201cqualified farm structure.\u201d\r\n3. Includes the new definition of \u201cqualified farm structure\u201d to clarify that qualified farm structures are eligible for valuation within this chapter.\r\n4. Establishes that qualified farm structures are to be valued using a cost approach method, with only 50% of the fair market value of these structures subject to tax. This reduced rate excludes any residential dwellings or structures used for commercial, industrial, or other non-farm business purposes.  \r\n5. Eliminates references to any proposed changes to \u00a7 8337 pertaining to the State Farmland Evaluation Advisory Committee that were originally considered in Senate Bill No. 35. \r\n\r\nThis substitute also makes technical corrections to conform to the standards set by the Delaware Legislative Drafting Manual.\r\n\r\nAgriculture is currently the leading industry in Delaware but as housing and other development occurs less farmland becomes available. For farmers in general, but in particular the small and medium sized farm owners, the real estate taxes imposed on their farm structures impose a significant financial impact and adversely affects their ability to survive. At least eighteen other states have recognized this problem and have through legislation provided real estate tax relief for qualified farm structures."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Agriculture/Real Estate Taxes/Qualified Farm Structures"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb35"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Adopted in lieu of the original bill SB 35, and Assigned to Finance Committee in Senate",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bush",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Bush\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=142970",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

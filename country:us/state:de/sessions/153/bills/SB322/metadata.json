@@ -1,0 +1,199 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 322",
+  "title": "ACT TO AMEND TITLE 14 OF THE DELAWARE CODE RELATING TO LOCAL SCHOOL TAXES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act repeals the ability of school districts to increase tax rates by up to 10% when recalculating the district\u2019s rate of taxation after a general reassessment. This Act does not repeal the requirement under \u00a7 1916(b) of Title 14 that a school district recalculate the district\u2019s rate of taxation after a general reassessment, but instead of the 10% maximum, limits the amount of money a district can collect as a result of increases in the fair market value of real property to an amount that is equal to or less than the sum of all of the following:\r\n1. The actual operating revenue derived by the tax levied in the fiscal year immediately preceding the general reassessment.\r\n2. A percentage that is equal to the average growth rate in taxable property in the district since the previous reassessment.\r\n\r\nThis Act also allows school districts to increase a tax approved in a referendum election under Chapter 19 of Title 14 by up to 2% annually without a referendum if the district\u2019s operational reserve balance is not more than 10% of the district\u2019s annual revenue and it is not the same fiscal year that the rate of taxation is recalculated after a general reassessment. This authority will allow school districts to maintain services for students by gradually adjusting to challenges such as inflation, enrollment changes, and increased student needs.\r\n\r\nUnder this Act, the new recalculation equation under \u00a7 1916(b) of Title 14 applies beginning for the fiscal year following the next general reassessment and a school district cannot begin to increase tax rates by no more than 2% without a referendum until after the next general reassessment or for fiscal year 2031, whichever is earlier.\r\n\r\nThis Act does not do any of the following:\r\n\u2022\tAllow school districts to levy an additional tax that is more than 2% without an approved referendum. \r\n\u2022\tChange the differences under current law for tax rates for vocational-technical districts. Under current law and this Act, vocational-technical districts are required to use the same calculations as other school districts when recalculating the rate of taxation after a general reassessment. However, the tax authority for vocational-technical districts is under Chapter 26 of Title 14, not Chapter 19, so the authority to annually increase a tax rate by 2% does not apply to vocational-technical districts.   \r\n\r\nThis Act also makes the following corresponding and technical changes to Chapter 19 of Title 14:\r\n\u2022\tRevises the definitions in \u00a7 1901 by adding \u201cgeneral reassessment\u201d and \u201creassessed\u201d as defined terms and updates the definition of \u201cdistrict\u201d to reflect current school district boundaries.\r\n\u2022\tClarifies that if Chapter 26 applies to a school district, the ability of a district to levy an additional tax under \u00a7 1902(a) does not apply to that district.\r\n\u2022\tTechnical corrections to conform existing law to the standards of the Delaware Legislative Drafting Manual."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "School Districts/Local Taxes/Reassessment/10% to 2%"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb322"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and Assigned to Education Committee in Senate",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Education) in Senate with 4 Favorable",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By Senate. Votes: 18 YES 3 ABSENT",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Assigned to Administration Committee in House",
+      "date": "2026-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee (Administration) in House with 4 On Its Merits, 1 Unfavorable",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Administration",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    },
+    {
+      "description": "Passed By House. Votes: 29 YES 8 NO 2 NOT VOTING 2 ABSENT",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:25Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David P. Sokola",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"David P. Sokola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Townsend",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josue O Ortega",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Josue O Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Trey Paradee",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Trey Paradee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward S. Osienski",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edward S. Osienski\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143323",
+      "note": "text/html"
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:25Z"
+  }
+}

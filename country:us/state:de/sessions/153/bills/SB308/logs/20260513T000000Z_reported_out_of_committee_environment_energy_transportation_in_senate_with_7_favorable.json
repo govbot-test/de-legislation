@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Reported Out of Committee (Environment, Energy & Transportation) in Senate with 7 Favorable",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Environment, Energy & Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143252",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 308"
+}

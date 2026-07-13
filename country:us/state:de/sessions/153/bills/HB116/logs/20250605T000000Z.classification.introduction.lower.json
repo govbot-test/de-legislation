@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "was introduced and adopted in lieu of HB 116",
+    "occurred_at": "2025-06-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=142439",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "HB 116"
+}

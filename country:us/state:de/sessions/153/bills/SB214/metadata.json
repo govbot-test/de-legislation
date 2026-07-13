@@ -1,0 +1,73 @@
+{
+  "legislative_session": "153",
+  "identifier": "SB 214",
+  "title": "AN ACT TO AMEND TITLE 29 OF THE DELAWARE CODE RELATING TO BIOLOGICAL EVIDENCE.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "synopsis",
+      "abstract": "This Act requires the State to preserve all biological evidence in its custody that is secured in relation to an investigation or prosecution of a crime, for the period of time that the crime remains unsolved or the period of time that a person convicted of the crime remains in custody, regardless of whether the person pleaded guilty. \u201cBiological evidence\u201d in this context includes any item that \"contains\" some kind of biological material that was collected as part of a criminal investigation or may reasonably be used to incriminate or exculpate any person for an offense.  \r\n\r\nThe State may destroy evidence that is likely to contain biological evidence before the expiration of those time periods if all of the following are true: (1) more than 5 years have elapsed since the criminal conviction became final and all appeals are exhausted; (2) the evidence is not in relation to an investigation or prosecution of a Class A to Class E felony; (3) no other provision of federal or state law requires the State to preserve the evidence; (4) the State sends certified delivery of written notice of its intent to destroy the evidence to certain specified recipients, including any person who remains in custody as a result of the criminal conviction, delinquency adjudication, or commitment related to the evidence; and (5) no person who has received such notice, within 180 days of receiving the notice, files a motion for testing of evidence under \u00a7 4504 of Title 11 of the Delaware Code or submits a written request for retention of the evidence. In addition, the State is not required to preserve physical evidence that is of a size, bulk, or physical character that makes retention impracticable, but in that case, the State must remove and preserve portions of the evidence that is likely to contain biological evidence related to the offense.\r\n\r\nIf the State is called upon to produce biological evidence that cannot be located and whose preservation was required under the Act, then the court must hold a hearing to determine whether the failure to produce evidence was the result of intentional and willful destruction. If so, the court then must order a postconviction hearing, at which the court will presume that the results of the postconviction DNA testing would have been exculpatory to the petitioner, and impose other appropriate sanctions and order appropriate remedies. If the court determines that the failure to produce evidence was the result of negligence or non-willful destruction, it may provide the appropriate recourse, including ordering a postconviction hearing; at the hearing, presume that the results of the postconviction DNA testing would have been exculpatory to the petitioner; and impose other appropriate sanctions and order appropriate remedies.\r\n\r\nIn addition, the Act requires the Delaware Police Accreditation Commission and Division of Forensic Science to study, promulgate, and implement procedures that effectuate the legislative intent of the Act regarding the proper preservation of biological evidence.\r\n\r\nThe Act takes effect 2 years after its enactment into law.\r\n\r\nThis Act differs from Senate Bill No. 214 in that it revises the definition of biological evidence to include evidence that is likely to contain biological material; requires the State to preserve evidence in a manner consistent with best practices at the time of collection, that prevents contamination, degradation, or reduction of any biological material contained on the evidence; provides that the State may not destroy evidence that is likely to include any biological evidence before the expiration of a certain time period or unless certain conditions are satisfied; and provides examples of remedies that the court may order if the court determines that a failure to produce evidence was the result of intentional and willful destruction or of negligence or non-willful destruction; and takes effect 2 years after enactment, rather than 30 days."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "short title",
+      "title": "Biological Evidence/Preserve/Unsolved Crime"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-de-153-sb214"
+    }
+  ],
+  "actions": [
+    {
+      "description": "was introduced and adopted in lieu of SB 214",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:02:26Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyra L. Hoffner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyra L. Hoffner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legis.delaware.gov/BillDetail?LegislationId=143403",
+      "note": "text/html"
+    }
+  ],
+  "extras": {
+    "substitute": "SS 1"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:de/government",
+    "name": "Delaware",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:de"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:26Z"
+  }
+}

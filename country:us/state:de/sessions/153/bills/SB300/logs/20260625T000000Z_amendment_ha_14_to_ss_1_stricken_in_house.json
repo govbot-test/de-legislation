@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment HA 14 to SS 1 - Stricken in House",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "153",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legis.delaware.gov/BillDetail?LegislationId=143254",
+        "note": "text/html"
+      }
+    ]
+  },
+  "bill_id": "SB 300"
+}
