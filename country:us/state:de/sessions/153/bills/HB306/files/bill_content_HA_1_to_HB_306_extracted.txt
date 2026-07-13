@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 1 to HB 306
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Romer HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 306 AMEND House Bill No. 306 on line 30 by inserting â (a) â before â It â therein. FURTHER AMEND House Bill No. 306 after line 38 and before line 39 by inserting the following: â (b) A person is in compliance with this section, if at the beginning of each interactive session, the person states, in a clear and conspicuous manner, âYou are interacting with a computer, not a human.â â. SYNOPSIS This Amendment to House Bill No. 306 provides a safe harbor, which provides that a person is not in violation of the Act if, at the beginning of each interactive session, the person states, in a clear and conspicuous manner, âYou are interacting with a computer, not a human.â
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Romer HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE BILL NO. 306 AMEND House Bill No. 306 on line 30 by inserting â (a) â before â It â therein. FURTHER AMEND House Bill No. 306 after line 38 and before line 39 by inserting the following: â (b) A person is in compliance with this section, if at the beginning of each interactive session, the person states, in a clear and conspicuous manner, âYou are interacting with a computer, not a human.â â. SYNOPSIS This Amendment to House Bill No. 306 provides a safe harbor, which provides that a person is not in violation of the Act if, at the beginning of each interactive session, the person states, in a clear and conspicuous manner, âYou are interacting with a computer, not a human.â

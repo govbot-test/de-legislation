@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 2 to HCR 147
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â MichaelÂ Smith HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO HOUSE CONCURRENT RESOLUTION NO. 147 AMEND House Concurrent Resolution No. 147 by deleting lines 4, 5, 17 and 18. FURTHER AMEND House Concurrent Resolution No. 147 on line 10 by deleting the date âDecember 31, 2026â, and inserting in lieu there of âMarch 30, 2027. SYNOPSIS This Amendment removes language relating to a randomized, automated case assignment system. Additionally, the requested feasibility report would be due March 30, 2027 instead of December 31, 2026.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â MichaelÂ Smith HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO HOUSE CONCURRENT RESOLUTION NO. 147 AMEND House Concurrent Resolution No. 147 by deleting lines 4, 5, 17 and 18. FURTHER AMEND House Concurrent Resolution No. 147 on line 10 by deleting the date âDecember 31, 2026â, and inserting in lieu there of âMarch 30, 2027. SYNOPSIS This Amendment removes language relating to a randomized, automated case assignment system. Additionally, the requested feasibility report would be due March 30, 2027 instead of December 31, 2026.

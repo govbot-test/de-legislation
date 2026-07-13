@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - SA 1 to SB 326
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Sen.Â Hansen DELAWARE STATE SENATE 153rd GENERAL ASSEMBLY SENATE AMENDMENT NO. 1 TO SENATE BILL NO. 326 AMEND Senate Bill No. 326 on lines 57 and 58 by deleting â prior to â as it appears therein and inserting in lieu thereof â after â. FURTHER AMEND Senate Bill No. 326 on line 136 by deleting â Each Commission-regulated â as it appears therein and inserting in lieu thereof â Unless otherwise ordered by the Commission, each Commission-regulated â. FURTHER AMEND Senate Bill No. 326 on line 137 by deleting â excess of â as it appears therein and inserting in lieu thereof â excess of: for years 2026 and 2027, $70,000,000.00; and for year 2028 and continuing thereafter, â. SYNOPSIS This amendment changes the date by which a utility must provide updated rate summary tables. This amendment also implements a phased in cost cap for the electric distribution company cost cap so as not to impose a reliability risk to electric customers, limiting non-mandatory spending in 2026 and 2027 to an average of the amount that the company has spent in this category for the last 5 years, and to 5% of rate base thereafter. Author: Senator Hansen
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Sen.Â Hansen DELAWARE STATE SENATE 153rd GENERAL ASSEMBLY SENATE AMENDMENT NO. 1 TO SENATE BILL NO. 326 AMEND Senate Bill No. 326 on lines 57 and 58 by deleting â prior to â as it appears therein and inserting in lieu thereof â after â. FURTHER AMEND Senate Bill No. 326 on line 136 by deleting â Each Commission-regulated â as it appears therein and inserting in lieu thereof â Unless otherwise ordered by the Commission, each Commission-regulated â. FURTHER AMEND Senate Bill No. 326 on line 137 by deleting â excess of â as it appears therein and inserting in lieu thereof â excess of: for years 2026 and 2027, $70,000,000.00; and for year 2028 and continuing thereafter, â. SYNOPSIS This amendment changes the date by which a utility must provide updated rate summary tables. This amendment also implements a phased in cost cap for the electric distribution company cost cap so as not to impose a reliability risk to electric customers, limiting non-mandatory spending in 2026 and 2027 to an average of the amount that the company has spent in this category for the last 5 years, and to 5% of rate base thereafter. Author: Senator Hansen

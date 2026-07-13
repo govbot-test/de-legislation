@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 3 to HS 1 for HB 233
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 3 TO HOUSE SUBSTITUTE NO. 1 FOR HOUSE BILL NO. 233 AMEND House Substitute No. 1 for House Bill No. 233 by inserting the following after line 76 and before line 77: â c. âLarge energy use facilityâ does not include a facility that stores, processes, refines, or transfers crude petroleum or petroleum products in bulk quantities, including refineries. This exemption does not apply to a facility that, after [the effective date of this Act] adds uses unrelated to the storage, processing, refining, or transfer of crude petroleum, petroleum products in bulk quantities, or other energy storage materials, if the additional uses cause the facility to meet the thresholds in paragraph ()a. of this section. â. SYNOPSIS This amendment exempts bulk petroleum facilities from the definition of large energy use facility, unless the facility expands to uses other than those related to crude petroleum, petroleum products in bulk quantities, and other energy storage materials after the effective date of this Act.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Burns HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 3 TO HOUSE SUBSTITUTE NO. 1 FOR HOUSE BILL NO. 233 AMEND House Substitute No. 1 for House Bill No. 233 by inserting the following after line 76 and before line 77: â c. âLarge energy use facilityâ does not include a facility that stores, processes, refines, or transfers crude petroleum or petroleum products in bulk quantities, including refineries. This exemption does not apply to a facility that, after [the effective date of this Act] adds uses unrelated to the storage, processing, refining, or transfer of crude petroleum, petroleum products in bulk quantities, or other energy storage materials, if the additional uses cause the facility to meet the thresholds in paragraph ()a. of this section. â. SYNOPSIS This amendment exempts bulk petroleum facilities from the definition of large energy use facility, unless the facility expands to uses other than those related to crude petroleum, petroleum products in bulk quantities, and other energy storage materials after the effective date of this Act.

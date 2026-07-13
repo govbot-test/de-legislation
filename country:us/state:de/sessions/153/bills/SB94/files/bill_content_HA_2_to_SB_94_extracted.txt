@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 2 to SB 94
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Heffernan & Rep.Â JonesÂ Giltner HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO SENATE BILL NO. 94 AMEND Senate Bill No. 94 by deleting lines 30 and 31 in their entirety and inserting in lieu thereof the following: â (11) Management of extracorporeal membrane oxygenation (ECMO), extracorporeal carbon dioxide removal (ECCO2R) and associated integrated therapies. âAssociated integrated therapiesâ means any clinical interventions, equipment, or procedures that are functionally or technically integrated with ECMO or ECCO2R systems, including renal replacement therapy, mechanical ventilation, and anticoagulation management. â. SYNOPSIS This Amendment clarifies the scope of practice for a respiratory care practitioner by explicitly including the management of extracorporeal life support and associated integrated therapies, and defining the term "associated integrated therapies."
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Heffernan & Rep.Â JonesÂ Giltner HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 2 TO SENATE BILL NO. 94 AMEND Senate Bill No. 94 by deleting lines 30 and 31 in their entirety and inserting in lieu thereof the following: â (11) Management of extracorporeal membrane oxygenation (ECMO), extracorporeal carbon dioxide removal (ECCO2R) and associated integrated therapies. âAssociated integrated therapiesâ means any clinical interventions, equipment, or procedures that are functionally or technically integrated with ECMO or ECCO2R systems, including renal replacement therapy, mechanical ventilation, and anticoagulation management. â. SYNOPSIS This Amendment clarifies the scope of practice for a respiratory care practitioner by explicitly including the management of extracorporeal life support and associated integrated therapies, and defining the term "associated integrated therapies."

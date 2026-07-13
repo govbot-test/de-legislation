@@ -1,0 +1,16 @@
+Title: Legislation Document
+Official Title: 
+Number of Sections: 1
+Source: versions - HA 1 to HS 1 for HB 320
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Legislation Document SPONSOR: Rep.Â Osienski HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE SUBSTITUTE NO. 1 FOR HOUSE BILL NO. 320 AMEND House Substitute No. 1 for House Bill No. 320 by inserting the following after line 150: âSection 12. Amend Â§ 18, Article I of the Delaware Constitution by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 18. Prohibition against quartering soldiers in homes. No soldier shall in time of peace be quartered in any house without the consent of the owner; nor in time of war but by a civil magistrate, in a manner to be prescribed by law.â. SYNOPSIS This Amendment corrects a grammatical error in Section 18 of Article I of the Delaware Constitution by adding "a" between "in" and "manner". At the Constitutional Convention of 1897, the Committee of the Whole adopted the phrase âin a mannerâ, which was consistent with previous versions of this Section that appeared in the 1792 and 1831 versions of the Delaware Constitution. However, when Section 18 of Article I was presented to the Convention for final approval, the phrase read âin manner". This error, brought to the attention of Delaware Law Related Education Center by a member of the Delaware Bar, is being documented by a University of Delaware student as an aid for teaching Delaware students about the process of amending their state constitution.
+
+
+================================================================================
+
+Raw Text:
+Legislation Document SPONSOR: Rep.Â Osienski HOUSE OF REPRESENTATIVES 153rd GENERAL ASSEMBLY HOUSE AMENDMENT NO. 1 TO HOUSE SUBSTITUTE NO. 1 FOR HOUSE BILL NO. 320 AMEND House Substitute No. 1 for House Bill No. 320 by inserting the following after line 150: âSection 12. Amend Â§ 18, Article I of the Delaware Constitution by making deletions as shown by strike through and insertions as shown by underline as follows: Â§ 18. Prohibition against quartering soldiers in homes. No soldier shall in time of peace be quartered in any house without the consent of the owner; nor in time of war but by a civil magistrate, in a manner to be prescribed by law.â. SYNOPSIS This Amendment corrects a grammatical error in Section 18 of Article I of the Delaware Constitution by adding "a" between "in" and "manner". At the Constitutional Convention of 1897, the Committee of the Whole adopted the phrase âin a mannerâ, which was consistent with previous versions of this Section that appeared in the 1792 and 1831 versions of the Delaware Constitution. However, when Section 18 of Article I was presented to the Convention for final approval, the phrase read âin manner". This error, brought to the attention of Delaware Law Related Education Center by a member of the Delaware Bar, is being documented by a University of Delaware student as an aid for teaching Delaware students about the process of amending their state constitution.
