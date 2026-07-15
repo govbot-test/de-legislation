@@ -123,6 +123,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:24Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -148,6 +160,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bryan Townsend\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
       "organization_id": null
     },
     {
@@ -178,7 +198,16 @@
   "related_bills": [],
   "versions": [],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 302",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=142881",
@@ -193,7 +222,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:24Z",
+    "logs_latest_update": "2026-07-15T13:29:50Z",
     "text_extraction_latest_update": "2026-07-15T10:01:31.400758Z"
   }
 }

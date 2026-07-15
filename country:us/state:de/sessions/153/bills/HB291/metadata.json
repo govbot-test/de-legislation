@@ -124,6 +124,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:25Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +180,14 @@
       "organization_id": null
     },
     {
+      "name": "Kerri Evelyn Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kerri Evelyn Harris\"}",
+      "organization_id": null
+    },
+    {
       "name": "David P. Sokola",
       "classification": "primary",
       "entity_type": "person",
@@ -206,12 +226,29 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sarah McBride\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nicole Poore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Poore\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 298",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=142879",
@@ -226,7 +263,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:25Z",
+    "logs_latest_update": "2026-07-15T13:29:50Z",
     "text_extraction_latest_update": "2026-07-15T10:01:31.308419Z"
   }
 }

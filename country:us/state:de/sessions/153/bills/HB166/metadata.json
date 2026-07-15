@@ -123,6 +123,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:26Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -240,25 +252,18 @@
     }
   ],
   "related_bills": [],
-  "versions": [
+  "versions": [],
+  "documents": [],
+  "citations": [
     {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142301&legislationTypeId=1&docTypeId=2&legislationName=HB166",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142301&legislationTypeId=1&docTypeId=2&legislationName=HB166",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 294",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
     }
   ],
-  "documents": [],
-  "citations": [],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=142301",
@@ -273,7 +278,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:26Z",
+    "logs_latest_update": "2026-07-15T13:29:50Z",
     "text_extraction_latest_update": "2026-07-13T09:09:50.533466Z"
   }
 }

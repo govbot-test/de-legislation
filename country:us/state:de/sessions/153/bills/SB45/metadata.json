@@ -147,6 +147,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:25Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,31 +203,40 @@
       "organization_id": null
     },
     {
+      "name": "Stell Parker Selby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stell Parker Selby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William J. Carson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William J. Carson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Daniel B. Short",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel B. Short\"}",
       "organization_id": null
+    },
+    {
+      "name": "Claire Snyder-Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Claire Snyder-Hall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
-    {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141796&legislationTypeId=1&docTypeId=2&legislationName=SB45",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=141796&legislationTypeId=1&docTypeId=2&legislationName=SB45",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
     {
       "note": "SA 1 to SB 45",
       "links": [
@@ -233,7 +254,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 297",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=141796",
@@ -250,7 +280,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:25Z",
+    "logs_latest_update": "2026-07-15T13:29:50Z",
     "text_extraction_latest_update": "2026-07-13T09:19:04.769920Z"
   }
 }

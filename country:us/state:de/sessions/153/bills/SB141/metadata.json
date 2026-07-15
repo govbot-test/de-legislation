@@ -147,6 +147,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:25Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:29:50Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,21 +182,6 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "Bill Text",
-      "links": [
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142274&legislationTypeId=1&docTypeId=2&legislationName=SB141",
-          "media_type": "text/html"
-        },
-        {
-          "url": "https://legis.delaware.gov/json/BillDetail/GeneratePdfDocument?legislationId=142274&legislationTypeId=1&docTypeId=2&legislationName=SB141",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "SA 1 to SB 141",
       "links": [
         {
@@ -201,7 +198,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "The Laws of Delaware",
+      "citation": "Volume 85 Chapter 316",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legis.delaware.gov/BillDetail?LegislationId=142274",
@@ -218,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:25Z",
+    "logs_latest_update": "2026-07-15T13:29:50Z",
     "text_extraction_latest_update": "2026-07-13T09:23:36.513092Z"
   }
 }
