@@ -95,6 +95,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:02:26Z"
       }
+    },
+    {
+      "description": "Signed by Governor",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:06:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -205,7 +217,7 @@
     "division_id": "ocd-division/country:us/state:de"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:02:26Z",
+    "logs_latest_update": "2026-07-21T08:06:22Z",
     "text_extraction_latest_update": "2026-07-20T10:50:26.681275Z"
   }
 }
